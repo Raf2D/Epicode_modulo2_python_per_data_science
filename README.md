@@ -3,3 +3,4 @@ repository che contiene gli esercizi del corso con epicode di python, Ai e Machi
 - 01_introduzione_data_science_e_analysis: contiene il primo esercizio della lezione introduzione data science e data analysys
 - 02_operazioni_vettoriali_e_ottimizzazioni_con_pandas: contiene gli esercizi della lezione Operazioni vettoriali e ottimizzazione con Pandas
 - 03_gestione_valori_mancati: contiene gli esercizi della lezione Gestione valori mancanti: imputazione avanzata e algoritmi
+- 04_rilevamento_e_gestione_outlier_con_tecniche_statistiche_e_ML: contiene gli esercizi della lezione omonima
