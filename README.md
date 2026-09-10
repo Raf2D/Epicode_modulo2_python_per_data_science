@@ -7,3 +7,4 @@ repository che contiene gli esercizi del corso con epicode di python, Ai e Machi
 - 05_manipolazione_avanzata_di_stringhe_e_dati_temporali: contiene gli esercizi della lezione omonima
 - 06_indicizzazione_avanzata_e_gestione_sicura_dei_dati: contiene gli esercizi della lezione omonima
 - 07_esercizi_pratici_manipolazione_e_pulizia_con_pandas: contiene 3 esercizi che applicano pulizia stringhe, manipolazione e feature engineering
+- 08_progetto_1_previsione_vendite: esercizi del progetto 1- Previsione Vendite - del modulo 2. Python per Data Science
