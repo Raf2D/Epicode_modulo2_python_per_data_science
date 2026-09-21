@@ -1,0 +1,3 @@
+{"id_store":"STORE_001","nome_store":"Milano Duomo","citta":"Milano","regione":"Lombardia","superficie_mq":450,"attivo":true}
+{"id_store":"STORE_002","nome_store":"Roma Centro","citta":"Roma","regione":"Lazio","superficie_mq":600,"attivo":true}
+{"id_store":"STORE_003","nome_store":"Torino Via Roma","citta":"Torino","regione":"Piemonte","superficie_mq":320,"attivo":true}
