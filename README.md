@@ -9,3 +9,4 @@ repository che contiene gli esercizi del corso con epicode di python, Ai e Machi
 - 07_esercizi_pratici_manipolazione_e_pulizia_con_pandas: contiene 3 esercizi che applicano pulizia stringhe, manipolazione e feature engineering
 - 08_progetto_1_previsione_vendite: esercizi del progetto 1- Previsione Vendite - del modulo 2. Python per Data Science
 - 09_creazione_avanzata_DataFrame_da_CSV_JSON_database_relazionali: esercizi di fine lezione - Creazione avanzata DataFrame da CSV, JSON e database relazionali
+- 10_creazione_dataframe_da_strutture_complesse: esercizi di fine lezione - DataFrame da strutture complesse (array NumPy, nested dict, API)
