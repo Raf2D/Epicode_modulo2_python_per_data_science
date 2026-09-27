@@ -1,0 +1,5001 @@
+ClienteID,Nome,Segmento,Regione
+1,Cliente_1,Premium,Marche
+2,Cliente_2,Standard,Umbria
+3,Cliente_3,Standard,Abruzzo
+4,Cliente_4,Premium,Campania
+5,Cliente_5,Premium,Umbria
+6,Cliente_6,Premium,Molise
+7,Cliente_7,Standard,Abruzzo
+8,Cliente_8,Premium,Sardegna
+9,Cliente_9,Standard,Veneto
+10,Cliente_10,Standard,Liguria
+11,Cliente_11,Premium,Piemonte
+12,Cliente_12,Premium,Abruzzo
+13,Cliente_13,Standard,Lazio
+14,Cliente_14,Standard,Toscana
+15,Cliente_15,Standard,Trentino-Alto Adige
+16,Cliente_16,Standard,Calabria
+17,Cliente_17,Standard,Calabria
+18,Cliente_18,Premium,Emilia-Romagna
+19,Cliente_19,Standard,Lombardia
+20,Cliente_20,Standard,Sicilia
+21,Cliente_21,Standard,Valle d'Aosta
+22,Cliente_22,Premium,Emilia-Romagna
+23,Cliente_23,Standard,Friuli-Venezia Giulia
+24,Cliente_24,Standard,Trentino-Alto Adige
+25,Cliente_25,Premium,Lazio
+26,Cliente_26,Premium,Toscana
+27,Cliente_27,Premium,Toscana
+28,Cliente_28,Standard,Friuli-Venezia Giulia
+29,Cliente_29,Standard,Liguria
+30,Cliente_30,Premium,Umbria
+31,Cliente_31,Premium,Molise
+32,Cliente_32,Standard,Piemonte
+33,Cliente_33,Premium,Trentino-Alto Adige
+34,Cliente_34,Premium,Emilia-Romagna
+35,Cliente_35,Premium,Liguria
+36,Cliente_36,Standard,Sicilia
+37,Cliente_37,Premium,Lazio
+38,Cliente_38,Standard,Umbria
+39,Cliente_39,Standard,Friuli-Venezia Giulia
+40,Cliente_40,Standard,Calabria
+41,Cliente_41,Premium,Trentino-Alto Adige
+42,Cliente_42,Standard,Umbria
+43,Cliente_43,Standard,Liguria
+44,Cliente_44,Standard,Veneto
+45,Cliente_45,Premium,Toscana
+46,Cliente_46,Premium,Veneto
+47,Cliente_47,Premium,Marche
+48,Cliente_48,Premium,Friuli-Venezia Giulia
+49,Cliente_49,Standard,Emilia-Romagna
+50,Cliente_50,Premium,Liguria
+51,Cliente_51,Standard,Calabria
+52,Cliente_52,Standard,Valle d'Aosta
+53,Cliente_53,Standard,Molise
+54,Cliente_54,Standard,Emilia-Romagna
+55,Cliente_55,Premium,Veneto
+56,Cliente_56,Standard,Toscana
+57,Cliente_57,Standard,Liguria
+58,Cliente_58,Standard,Liguria
+59,Cliente_59,Standard,Veneto
+60,Cliente_60,Standard,Sardegna
+61,Cliente_61,Standard,Valle d'Aosta
+62,Cliente_62,Premium,Puglia
+63,Cliente_63,Premium,Molise
+64,Cliente_64,Standard,Puglia
+65,Cliente_65,Premium,Valle d'Aosta
+66,Cliente_66,Premium,Sardegna
+67,Cliente_67,Standard,Sardegna
+68,Cliente_68,Premium,Lazio
+69,Cliente_69,Standard,Sicilia
+70,Cliente_70,Standard,Trentino-Alto Adige
+71,Cliente_71,Standard,Umbria
+72,Cliente_72,Standard,Valle d'Aosta
+73,Cliente_73,Standard,Trentino-Alto Adige
+74,Cliente_74,Standard,Umbria
+75,Cliente_75,Premium,Lombardia
+76,Cliente_76,Standard,Emilia-Romagna
+77,Cliente_77,Standard,Molise
+78,Cliente_78,Standard,Lazio
+79,Cliente_79,Premium,Lombardia
+80,Cliente_80,Premium,Liguria
+81,Cliente_81,Premium,Piemonte
+82,Cliente_82,Standard,Friuli-Venezia Giulia
+83,Cliente_83,Standard,Abruzzo
+84,Cliente_84,Premium,Puglia
+85,Cliente_85,Standard,Marche
+86,Cliente_86,Premium,Piemonte
+87,Cliente_87,Premium,Valle d'Aosta
+88,Cliente_88,Standard,Campania
+89,Cliente_89,Premium,Liguria
+90,Cliente_90,Standard,Lazio
+91,Cliente_91,Standard,Lombardia
+92,Cliente_92,Premium,Toscana
+93,Cliente_93,Premium,Sardegna
+94,Cliente_94,Premium,Molise
+95,Cliente_95,Premium,Molise
+96,Cliente_96,Standard,Veneto
+97,Cliente_97,Standard,Lombardia
+98,Cliente_98,Standard,Valle d'Aosta
+99,Cliente_99,Standard,Molise
+100,Cliente_100,Standard,Marche
+101,Cliente_101,Premium,Puglia
+102,Cliente_102,Standard,Sicilia
+103,Cliente_103,Premium,Piemonte
+104,Cliente_104,Standard,Sardegna
+105,Cliente_105,Standard,Lombardia
+106,Cliente_106,Standard,Campania
+107,Cliente_107,Premium,Marche
+108,Cliente_108,Premium,Trentino-Alto Adige
+109,Cliente_109,Standard,Trentino-Alto Adige
+110,Cliente_110,Premium,Campania
+111,Cliente_111,Premium,Calabria
+112,Cliente_112,Standard,Basilicata
+113,Cliente_113,Premium,Molise
+114,Cliente_114,Premium,Marche
+115,Cliente_115,Premium,Marche
+116,Cliente_116,Premium,Sicilia
+117,Cliente_117,Premium,Molise
+118,Cliente_118,Standard,Marche
+119,Cliente_119,Standard,Lazio
+120,Cliente_120,Premium,Calabria
+121,Cliente_121,Standard,Valle d'Aosta
+122,Cliente_122,Premium,Sicilia
+123,Cliente_123,Premium,Sicilia
+124,Cliente_124,Premium,Puglia
+125,Cliente_125,Standard,Valle d'Aosta
+126,Cliente_126,Standard,Abruzzo
+127,Cliente_127,Premium,Liguria
+128,Cliente_128,Standard,Lazio
+129,Cliente_129,Premium,Lazio
+130,Cliente_130,Standard,Liguria
+131,Cliente_131,Premium,Sardegna
+132,Cliente_132,Standard,Abruzzo
+133,Cliente_133,Standard,Basilicata
+134,Cliente_134,Premium,Calabria
+135,Cliente_135,Premium,Piemonte
+136,Cliente_136,Premium,Campania
+137,Cliente_137,Standard,Valle d'Aosta
+138,Cliente_138,Premium,Emilia-Romagna
+139,Cliente_139,Standard,Umbria
+140,Cliente_140,Standard,Lazio
+141,Cliente_141,Premium,Sardegna
+142,Cliente_142,Premium,Sicilia
+143,Cliente_143,Standard,Abruzzo
+144,Cliente_144,Premium,Toscana
+145,Cliente_145,Premium,Piemonte
+146,Cliente_146,Standard,Basilicata
+147,Cliente_147,Standard,Lombardia
+148,Cliente_148,Premium,Marche
+149,Cliente_149,Premium,Lazio
+150,Cliente_150,Standard,Abruzzo
+151,Cliente_151,Standard,Abruzzo
+152,Cliente_152,Premium,Abruzzo
+153,Cliente_153,Standard,Calabria
+154,Cliente_154,Premium,Lazio
+155,Cliente_155,Standard,Lombardia
+156,Cliente_156,Standard,Emilia-Romagna
+157,Cliente_157,Standard,Veneto
+158,Cliente_158,Premium,Lombardia
+159,Cliente_159,Standard,Molise
+160,Cliente_160,Standard,Sardegna
+161,Cliente_161,Standard,Molise
+162,Cliente_162,Standard,Abruzzo
+163,Cliente_163,Standard,Calabria
+164,Cliente_164,Premium,Abruzzo
+165,Cliente_165,Premium,Sicilia
+166,Cliente_166,Standard,Campania
+167,Cliente_167,Standard,Piemonte
+168,Cliente_168,Standard,Abruzzo
+169,Cliente_169,Standard,Trentino-Alto Adige
+170,Cliente_170,Standard,Sicilia
+171,Cliente_171,Standard,Lombardia
+172,Cliente_172,Standard,Sicilia
+173,Cliente_173,Standard,Piemonte
+174,Cliente_174,Standard,Trentino-Alto Adige
+175,Cliente_175,Standard,Marche
+176,Cliente_176,Standard,Puglia
+177,Cliente_177,Standard,Molise
+178,Cliente_178,Standard,Liguria
+179,Cliente_179,Premium,Sardegna
+180,Cliente_180,Premium,Liguria
+181,Cliente_181,Standard,Valle d'Aosta
+182,Cliente_182,Standard,Calabria
+183,Cliente_183,Standard,Valle d'Aosta
+184,Cliente_184,Premium,Sardegna
+185,Cliente_185,Premium,Valle d'Aosta
+186,Cliente_186,Standard,Campania
+187,Cliente_187,Premium,Piemonte
+188,Cliente_188,Premium,Lombardia
+189,Cliente_189,Premium,Basilicata
+190,Cliente_190,Premium,Trentino-Alto Adige
+191,Cliente_191,Standard,Marche
+192,Cliente_192,Premium,Marche
+193,Cliente_193,Premium,Abruzzo
+194,Cliente_194,Premium,Toscana
+195,Cliente_195,Premium,Toscana
+196,Cliente_196,Standard,Sardegna
+197,Cliente_197,Premium,Valle d'Aosta
+198,Cliente_198,Standard,Sicilia
+199,Cliente_199,Premium,Campania
+200,Cliente_200,Standard,Basilicata
+201,Cliente_201,Premium,Campania
+202,Cliente_202,Premium,Lazio
+203,Cliente_203,Premium,Umbria
+204,Cliente_204,Premium,Lazio
+205,Cliente_205,Standard,Valle d'Aosta
+206,Cliente_206,Standard,Toscana
+207,Cliente_207,Premium,Sardegna
+208,Cliente_208,Standard,Sardegna
+209,Cliente_209,Premium,Trentino-Alto Adige
+210,Cliente_210,Standard,Liguria
+211,Cliente_211,Premium,Campania
+212,Cliente_212,Standard,Piemonte
+213,Cliente_213,Standard,Piemonte
+214,Cliente_214,Standard,Sicilia
+215,Cliente_215,Premium,Puglia
+216,Cliente_216,Standard,Veneto
+217,Cliente_217,Premium,Piemonte
+218,Cliente_218,Premium,Abruzzo
+219,Cliente_219,Premium,Toscana
+220,Cliente_220,Premium,Emilia-Romagna
+221,Cliente_221,Standard,Molise
+222,Cliente_222,Standard,Veneto
+223,Cliente_223,Standard,Molise
+224,Cliente_224,Premium,Calabria
+225,Cliente_225,Premium,Abruzzo
+226,Cliente_226,Premium,Trentino-Alto Adige
+227,Cliente_227,Standard,Lombardia
+228,Cliente_228,Standard,Toscana
+229,Cliente_229,Standard,Calabria
+230,Cliente_230,Premium,Umbria
+231,Cliente_231,Premium,Liguria
+232,Cliente_232,Premium,Valle d'Aosta
+233,Cliente_233,Premium,Piemonte
+234,Cliente_234,Standard,Puglia
+235,Cliente_235,Premium,Piemonte
+236,Cliente_236,Standard,Toscana
+237,Cliente_237,Standard,Lombardia
+238,Cliente_238,Premium,Emilia-Romagna
+239,Cliente_239,Standard,Valle d'Aosta
+240,Cliente_240,Premium,Friuli-Venezia Giulia
+241,Cliente_241,Premium,Emilia-Romagna
+242,Cliente_242,Standard,Campania
+243,Cliente_243,Premium,Lombardia
+244,Cliente_244,Premium,Umbria
+245,Cliente_245,Premium,Abruzzo
+246,Cliente_246,Standard,Sardegna
+247,Cliente_247,Premium,Molise
+248,Cliente_248,Premium,Lazio
+249,Cliente_249,Premium,Trentino-Alto Adige
+250,Cliente_250,Premium,Liguria
+251,Cliente_251,Premium,Umbria
+252,Cliente_252,Standard,Toscana
+253,Cliente_253,Standard,Valle d'Aosta
+254,Cliente_254,Premium,Molise
+255,Cliente_255,Premium,Veneto
+256,Cliente_256,Standard,Abruzzo
+257,Cliente_257,Standard,Veneto
+258,Cliente_258,Standard,Molise
+259,Cliente_259,Standard,Umbria
+260,Cliente_260,Standard,Puglia
+261,Cliente_261,Standard,Piemonte
+262,Cliente_262,Premium,Emilia-Romagna
+263,Cliente_263,Premium,Lombardia
+264,Cliente_264,Standard,Piemonte
+265,Cliente_265,Premium,Veneto
+266,Cliente_266,Standard,Veneto
+267,Cliente_267,Standard,Emilia-Romagna
+268,Cliente_268,Premium,Emilia-Romagna
+269,Cliente_269,Standard,Sicilia
+270,Cliente_270,Premium,Emilia-Romagna
+271,Cliente_271,Standard,Molise
+272,Cliente_272,Premium,Veneto
+273,Cliente_273,Premium,Basilicata
+274,Cliente_274,Standard,Calabria
+275,Cliente_275,Standard,Abruzzo
+276,Cliente_276,Standard,Friuli-Venezia Giulia
+277,Cliente_277,Premium,Sicilia
+278,Cliente_278,Premium,Valle d'Aosta
+279,Cliente_279,Standard,Piemonte
+280,Cliente_280,Standard,Abruzzo
+281,Cliente_281,Standard,Valle d'Aosta
+282,Cliente_282,Premium,Marche
+283,Cliente_283,Premium,Friuli-Venezia Giulia
+284,Cliente_284,Standard,Calabria
+285,Cliente_285,Standard,Lombardia
+286,Cliente_286,Standard,Emilia-Romagna
+287,Cliente_287,Standard,Puglia
+288,Cliente_288,Standard,Piemonte
+289,Cliente_289,Premium,Piemonte
+290,Cliente_290,Standard,Marche
+291,Cliente_291,Premium,Friuli-Venezia Giulia
+292,Cliente_292,Premium,Toscana
+293,Cliente_293,Premium,Sardegna
+294,Cliente_294,Standard,Umbria
+295,Cliente_295,Premium,Marche
+296,Cliente_296,Standard,Marche
+297,Cliente_297,Standard,Sardegna
+298,Cliente_298,Standard,Emilia-Romagna
+299,Cliente_299,Premium,Campania
+300,Cliente_300,Premium,Molise
+301,Cliente_301,Premium,Veneto
+302,Cliente_302,Standard,Calabria
+303,Cliente_303,Premium,Basilicata
+304,Cliente_304,Standard,Piemonte
+305,Cliente_305,Standard,Sardegna
+306,Cliente_306,Premium,Sicilia
+307,Cliente_307,Standard,Lombardia
+308,Cliente_308,Premium,Umbria
+309,Cliente_309,Premium,Trentino-Alto Adige
+310,Cliente_310,Premium,Piemonte
+311,Cliente_311,Premium,Sardegna
+312,Cliente_312,Premium,Sicilia
+313,Cliente_313,Premium,Umbria
+314,Cliente_314,Standard,Emilia-Romagna
+315,Cliente_315,Standard,Piemonte
+316,Cliente_316,Premium,Abruzzo
+317,Cliente_317,Standard,Friuli-Venezia Giulia
+318,Cliente_318,Standard,Emilia-Romagna
+319,Cliente_319,Standard,Calabria
+320,Cliente_320,Standard,Veneto
+321,Cliente_321,Standard,Campania
+322,Cliente_322,Premium,Sicilia
+323,Cliente_323,Premium,Veneto
+324,Cliente_324,Standard,Piemonte
+325,Cliente_325,Premium,Puglia
+326,Cliente_326,Premium,Veneto
+327,Cliente_327,Standard,Marche
+328,Cliente_328,Standard,Trentino-Alto Adige
+329,Cliente_329,Premium,Liguria
+330,Cliente_330,Premium,Trentino-Alto Adige
+331,Cliente_331,Standard,Liguria
+332,Cliente_332,Standard,Sardegna
+333,Cliente_333,Standard,Campania
+334,Cliente_334,Standard,Abruzzo
+335,Cliente_335,Standard,Sardegna
+336,Cliente_336,Premium,Molise
+337,Cliente_337,Premium,Toscana
+338,Cliente_338,Premium,Marche
+339,Cliente_339,Standard,Molise
+340,Cliente_340,Standard,Trentino-Alto Adige
+341,Cliente_341,Standard,Trentino-Alto Adige
+342,Cliente_342,Standard,Trentino-Alto Adige
+343,Cliente_343,Standard,Liguria
+344,Cliente_344,Standard,Sicilia
+345,Cliente_345,Standard,Sicilia
+346,Cliente_346,Premium,Calabria
+347,Cliente_347,Premium,Lazio
+348,Cliente_348,Premium,Sardegna
+349,Cliente_349,Standard,Lazio
+350,Cliente_350,Standard,Piemonte
+351,Cliente_351,Standard,Basilicata
+352,Cliente_352,Standard,Emilia-Romagna
+353,Cliente_353,Premium,Abruzzo
+354,Cliente_354,Premium,Puglia
+355,Cliente_355,Premium,Lazio
+356,Cliente_356,Standard,Valle d'Aosta
+357,Cliente_357,Standard,Veneto
+358,Cliente_358,Premium,Basilicata
+359,Cliente_359,Standard,Liguria
+360,Cliente_360,Standard,Sardegna
+361,Cliente_361,Premium,Calabria
+362,Cliente_362,Premium,Veneto
+363,Cliente_363,Standard,Veneto
+364,Cliente_364,Standard,Basilicata
+365,Cliente_365,Standard,Umbria
+366,Cliente_366,Standard,Puglia
+367,Cliente_367,Standard,Friuli-Venezia Giulia
+368,Cliente_368,Premium,Umbria
+369,Cliente_369,Premium,Molise
+370,Cliente_370,Standard,Toscana
+371,Cliente_371,Premium,Liguria
+372,Cliente_372,Premium,Marche
+373,Cliente_373,Premium,Trentino-Alto Adige
+374,Cliente_374,Standard,Molise
+375,Cliente_375,Standard,Piemonte
+376,Cliente_376,Standard,Veneto
+377,Cliente_377,Premium,Veneto
+378,Cliente_378,Standard,Basilicata
+379,Cliente_379,Standard,Basilicata
+380,Cliente_380,Premium,Emilia-Romagna
+381,Cliente_381,Premium,Basilicata
+382,Cliente_382,Premium,Abruzzo
+383,Cliente_383,Premium,Sicilia
+384,Cliente_384,Premium,Puglia
+385,Cliente_385,Premium,Emilia-Romagna
+386,Cliente_386,Standard,Marche
+387,Cliente_387,Premium,Campania
+388,Cliente_388,Standard,Calabria
+389,Cliente_389,Standard,Campania
+390,Cliente_390,Standard,Veneto
+391,Cliente_391,Standard,Liguria
+392,Cliente_392,Premium,Basilicata
+393,Cliente_393,Standard,Lombardia
+394,Cliente_394,Standard,Emilia-Romagna
+395,Cliente_395,Premium,Sicilia
+396,Cliente_396,Standard,Calabria
+397,Cliente_397,Premium,Campania
+398,Cliente_398,Premium,Piemonte
+399,Cliente_399,Standard,Campania
+400,Cliente_400,Premium,Emilia-Romagna
+401,Cliente_401,Premium,Molise
+402,Cliente_402,Premium,Piemonte
+403,Cliente_403,Premium,Toscana
+404,Cliente_404,Premium,Abruzzo
+405,Cliente_405,Standard,Trentino-Alto Adige
+406,Cliente_406,Standard,Trentino-Alto Adige
+407,Cliente_407,Premium,Veneto
+408,Cliente_408,Standard,Emilia-Romagna
+409,Cliente_409,Premium,Molise
+410,Cliente_410,Standard,Marche
+411,Cliente_411,Standard,Emilia-Romagna
+412,Cliente_412,Standard,Basilicata
+413,Cliente_413,Standard,Umbria
+414,Cliente_414,Standard,Lazio
+415,Cliente_415,Premium,Valle d'Aosta
+416,Cliente_416,Premium,Marche
+417,Cliente_417,Standard,Calabria
+418,Cliente_418,Premium,Trentino-Alto Adige
+419,Cliente_419,Premium,Campania
+420,Cliente_420,Standard,Marche
+421,Cliente_421,Premium,Campania
+422,Cliente_422,Premium,Lombardia
+423,Cliente_423,Standard,Emilia-Romagna
+424,Cliente_424,Standard,Molise
+425,Cliente_425,Standard,Basilicata
+426,Cliente_426,Premium,Sardegna
+427,Cliente_427,Premium,Basilicata
+428,Cliente_428,Standard,Liguria
+429,Cliente_429,Premium,Liguria
+430,Cliente_430,Standard,Toscana
+431,Cliente_431,Premium,Calabria
+432,Cliente_432,Premium,Calabria
+433,Cliente_433,Premium,Lombardia
+434,Cliente_434,Standard,Toscana
+435,Cliente_435,Standard,Sicilia
+436,Cliente_436,Standard,Marche
+437,Cliente_437,Standard,Puglia
+438,Cliente_438,Premium,Toscana
+439,Cliente_439,Standard,Marche
+440,Cliente_440,Premium,Liguria
+441,Cliente_441,Standard,Abruzzo
+442,Cliente_442,Premium,Emilia-Romagna
+443,Cliente_443,Premium,Lazio
+444,Cliente_444,Premium,Calabria
+445,Cliente_445,Standard,Trentino-Alto Adige
+446,Cliente_446,Premium,Piemonte
+447,Cliente_447,Standard,Molise
+448,Cliente_448,Standard,Lombardia
+449,Cliente_449,Standard,Marche
+450,Cliente_450,Premium,Emilia-Romagna
+451,Cliente_451,Premium,Lombardia
+452,Cliente_452,Standard,Liguria
+453,Cliente_453,Premium,Emilia-Romagna
+454,Cliente_454,Standard,Marche
+455,Cliente_455,Premium,Campania
+456,Cliente_456,Standard,Puglia
+457,Cliente_457,Standard,Lombardia
+458,Cliente_458,Standard,Veneto
+459,Cliente_459,Standard,Piemonte
+460,Cliente_460,Premium,Lombardia
+461,Cliente_461,Standard,Friuli-Venezia Giulia
+462,Cliente_462,Premium,Puglia
+463,Cliente_463,Premium,Friuli-Venezia Giulia
+464,Cliente_464,Premium,Puglia
+465,Cliente_465,Standard,Valle d'Aosta
+466,Cliente_466,Premium,Sicilia
+467,Cliente_467,Standard,Toscana
+468,Cliente_468,Premium,Sardegna
+469,Cliente_469,Standard,Liguria
+470,Cliente_470,Standard,Abruzzo
+471,Cliente_471,Premium,Friuli-Venezia Giulia
+472,Cliente_472,Premium,Lazio
+473,Cliente_473,Standard,Valle d'Aosta
+474,Cliente_474,Premium,Sardegna
+475,Cliente_475,Premium,Puglia
+476,Cliente_476,Standard,Emilia-Romagna
+477,Cliente_477,Standard,Marche
+478,Cliente_478,Standard,Friuli-Venezia Giulia
+479,Cliente_479,Standard,Valle d'Aosta
+480,Cliente_480,Standard,Abruzzo
+481,Cliente_481,Premium,Lazio
+482,Cliente_482,Premium,Sardegna
+483,Cliente_483,Standard,Abruzzo
+484,Cliente_484,Standard,Toscana
+485,Cliente_485,Standard,Liguria
+486,Cliente_486,Premium,Piemonte
+487,Cliente_487,Standard,Puglia
+488,Cliente_488,Premium,Emilia-Romagna
+489,Cliente_489,Standard,Lazio
+490,Cliente_490,Standard,Toscana
+491,Cliente_491,Premium,Valle d'Aosta
+492,Cliente_492,Premium,Basilicata
+493,Cliente_493,Premium,Friuli-Venezia Giulia
+494,Cliente_494,Premium,Veneto
+495,Cliente_495,Premium,Emilia-Romagna
+496,Cliente_496,Standard,Piemonte
+497,Cliente_497,Premium,Emilia-Romagna
+498,Cliente_498,Premium,Lombardia
+499,Cliente_499,Standard,Liguria
+500,Cliente_500,Premium,Friuli-Venezia Giulia
+501,Cliente_501,Premium,Liguria
+502,Cliente_502,Premium,Calabria
+503,Cliente_503,Premium,Piemonte
+504,Cliente_504,Standard,Emilia-Romagna
+505,Cliente_505,Standard,Piemonte
+506,Cliente_506,Standard,Lazio
+507,Cliente_507,Standard,Liguria
+508,Cliente_508,Premium,Liguria
+509,Cliente_509,Premium,Basilicata
+510,Cliente_510,Premium,Veneto
+511,Cliente_511,Standard,Calabria
+512,Cliente_512,Standard,Molise
+513,Cliente_513,Premium,Molise
+514,Cliente_514,Standard,Toscana
+515,Cliente_515,Premium,Emilia-Romagna
+516,Cliente_516,Premium,Valle d'Aosta
+517,Cliente_517,Premium,Trentino-Alto Adige
+518,Cliente_518,Premium,Puglia
+519,Cliente_519,Standard,Molise
+520,Cliente_520,Premium,Puglia
+521,Cliente_521,Premium,Trentino-Alto Adige
+522,Cliente_522,Premium,Piemonte
+523,Cliente_523,Premium,Trentino-Alto Adige
+524,Cliente_524,Premium,Marche
+525,Cliente_525,Standard,Lazio
+526,Cliente_526,Standard,Valle d'Aosta
+527,Cliente_527,Premium,Sardegna
+528,Cliente_528,Premium,Friuli-Venezia Giulia
+529,Cliente_529,Premium,Marche
+530,Cliente_530,Premium,Abruzzo
+531,Cliente_531,Standard,Trentino-Alto Adige
+532,Cliente_532,Standard,Emilia-Romagna
+533,Cliente_533,Premium,Emilia-Romagna
+534,Cliente_534,Standard,Umbria
+535,Cliente_535,Premium,Veneto
+536,Cliente_536,Premium,Puglia
+537,Cliente_537,Premium,Campania
+538,Cliente_538,Standard,Lazio
+539,Cliente_539,Premium,Toscana
+540,Cliente_540,Standard,Liguria
+541,Cliente_541,Premium,Molise
+542,Cliente_542,Standard,Basilicata
+543,Cliente_543,Premium,Umbria
+544,Cliente_544,Premium,Sicilia
+545,Cliente_545,Standard,Umbria
+546,Cliente_546,Standard,Veneto
+547,Cliente_547,Premium,Sicilia
+548,Cliente_548,Standard,Abruzzo
+549,Cliente_549,Premium,Calabria
+550,Cliente_550,Premium,Sicilia
+551,Cliente_551,Premium,Trentino-Alto Adige
+552,Cliente_552,Premium,Emilia-Romagna
+553,Cliente_553,Premium,Sicilia
+554,Cliente_554,Premium,Toscana
+555,Cliente_555,Standard,Umbria
+556,Cliente_556,Standard,Campania
+557,Cliente_557,Premium,Veneto
+558,Cliente_558,Standard,Marche
+559,Cliente_559,Standard,Valle d'Aosta
+560,Cliente_560,Premium,Piemonte
+561,Cliente_561,Standard,Lombardia
+562,Cliente_562,Standard,Lazio
+563,Cliente_563,Premium,Umbria
+564,Cliente_564,Standard,Piemonte
+565,Cliente_565,Premium,Umbria
+566,Cliente_566,Standard,Sardegna
+567,Cliente_567,Standard,Marche
+568,Cliente_568,Standard,Sicilia
+569,Cliente_569,Premium,Sardegna
+570,Cliente_570,Standard,Toscana
+571,Cliente_571,Premium,Lazio
+572,Cliente_572,Standard,Liguria
+573,Cliente_573,Standard,Calabria
+574,Cliente_574,Premium,Puglia
+575,Cliente_575,Premium,Trentino-Alto Adige
+576,Cliente_576,Standard,Liguria
+577,Cliente_577,Premium,Friuli-Venezia Giulia
+578,Cliente_578,Standard,Puglia
+579,Cliente_579,Standard,Sardegna
+580,Cliente_580,Standard,Sicilia
+581,Cliente_581,Standard,Friuli-Venezia Giulia
+582,Cliente_582,Standard,Lombardia
+583,Cliente_583,Standard,Molise
+584,Cliente_584,Premium,Emilia-Romagna
+585,Cliente_585,Premium,Lazio
+586,Cliente_586,Premium,Abruzzo
+587,Cliente_587,Premium,Liguria
+588,Cliente_588,Standard,Veneto
+589,Cliente_589,Standard,Calabria
+590,Cliente_590,Premium,Puglia
+591,Cliente_591,Standard,Sardegna
+592,Cliente_592,Standard,Campania
+593,Cliente_593,Standard,Veneto
+594,Cliente_594,Standard,Sicilia
+595,Cliente_595,Premium,Sicilia
+596,Cliente_596,Standard,Lazio
+597,Cliente_597,Standard,Friuli-Venezia Giulia
+598,Cliente_598,Standard,Toscana
+599,Cliente_599,Standard,Molise
+600,Cliente_600,Premium,Basilicata
+601,Cliente_601,Standard,Piemonte
+602,Cliente_602,Standard,Puglia
+603,Cliente_603,Standard,Emilia-Romagna
+604,Cliente_604,Premium,Emilia-Romagna
+605,Cliente_605,Premium,Marche
+606,Cliente_606,Standard,Friuli-Venezia Giulia
+607,Cliente_607,Premium,Veneto
+608,Cliente_608,Premium,Toscana
+609,Cliente_609,Premium,Trentino-Alto Adige
+610,Cliente_610,Standard,Valle d'Aosta
+611,Cliente_611,Standard,Sardegna
+612,Cliente_612,Standard,Liguria
+613,Cliente_613,Standard,Valle d'Aosta
+614,Cliente_614,Standard,Liguria
+615,Cliente_615,Premium,Calabria
+616,Cliente_616,Premium,Calabria
+617,Cliente_617,Premium,Sardegna
+618,Cliente_618,Premium,Friuli-Venezia Giulia
+619,Cliente_619,Standard,Friuli-Venezia Giulia
+620,Cliente_620,Premium,Calabria
+621,Cliente_621,Premium,Marche
+622,Cliente_622,Premium,Lombardia
+623,Cliente_623,Standard,Valle d'Aosta
+624,Cliente_624,Standard,Veneto
+625,Cliente_625,Premium,Lombardia
+626,Cliente_626,Premium,Sardegna
+627,Cliente_627,Standard,Sicilia
+628,Cliente_628,Standard,Abruzzo
+629,Cliente_629,Standard,Campania
+630,Cliente_630,Standard,Puglia
+631,Cliente_631,Premium,Marche
+632,Cliente_632,Standard,Abruzzo
+633,Cliente_633,Standard,Liguria
+634,Cliente_634,Premium,Campania
+635,Cliente_635,Standard,Marche
+636,Cliente_636,Standard,Lazio
+637,Cliente_637,Premium,Molise
+638,Cliente_638,Standard,Marche
+639,Cliente_639,Standard,Veneto
+640,Cliente_640,Standard,Calabria
+641,Cliente_641,Standard,Veneto
+642,Cliente_642,Premium,Liguria
+643,Cliente_643,Premium,Liguria
+644,Cliente_644,Standard,Calabria
+645,Cliente_645,Standard,Campania
+646,Cliente_646,Premium,Liguria
+647,Cliente_647,Premium,Friuli-Venezia Giulia
+648,Cliente_648,Premium,Abruzzo
+649,Cliente_649,Premium,Liguria
+650,Cliente_650,Standard,Campania
+651,Cliente_651,Standard,Umbria
+652,Cliente_652,Standard,Lombardia
+653,Cliente_653,Standard,Valle d'Aosta
+654,Cliente_654,Premium,Friuli-Venezia Giulia
+655,Cliente_655,Premium,Campania
+656,Cliente_656,Standard,Liguria
+657,Cliente_657,Standard,Sicilia
+658,Cliente_658,Premium,Abruzzo
+659,Cliente_659,Premium,Campania
+660,Cliente_660,Premium,Abruzzo
+661,Cliente_661,Standard,Marche
+662,Cliente_662,Premium,Friuli-Venezia Giulia
+663,Cliente_663,Premium,Puglia
+664,Cliente_664,Standard,Molise
+665,Cliente_665,Standard,Sicilia
+666,Cliente_666,Standard,Basilicata
+667,Cliente_667,Standard,Lombardia
+668,Cliente_668,Premium,Veneto
+669,Cliente_669,Premium,Emilia-Romagna
+670,Cliente_670,Premium,Piemonte
+671,Cliente_671,Standard,Umbria
+672,Cliente_672,Premium,Friuli-Venezia Giulia
+673,Cliente_673,Premium,Umbria
+674,Cliente_674,Premium,Emilia-Romagna
+675,Cliente_675,Premium,Sardegna
+676,Cliente_676,Standard,Toscana
+677,Cliente_677,Standard,Marche
+678,Cliente_678,Standard,Umbria
+679,Cliente_679,Premium,Calabria
+680,Cliente_680,Standard,Trentino-Alto Adige
+681,Cliente_681,Premium,Liguria
+682,Cliente_682,Standard,Calabria
+683,Cliente_683,Premium,Toscana
+684,Cliente_684,Premium,Puglia
+685,Cliente_685,Standard,Basilicata
+686,Cliente_686,Standard,Veneto
+687,Cliente_687,Standard,Liguria
+688,Cliente_688,Premium,Campania
+689,Cliente_689,Standard,Lombardia
+690,Cliente_690,Premium,Calabria
+691,Cliente_691,Premium,Veneto
+692,Cliente_692,Standard,Marche
+693,Cliente_693,Standard,Trentino-Alto Adige
+694,Cliente_694,Standard,Calabria
+695,Cliente_695,Standard,Friuli-Venezia Giulia
+696,Cliente_696,Premium,Liguria
+697,Cliente_697,Standard,Valle d'Aosta
+698,Cliente_698,Standard,Calabria
+699,Cliente_699,Standard,Friuli-Venezia Giulia
+700,Cliente_700,Standard,Puglia
+701,Cliente_701,Standard,Piemonte
+702,Cliente_702,Premium,Campania
+703,Cliente_703,Premium,Puglia
+704,Cliente_704,Premium,Puglia
+705,Cliente_705,Premium,Basilicata
+706,Cliente_706,Premium,Valle d'Aosta
+707,Cliente_707,Premium,Puglia
+708,Cliente_708,Standard,Valle d'Aosta
+709,Cliente_709,Premium,Lombardia
+710,Cliente_710,Standard,Toscana
+711,Cliente_711,Premium,Lombardia
+712,Cliente_712,Standard,Marche
+713,Cliente_713,Premium,Umbria
+714,Cliente_714,Standard,Umbria
+715,Cliente_715,Standard,Umbria
+716,Cliente_716,Standard,Molise
+717,Cliente_717,Standard,Umbria
+718,Cliente_718,Standard,Campania
+719,Cliente_719,Premium,Emilia-Romagna
+720,Cliente_720,Standard,Piemonte
+721,Cliente_721,Premium,Liguria
+722,Cliente_722,Standard,Calabria
+723,Cliente_723,Premium,Umbria
+724,Cliente_724,Standard,Basilicata
+725,Cliente_725,Premium,Molise
+726,Cliente_726,Premium,Calabria
+727,Cliente_727,Premium,Liguria
+728,Cliente_728,Standard,Puglia
+729,Cliente_729,Premium,Liguria
+730,Cliente_730,Premium,Valle d'Aosta
+731,Cliente_731,Premium,Puglia
+732,Cliente_732,Premium,Valle d'Aosta
+733,Cliente_733,Premium,Liguria
+734,Cliente_734,Standard,Puglia
+735,Cliente_735,Premium,Campania
+736,Cliente_736,Standard,Puglia
+737,Cliente_737,Standard,Abruzzo
+738,Cliente_738,Standard,Piemonte
+739,Cliente_739,Standard,Emilia-Romagna
+740,Cliente_740,Standard,Calabria
+741,Cliente_741,Standard,Abruzzo
+742,Cliente_742,Standard,Trentino-Alto Adige
+743,Cliente_743,Premium,Campania
+744,Cliente_744,Standard,Trentino-Alto Adige
+745,Cliente_745,Premium,Molise
+746,Cliente_746,Standard,Basilicata
+747,Cliente_747,Standard,Basilicata
+748,Cliente_748,Premium,Molise
+749,Cliente_749,Standard,Lombardia
+750,Cliente_750,Premium,Basilicata
+751,Cliente_751,Standard,Campania
+752,Cliente_752,Standard,Campania
+753,Cliente_753,Standard,Sicilia
+754,Cliente_754,Standard,Umbria
+755,Cliente_755,Standard,Molise
+756,Cliente_756,Premium,Liguria
+757,Cliente_757,Standard,Valle d'Aosta
+758,Cliente_758,Standard,Veneto
+759,Cliente_759,Standard,Umbria
+760,Cliente_760,Standard,Piemonte
+761,Cliente_761,Standard,Umbria
+762,Cliente_762,Standard,Marche
+763,Cliente_763,Premium,Abruzzo
+764,Cliente_764,Standard,Marche
+765,Cliente_765,Premium,Puglia
+766,Cliente_766,Standard,Sardegna
+767,Cliente_767,Standard,Trentino-Alto Adige
+768,Cliente_768,Standard,Umbria
+769,Cliente_769,Premium,Abruzzo
+770,Cliente_770,Premium,Piemonte
+771,Cliente_771,Premium,Basilicata
+772,Cliente_772,Standard,Lombardia
+773,Cliente_773,Standard,Basilicata
+774,Cliente_774,Standard,Lazio
+775,Cliente_775,Premium,Veneto
+776,Cliente_776,Premium,Molise
+777,Cliente_777,Standard,Basilicata
+778,Cliente_778,Standard,Umbria
+779,Cliente_779,Premium,Lazio
+780,Cliente_780,Standard,Sardegna
+781,Cliente_781,Standard,Trentino-Alto Adige
+782,Cliente_782,Standard,Lazio
+783,Cliente_783,Standard,Molise
+784,Cliente_784,Premium,Abruzzo
+785,Cliente_785,Standard,Sicilia
+786,Cliente_786,Premium,Toscana
+787,Cliente_787,Premium,Valle d'Aosta
+788,Cliente_788,Premium,Basilicata
+789,Cliente_789,Standard,Piemonte
+790,Cliente_790,Premium,Toscana
+791,Cliente_791,Standard,Umbria
+792,Cliente_792,Standard,Basilicata
+793,Cliente_793,Premium,Toscana
+794,Cliente_794,Standard,Lombardia
+795,Cliente_795,Standard,Lazio
+796,Cliente_796,Standard,Abruzzo
+797,Cliente_797,Standard,Basilicata
+798,Cliente_798,Standard,Marche
+799,Cliente_799,Premium,Molise
+800,Cliente_800,Standard,Marche
+801,Cliente_801,Premium,Piemonte
+802,Cliente_802,Premium,Lombardia
+803,Cliente_803,Standard,Puglia
+804,Cliente_804,Premium,Friuli-Venezia Giulia
+805,Cliente_805,Standard,Puglia
+806,Cliente_806,Standard,Sardegna
+807,Cliente_807,Standard,Marche
+808,Cliente_808,Standard,Lazio
+809,Cliente_809,Premium,Sardegna
+810,Cliente_810,Standard,Veneto
+811,Cliente_811,Standard,Basilicata
+812,Cliente_812,Premium,Marche
+813,Cliente_813,Standard,Trentino-Alto Adige
+814,Cliente_814,Standard,Valle d'Aosta
+815,Cliente_815,Premium,Emilia-Romagna
+816,Cliente_816,Premium,Molise
+817,Cliente_817,Standard,Emilia-Romagna
+818,Cliente_818,Premium,Veneto
+819,Cliente_819,Premium,Piemonte
+820,Cliente_820,Premium,Lazio
+821,Cliente_821,Standard,Friuli-Venezia Giulia
+822,Cliente_822,Standard,Sardegna
+823,Cliente_823,Standard,Friuli-Venezia Giulia
+824,Cliente_824,Standard,Campania
+825,Cliente_825,Standard,Lazio
+826,Cliente_826,Premium,Molise
+827,Cliente_827,Standard,Abruzzo
+828,Cliente_828,Premium,Umbria
+829,Cliente_829,Standard,Campania
+830,Cliente_830,Premium,Sardegna
+831,Cliente_831,Standard,Campania
+832,Cliente_832,Premium,Umbria
+833,Cliente_833,Standard,Piemonte
+834,Cliente_834,Standard,Umbria
+835,Cliente_835,Standard,Valle d'Aosta
+836,Cliente_836,Standard,Marche
+837,Cliente_837,Premium,Piemonte
+838,Cliente_838,Premium,Piemonte
+839,Cliente_839,Premium,Basilicata
+840,Cliente_840,Premium,Campania
+841,Cliente_841,Premium,Marche
+842,Cliente_842,Standard,Piemonte
+843,Cliente_843,Premium,Trentino-Alto Adige
+844,Cliente_844,Premium,Emilia-Romagna
+845,Cliente_845,Standard,Piemonte
+846,Cliente_846,Premium,Abruzzo
+847,Cliente_847,Standard,Toscana
+848,Cliente_848,Standard,Sicilia
+849,Cliente_849,Premium,Emilia-Romagna
+850,Cliente_850,Standard,Marche
+851,Cliente_851,Premium,Trentino-Alto Adige
+852,Cliente_852,Premium,Lazio
+853,Cliente_853,Standard,Campania
+854,Cliente_854,Standard,Lazio
+855,Cliente_855,Standard,Veneto
+856,Cliente_856,Premium,Piemonte
+857,Cliente_857,Standard,Emilia-Romagna
+858,Cliente_858,Standard,Emilia-Romagna
+859,Cliente_859,Standard,Umbria
+860,Cliente_860,Standard,Toscana
+861,Cliente_861,Premium,Trentino-Alto Adige
+862,Cliente_862,Standard,Veneto
+863,Cliente_863,Premium,Piemonte
+864,Cliente_864,Premium,Campania
+865,Cliente_865,Standard,Emilia-Romagna
+866,Cliente_866,Standard,Lombardia
+867,Cliente_867,Premium,Trentino-Alto Adige
+868,Cliente_868,Standard,Valle d'Aosta
+869,Cliente_869,Premium,Calabria
+870,Cliente_870,Premium,Piemonte
+871,Cliente_871,Premium,Liguria
+872,Cliente_872,Premium,Abruzzo
+873,Cliente_873,Standard,Veneto
+874,Cliente_874,Premium,Lazio
+875,Cliente_875,Premium,Piemonte
+876,Cliente_876,Standard,Lombardia
+877,Cliente_877,Standard,Marche
+878,Cliente_878,Standard,Abruzzo
+879,Cliente_879,Premium,Veneto
+880,Cliente_880,Standard,Sicilia
+881,Cliente_881,Standard,Umbria
+882,Cliente_882,Standard,Campania
+883,Cliente_883,Standard,Veneto
+884,Cliente_884,Standard,Valle d'Aosta
+885,Cliente_885,Standard,Puglia
+886,Cliente_886,Standard,Toscana
+887,Cliente_887,Premium,Marche
+888,Cliente_888,Standard,Friuli-Venezia Giulia
+889,Cliente_889,Premium,Campania
+890,Cliente_890,Premium,Friuli-Venezia Giulia
+891,Cliente_891,Premium,Basilicata
+892,Cliente_892,Standard,Puglia
+893,Cliente_893,Premium,Campania
+894,Cliente_894,Premium,Puglia
+895,Cliente_895,Premium,Lombardia
+896,Cliente_896,Standard,Veneto
+897,Cliente_897,Standard,Toscana
+898,Cliente_898,Premium,Trentino-Alto Adige
+899,Cliente_899,Standard,Sicilia
+900,Cliente_900,Standard,Sicilia
+901,Cliente_901,Premium,Basilicata
+902,Cliente_902,Premium,Piemonte
+903,Cliente_903,Premium,Calabria
+904,Cliente_904,Premium,Trentino-Alto Adige
+905,Cliente_905,Standard,Sardegna
+906,Cliente_906,Standard,Veneto
+907,Cliente_907,Standard,Piemonte
+908,Cliente_908,Standard,Sicilia
+909,Cliente_909,Premium,Piemonte
+910,Cliente_910,Premium,Friuli-Venezia Giulia
+911,Cliente_911,Standard,Valle d'Aosta
+912,Cliente_912,Premium,Puglia
+913,Cliente_913,Premium,Molise
+914,Cliente_914,Standard,Friuli-Venezia Giulia
+915,Cliente_915,Standard,Umbria
+916,Cliente_916,Standard,Trentino-Alto Adige
+917,Cliente_917,Standard,Basilicata
+918,Cliente_918,Premium,Puglia
+919,Cliente_919,Standard,Abruzzo
+920,Cliente_920,Standard,Abruzzo
+921,Cliente_921,Premium,Lazio
+922,Cliente_922,Standard,Emilia-Romagna
+923,Cliente_923,Premium,Emilia-Romagna
+924,Cliente_924,Standard,Molise
+925,Cliente_925,Standard,Calabria
+926,Cliente_926,Premium,Campania
+927,Cliente_927,Standard,Emilia-Romagna
+928,Cliente_928,Standard,Trentino-Alto Adige
+929,Cliente_929,Premium,Umbria
+930,Cliente_930,Standard,Abruzzo
+931,Cliente_931,Standard,Marche
+932,Cliente_932,Premium,Molise
+933,Cliente_933,Premium,Puglia
+934,Cliente_934,Premium,Friuli-Venezia Giulia
+935,Cliente_935,Standard,Lazio
+936,Cliente_936,Standard,Calabria
+937,Cliente_937,Standard,Veneto
+938,Cliente_938,Premium,Campania
+939,Cliente_939,Standard,Sardegna
+940,Cliente_940,Premium,Marche
+941,Cliente_941,Premium,Lazio
+942,Cliente_942,Standard,Abruzzo
+943,Cliente_943,Premium,Puglia
+944,Cliente_944,Standard,Campania
+945,Cliente_945,Standard,Trentino-Alto Adige
+946,Cliente_946,Standard,Puglia
+947,Cliente_947,Standard,Trentino-Alto Adige
+948,Cliente_948,Premium,Liguria
+949,Cliente_949,Premium,Lazio
+950,Cliente_950,Standard,Umbria
+951,Cliente_951,Premium,Basilicata
+952,Cliente_952,Standard,Trentino-Alto Adige
+953,Cliente_953,Standard,Abruzzo
+954,Cliente_954,Standard,Basilicata
+955,Cliente_955,Standard,Abruzzo
+956,Cliente_956,Premium,Valle d'Aosta
+957,Cliente_957,Premium,Toscana
+958,Cliente_958,Premium,Veneto
+959,Cliente_959,Premium,Lazio
+960,Cliente_960,Premium,Sardegna
+961,Cliente_961,Standard,Valle d'Aosta
+962,Cliente_962,Premium,Emilia-Romagna
+963,Cliente_963,Standard,Basilicata
+964,Cliente_964,Standard,Sardegna
+965,Cliente_965,Standard,Veneto
+966,Cliente_966,Standard,Friuli-Venezia Giulia
+967,Cliente_967,Standard,Liguria
+968,Cliente_968,Premium,Lazio
+969,Cliente_969,Standard,Sicilia
+970,Cliente_970,Premium,Sicilia
+971,Cliente_971,Premium,Liguria
+972,Cliente_972,Standard,Veneto
+973,Cliente_973,Premium,Molise
+974,Cliente_974,Premium,Sicilia
+975,Cliente_975,Standard,Sicilia
+976,Cliente_976,Standard,Abruzzo
+977,Cliente_977,Premium,Sardegna
+978,Cliente_978,Premium,Sicilia
+979,Cliente_979,Premium,Umbria
+980,Cliente_980,Standard,Friuli-Venezia Giulia
+981,Cliente_981,Standard,Friuli-Venezia Giulia
+982,Cliente_982,Premium,Piemonte
+983,Cliente_983,Premium,Marche
+984,Cliente_984,Standard,Molise
+985,Cliente_985,Standard,Liguria
+986,Cliente_986,Standard,Piemonte
+987,Cliente_987,Standard,Friuli-Venezia Giulia
+988,Cliente_988,Premium,Lazio
+989,Cliente_989,Standard,Sicilia
+990,Cliente_990,Premium,Liguria
+991,Cliente_991,Standard,Calabria
+992,Cliente_992,Standard,Toscana
+993,Cliente_993,Premium,Emilia-Romagna
+994,Cliente_994,Standard,Lombardia
+995,Cliente_995,Standard,Piemonte
+996,Cliente_996,Standard,Emilia-Romagna
+997,Cliente_997,Standard,Sardegna
+998,Cliente_998,Premium,Trentino-Alto Adige
+999,Cliente_999,Premium,Friuli-Venezia Giulia
+1000,Cliente_1000,Standard,Umbria
+1001,Cliente_1001,Standard,Veneto
+1002,Cliente_1002,Premium,Trentino-Alto Adige
+1003,Cliente_1003,Premium,Basilicata
+1004,Cliente_1004,Premium,Piemonte
+1005,Cliente_1005,Premium,Basilicata
+1006,Cliente_1006,Premium,Piemonte
+1007,Cliente_1007,Standard,Valle d'Aosta
+1008,Cliente_1008,Premium,Marche
+1009,Cliente_1009,Premium,Toscana
+1010,Cliente_1010,Standard,Veneto
+1011,Cliente_1011,Standard,Calabria
+1012,Cliente_1012,Standard,Umbria
+1013,Cliente_1013,Standard,Lazio
+1014,Cliente_1014,Premium,Trentino-Alto Adige
+1015,Cliente_1015,Premium,Veneto
+1016,Cliente_1016,Standard,Piemonte
+1017,Cliente_1017,Premium,Lazio
+1018,Cliente_1018,Premium,Lazio
+1019,Cliente_1019,Standard,Trentino-Alto Adige
+1020,Cliente_1020,Standard,Veneto
+1021,Cliente_1021,Standard,Friuli-Venezia Giulia
+1022,Cliente_1022,Standard,Lombardia
+1023,Cliente_1023,Premium,Veneto
+1024,Cliente_1024,Standard,Basilicata
+1025,Cliente_1025,Premium,Friuli-Venezia Giulia
+1026,Cliente_1026,Standard,Molise
+1027,Cliente_1027,Standard,Calabria
+1028,Cliente_1028,Premium,Sicilia
+1029,Cliente_1029,Standard,Sicilia
+1030,Cliente_1030,Premium,Calabria
+1031,Cliente_1031,Standard,Molise
+1032,Cliente_1032,Premium,Calabria
+1033,Cliente_1033,Premium,Umbria
+1034,Cliente_1034,Premium,Puglia
+1035,Cliente_1035,Premium,Valle d'Aosta
+1036,Cliente_1036,Premium,Lazio
+1037,Cliente_1037,Premium,Veneto
+1038,Cliente_1038,Premium,Valle d'Aosta
+1039,Cliente_1039,Standard,Sardegna
+1040,Cliente_1040,Premium,Liguria
+1041,Cliente_1041,Premium,Trentino-Alto Adige
+1042,Cliente_1042,Premium,Sicilia
+1043,Cliente_1043,Standard,Abruzzo
+1044,Cliente_1044,Premium,Calabria
+1045,Cliente_1045,Premium,Lombardia
+1046,Cliente_1046,Standard,Sardegna
+1047,Cliente_1047,Premium,Sicilia
+1048,Cliente_1048,Premium,Valle d'Aosta
+1049,Cliente_1049,Premium,Lombardia
+1050,Cliente_1050,Standard,Sicilia
+1051,Cliente_1051,Standard,Molise
+1052,Cliente_1052,Premium,Umbria
+1053,Cliente_1053,Standard,Toscana
+1054,Cliente_1054,Premium,Molise
+1055,Cliente_1055,Premium,Molise
+1056,Cliente_1056,Standard,Liguria
+1057,Cliente_1057,Premium,Molise
+1058,Cliente_1058,Standard,Veneto
+1059,Cliente_1059,Premium,Lazio
+1060,Cliente_1060,Standard,Calabria
+1061,Cliente_1061,Premium,Friuli-Venezia Giulia
+1062,Cliente_1062,Premium,Umbria
+1063,Cliente_1063,Standard,Liguria
+1064,Cliente_1064,Premium,Veneto
+1065,Cliente_1065,Standard,Sardegna
+1066,Cliente_1066,Premium,Molise
+1067,Cliente_1067,Standard,Puglia
+1068,Cliente_1068,Premium,Calabria
+1069,Cliente_1069,Standard,Sardegna
+1070,Cliente_1070,Premium,Campania
+1071,Cliente_1071,Premium,Piemonte
+1072,Cliente_1072,Standard,Lombardia
+1073,Cliente_1073,Standard,Basilicata
+1074,Cliente_1074,Premium,Valle d'Aosta
+1075,Cliente_1075,Premium,Basilicata
+1076,Cliente_1076,Standard,Lombardia
+1077,Cliente_1077,Premium,Valle d'Aosta
+1078,Cliente_1078,Premium,Trentino-Alto Adige
+1079,Cliente_1079,Standard,Puglia
+1080,Cliente_1080,Premium,Umbria
+1081,Cliente_1081,Premium,Emilia-Romagna
+1082,Cliente_1082,Premium,Valle d'Aosta
+1083,Cliente_1083,Standard,Emilia-Romagna
+1084,Cliente_1084,Standard,Piemonte
+1085,Cliente_1085,Standard,Valle d'Aosta
+1086,Cliente_1086,Premium,Liguria
+1087,Cliente_1087,Standard,Marche
+1088,Cliente_1088,Standard,Toscana
+1089,Cliente_1089,Premium,Marche
+1090,Cliente_1090,Standard,Veneto
+1091,Cliente_1091,Standard,Marche
+1092,Cliente_1092,Premium,Lombardia
+1093,Cliente_1093,Premium,Emilia-Romagna
+1094,Cliente_1094,Premium,Lazio
+1095,Cliente_1095,Standard,Emilia-Romagna
+1096,Cliente_1096,Standard,Sicilia
+1097,Cliente_1097,Standard,Toscana
+1098,Cliente_1098,Standard,Trentino-Alto Adige
+1099,Cliente_1099,Standard,Friuli-Venezia Giulia
+1100,Cliente_1100,Standard,Veneto
+1101,Cliente_1101,Premium,Calabria
+1102,Cliente_1102,Premium,Veneto
+1103,Cliente_1103,Premium,Marche
+1104,Cliente_1104,Premium,Sardegna
+1105,Cliente_1105,Standard,Abruzzo
+1106,Cliente_1106,Premium,Sicilia
+1107,Cliente_1107,Premium,Umbria
+1108,Cliente_1108,Premium,Molise
+1109,Cliente_1109,Standard,Campania
+1110,Cliente_1110,Premium,Emilia-Romagna
+1111,Cliente_1111,Standard,Friuli-Venezia Giulia
+1112,Cliente_1112,Premium,Trentino-Alto Adige
+1113,Cliente_1113,Premium,Marche
+1114,Cliente_1114,Premium,Trentino-Alto Adige
+1115,Cliente_1115,Standard,Umbria
+1116,Cliente_1116,Premium,Friuli-Venezia Giulia
+1117,Cliente_1117,Standard,Marche
+1118,Cliente_1118,Premium,Lombardia
+1119,Cliente_1119,Premium,Campania
+1120,Cliente_1120,Premium,Trentino-Alto Adige
+1121,Cliente_1121,Premium,Veneto
+1122,Cliente_1122,Premium,Sicilia
+1123,Cliente_1123,Standard,Emilia-Romagna
+1124,Cliente_1124,Standard,Lazio
+1125,Cliente_1125,Premium,Lazio
+1126,Cliente_1126,Standard,Lombardia
+1127,Cliente_1127,Standard,Toscana
+1128,Cliente_1128,Standard,Marche
+1129,Cliente_1129,Premium,Calabria
+1130,Cliente_1130,Standard,Emilia-Romagna
+1131,Cliente_1131,Standard,Lombardia
+1132,Cliente_1132,Standard,Sicilia
+1133,Cliente_1133,Premium,Sardegna
+1134,Cliente_1134,Standard,Marche
+1135,Cliente_1135,Standard,Umbria
+1136,Cliente_1136,Standard,Abruzzo
+1137,Cliente_1137,Premium,Calabria
+1138,Cliente_1138,Premium,Veneto
+1139,Cliente_1139,Premium,Valle d'Aosta
+1140,Cliente_1140,Standard,Lazio
+1141,Cliente_1141,Premium,Trentino-Alto Adige
+1142,Cliente_1142,Premium,Emilia-Romagna
+1143,Cliente_1143,Standard,Veneto
+1144,Cliente_1144,Premium,Puglia
+1145,Cliente_1145,Premium,Emilia-Romagna
+1146,Cliente_1146,Premium,Piemonte
+1147,Cliente_1147,Standard,Veneto
+1148,Cliente_1148,Standard,Trentino-Alto Adige
+1149,Cliente_1149,Standard,Lombardia
+1150,Cliente_1150,Premium,Valle d'Aosta
+1151,Cliente_1151,Standard,Campania
+1152,Cliente_1152,Premium,Puglia
+1153,Cliente_1153,Standard,Puglia
+1154,Cliente_1154,Standard,Umbria
+1155,Cliente_1155,Premium,Toscana
+1156,Cliente_1156,Standard,Trentino-Alto Adige
+1157,Cliente_1157,Standard,Trentino-Alto Adige
+1158,Cliente_1158,Standard,Toscana
+1159,Cliente_1159,Premium,Marche
+1160,Cliente_1160,Standard,Abruzzo
+1161,Cliente_1161,Premium,Friuli-Venezia Giulia
+1162,Cliente_1162,Standard,Calabria
+1163,Cliente_1163,Standard,Liguria
+1164,Cliente_1164,Standard,Umbria
+1165,Cliente_1165,Standard,Emilia-Romagna
+1166,Cliente_1166,Premium,Valle d'Aosta
+1167,Cliente_1167,Premium,Sicilia
+1168,Cliente_1168,Standard,Marche
+1169,Cliente_1169,Premium,Friuli-Venezia Giulia
+1170,Cliente_1170,Premium,Toscana
+1171,Cliente_1171,Standard,Lombardia
+1172,Cliente_1172,Premium,Friuli-Venezia Giulia
+1173,Cliente_1173,Standard,Puglia
+1174,Cliente_1174,Premium,Campania
+1175,Cliente_1175,Premium,Sicilia
+1176,Cliente_1176,Standard,Marche
+1177,Cliente_1177,Premium,Trentino-Alto Adige
+1178,Cliente_1178,Premium,Puglia
+1179,Cliente_1179,Premium,Lazio
+1180,Cliente_1180,Standard,Veneto
+1181,Cliente_1181,Standard,Lombardia
+1182,Cliente_1182,Premium,Marche
+1183,Cliente_1183,Standard,Calabria
+1184,Cliente_1184,Premium,Puglia
+1185,Cliente_1185,Standard,Marche
+1186,Cliente_1186,Premium,Campania
+1187,Cliente_1187,Premium,Lazio
+1188,Cliente_1188,Standard,Friuli-Venezia Giulia
+1189,Cliente_1189,Premium,Emilia-Romagna
+1190,Cliente_1190,Premium,Lazio
+1191,Cliente_1191,Premium,Sicilia
+1192,Cliente_1192,Standard,Emilia-Romagna
+1193,Cliente_1193,Standard,Friuli-Venezia Giulia
+1194,Cliente_1194,Premium,Molise
+1195,Cliente_1195,Premium,Basilicata
+1196,Cliente_1196,Standard,Valle d'Aosta
+1197,Cliente_1197,Premium,Piemonte
+1198,Cliente_1198,Premium,Basilicata
+1199,Cliente_1199,Standard,Emilia-Romagna
+1200,Cliente_1200,Premium,Friuli-Venezia Giulia
+1201,Cliente_1201,Premium,Lazio
+1202,Cliente_1202,Standard,Toscana
+1203,Cliente_1203,Premium,Marche
+1204,Cliente_1204,Premium,Molise
+1205,Cliente_1205,Premium,Umbria
+1206,Cliente_1206,Premium,Valle d'Aosta
+1207,Cliente_1207,Premium,Umbria
+1208,Cliente_1208,Premium,Calabria
+1209,Cliente_1209,Standard,Toscana
+1210,Cliente_1210,Premium,Basilicata
+1211,Cliente_1211,Standard,Lazio
+1212,Cliente_1212,Premium,Sicilia
+1213,Cliente_1213,Standard,Molise
+1214,Cliente_1214,Premium,Lazio
+1215,Cliente_1215,Standard,Liguria
+1216,Cliente_1216,Premium,Molise
+1217,Cliente_1217,Premium,Friuli-Venezia Giulia
+1218,Cliente_1218,Standard,Molise
+1219,Cliente_1219,Standard,Piemonte
+1220,Cliente_1220,Standard,Toscana
+1221,Cliente_1221,Premium,Piemonte
+1222,Cliente_1222,Standard,Puglia
+1223,Cliente_1223,Premium,Marche
+1224,Cliente_1224,Premium,Liguria
+1225,Cliente_1225,Premium,Liguria
+1226,Cliente_1226,Standard,Valle d'Aosta
+1227,Cliente_1227,Standard,Molise
+1228,Cliente_1228,Premium,Toscana
+1229,Cliente_1229,Standard,Friuli-Venezia Giulia
+1230,Cliente_1230,Standard,Marche
+1231,Cliente_1231,Standard,Calabria
+1232,Cliente_1232,Standard,Lazio
+1233,Cliente_1233,Premium,Liguria
+1234,Cliente_1234,Premium,Basilicata
+1235,Cliente_1235,Standard,Basilicata
+1236,Cliente_1236,Standard,Umbria
+1237,Cliente_1237,Premium,Veneto
+1238,Cliente_1238,Standard,Lombardia
+1239,Cliente_1239,Standard,Marche
+1240,Cliente_1240,Standard,Campania
+1241,Cliente_1241,Premium,Marche
+1242,Cliente_1242,Standard,Molise
+1243,Cliente_1243,Standard,Lombardia
+1244,Cliente_1244,Standard,Puglia
+1245,Cliente_1245,Premium,Valle d'Aosta
+1246,Cliente_1246,Premium,Basilicata
+1247,Cliente_1247,Premium,Basilicata
+1248,Cliente_1248,Premium,Sardegna
+1249,Cliente_1249,Premium,Emilia-Romagna
+1250,Cliente_1250,Premium,Molise
+1251,Cliente_1251,Standard,Lazio
+1252,Cliente_1252,Standard,Sicilia
+1253,Cliente_1253,Premium,Piemonte
+1254,Cliente_1254,Premium,Trentino-Alto Adige
+1255,Cliente_1255,Premium,Piemonte
+1256,Cliente_1256,Standard,Basilicata
+1257,Cliente_1257,Premium,Valle d'Aosta
+1258,Cliente_1258,Premium,Abruzzo
+1259,Cliente_1259,Premium,Piemonte
+1260,Cliente_1260,Premium,Calabria
+1261,Cliente_1261,Premium,Liguria
+1262,Cliente_1262,Premium,Abruzzo
+1263,Cliente_1263,Standard,Marche
+1264,Cliente_1264,Standard,Calabria
+1265,Cliente_1265,Standard,Marche
+1266,Cliente_1266,Standard,Lombardia
+1267,Cliente_1267,Standard,Veneto
+1268,Cliente_1268,Premium,Emilia-Romagna
+1269,Cliente_1269,Standard,Marche
+1270,Cliente_1270,Premium,Puglia
+1271,Cliente_1271,Premium,Puglia
+1272,Cliente_1272,Premium,Liguria
+1273,Cliente_1273,Premium,Liguria
+1274,Cliente_1274,Premium,Puglia
+1275,Cliente_1275,Premium,Valle d'Aosta
+1276,Cliente_1276,Premium,Toscana
+1277,Cliente_1277,Standard,Basilicata
+1278,Cliente_1278,Standard,Molise
+1279,Cliente_1279,Premium,Friuli-Venezia Giulia
+1280,Cliente_1280,Standard,Emilia-Romagna
+1281,Cliente_1281,Premium,Molise
+1282,Cliente_1282,Standard,Emilia-Romagna
+1283,Cliente_1283,Premium,Toscana
+1284,Cliente_1284,Standard,Toscana
+1285,Cliente_1285,Standard,Trentino-Alto Adige
+1286,Cliente_1286,Standard,Lazio
+1287,Cliente_1287,Premium,Puglia
+1288,Cliente_1288,Premium,Umbria
+1289,Cliente_1289,Standard,Marche
+1290,Cliente_1290,Standard,Molise
+1291,Cliente_1291,Standard,Campania
+1292,Cliente_1292,Standard,Lazio
+1293,Cliente_1293,Standard,Veneto
+1294,Cliente_1294,Premium,Puglia
+1295,Cliente_1295,Premium,Liguria
+1296,Cliente_1296,Premium,Sicilia
+1297,Cliente_1297,Standard,Lazio
+1298,Cliente_1298,Premium,Valle d'Aosta
+1299,Cliente_1299,Standard,Trentino-Alto Adige
+1300,Cliente_1300,Standard,Valle d'Aosta
+1301,Cliente_1301,Standard,Toscana
+1302,Cliente_1302,Premium,Piemonte
+1303,Cliente_1303,Standard,Liguria
+1304,Cliente_1304,Standard,Calabria
+1305,Cliente_1305,Standard,Sicilia
+1306,Cliente_1306,Standard,Umbria
+1307,Cliente_1307,Standard,Abruzzo
+1308,Cliente_1308,Standard,Molise
+1309,Cliente_1309,Standard,Emilia-Romagna
+1310,Cliente_1310,Premium,Friuli-Venezia Giulia
+1311,Cliente_1311,Standard,Veneto
+1312,Cliente_1312,Standard,Sicilia
+1313,Cliente_1313,Standard,Lazio
+1314,Cliente_1314,Premium,Emilia-Romagna
+1315,Cliente_1315,Standard,Trentino-Alto Adige
+1316,Cliente_1316,Standard,Sardegna
+1317,Cliente_1317,Premium,Basilicata
+1318,Cliente_1318,Premium,Lazio
+1319,Cliente_1319,Standard,Molise
+1320,Cliente_1320,Premium,Lazio
+1321,Cliente_1321,Premium,Piemonte
+1322,Cliente_1322,Standard,Valle d'Aosta
+1323,Cliente_1323,Premium,Valle d'Aosta
+1324,Cliente_1324,Premium,Friuli-Venezia Giulia
+1325,Cliente_1325,Premium,Trentino-Alto Adige
+1326,Cliente_1326,Premium,Liguria
+1327,Cliente_1327,Standard,Sardegna
+1328,Cliente_1328,Standard,Abruzzo
+1329,Cliente_1329,Standard,Lazio
+1330,Cliente_1330,Standard,Veneto
+1331,Cliente_1331,Standard,Trentino-Alto Adige
+1332,Cliente_1332,Premium,Molise
+1333,Cliente_1333,Standard,Liguria
+1334,Cliente_1334,Premium,Sardegna
+1335,Cliente_1335,Standard,Calabria
+1336,Cliente_1336,Standard,Veneto
+1337,Cliente_1337,Standard,Basilicata
+1338,Cliente_1338,Standard,Veneto
+1339,Cliente_1339,Standard,Trentino-Alto Adige
+1340,Cliente_1340,Premium,Umbria
+1341,Cliente_1341,Premium,Basilicata
+1342,Cliente_1342,Standard,Valle d'Aosta
+1343,Cliente_1343,Standard,Friuli-Venezia Giulia
+1344,Cliente_1344,Standard,Emilia-Romagna
+1345,Cliente_1345,Standard,Lazio
+1346,Cliente_1346,Premium,Liguria
+1347,Cliente_1347,Premium,Emilia-Romagna
+1348,Cliente_1348,Standard,Basilicata
+1349,Cliente_1349,Standard,Veneto
+1350,Cliente_1350,Premium,Sardegna
+1351,Cliente_1351,Premium,Sardegna
+1352,Cliente_1352,Standard,Marche
+1353,Cliente_1353,Premium,Sardegna
+1354,Cliente_1354,Standard,Marche
+1355,Cliente_1355,Standard,Molise
+1356,Cliente_1356,Premium,Calabria
+1357,Cliente_1357,Standard,Sardegna
+1358,Cliente_1358,Standard,Piemonte
+1359,Cliente_1359,Standard,Puglia
+1360,Cliente_1360,Standard,Sardegna
+1361,Cliente_1361,Standard,Puglia
+1362,Cliente_1362,Standard,Piemonte
+1363,Cliente_1363,Standard,Emilia-Romagna
+1364,Cliente_1364,Standard,Emilia-Romagna
+1365,Cliente_1365,Premium,Sicilia
+1366,Cliente_1366,Premium,Emilia-Romagna
+1367,Cliente_1367,Standard,Friuli-Venezia Giulia
+1368,Cliente_1368,Premium,Sardegna
+1369,Cliente_1369,Standard,Toscana
+1370,Cliente_1370,Premium,Lazio
+1371,Cliente_1371,Premium,Lombardia
+1372,Cliente_1372,Premium,Liguria
+1373,Cliente_1373,Standard,Campania
+1374,Cliente_1374,Standard,Valle d'Aosta
+1375,Cliente_1375,Premium,Liguria
+1376,Cliente_1376,Premium,Piemonte
+1377,Cliente_1377,Standard,Veneto
+1378,Cliente_1378,Premium,Piemonte
+1379,Cliente_1379,Premium,Campania
+1380,Cliente_1380,Standard,Liguria
+1381,Cliente_1381,Premium,Lombardia
+1382,Cliente_1382,Standard,Emilia-Romagna
+1383,Cliente_1383,Premium,Valle d'Aosta
+1384,Cliente_1384,Standard,Emilia-Romagna
+1385,Cliente_1385,Standard,Campania
+1386,Cliente_1386,Standard,Valle d'Aosta
+1387,Cliente_1387,Premium,Abruzzo
+1388,Cliente_1388,Premium,Lombardia
+1389,Cliente_1389,Premium,Abruzzo
+1390,Cliente_1390,Premium,Basilicata
+1391,Cliente_1391,Standard,Sicilia
+1392,Cliente_1392,Premium,Toscana
+1393,Cliente_1393,Premium,Sicilia
+1394,Cliente_1394,Premium,Sicilia
+1395,Cliente_1395,Premium,Sardegna
+1396,Cliente_1396,Premium,Campania
+1397,Cliente_1397,Standard,Trentino-Alto Adige
+1398,Cliente_1398,Premium,Sicilia
+1399,Cliente_1399,Standard,Basilicata
+1400,Cliente_1400,Premium,Liguria
+1401,Cliente_1401,Premium,Umbria
+1402,Cliente_1402,Standard,Calabria
+1403,Cliente_1403,Standard,Toscana
+1404,Cliente_1404,Standard,Trentino-Alto Adige
+1405,Cliente_1405,Standard,Calabria
+1406,Cliente_1406,Premium,Basilicata
+1407,Cliente_1407,Premium,Trentino-Alto Adige
+1408,Cliente_1408,Premium,Campania
+1409,Cliente_1409,Standard,Emilia-Romagna
+1410,Cliente_1410,Standard,Lazio
+1411,Cliente_1411,Premium,Campania
+1412,Cliente_1412,Standard,Sardegna
+1413,Cliente_1413,Premium,Basilicata
+1414,Cliente_1414,Standard,Marche
+1415,Cliente_1415,Standard,Piemonte
+1416,Cliente_1416,Premium,Abruzzo
+1417,Cliente_1417,Premium,Sicilia
+1418,Cliente_1418,Standard,Calabria
+1419,Cliente_1419,Standard,Marche
+1420,Cliente_1420,Premium,Puglia
+1421,Cliente_1421,Standard,Veneto
+1422,Cliente_1422,Standard,Sardegna
+1423,Cliente_1423,Premium,Friuli-Venezia Giulia
+1424,Cliente_1424,Premium,Marche
+1425,Cliente_1425,Premium,Veneto
+1426,Cliente_1426,Premium,Umbria
+1427,Cliente_1427,Standard,Abruzzo
+1428,Cliente_1428,Standard,Marche
+1429,Cliente_1429,Premium,Abruzzo
+1430,Cliente_1430,Premium,Sardegna
+1431,Cliente_1431,Premium,Veneto
+1432,Cliente_1432,Standard,Molise
+1433,Cliente_1433,Premium,Emilia-Romagna
+1434,Cliente_1434,Premium,Lazio
+1435,Cliente_1435,Standard,Calabria
+1436,Cliente_1436,Premium,Trentino-Alto Adige
+1437,Cliente_1437,Standard,Lombardia
+1438,Cliente_1438,Standard,Trentino-Alto Adige
+1439,Cliente_1439,Premium,Basilicata
+1440,Cliente_1440,Standard,Sicilia
+1441,Cliente_1441,Standard,Calabria
+1442,Cliente_1442,Premium,Lombardia
+1443,Cliente_1443,Premium,Basilicata
+1444,Cliente_1444,Premium,Marche
+1445,Cliente_1445,Premium,Umbria
+1446,Cliente_1446,Premium,Toscana
+1447,Cliente_1447,Premium,Trentino-Alto Adige
+1448,Cliente_1448,Standard,Toscana
+1449,Cliente_1449,Standard,Piemonte
+1450,Cliente_1450,Standard,Lombardia
+1451,Cliente_1451,Premium,Lombardia
+1452,Cliente_1452,Premium,Sicilia
+1453,Cliente_1453,Premium,Friuli-Venezia Giulia
+1454,Cliente_1454,Premium,Sicilia
+1455,Cliente_1455,Premium,Umbria
+1456,Cliente_1456,Standard,Lombardia
+1457,Cliente_1457,Premium,Molise
+1458,Cliente_1458,Standard,Lombardia
+1459,Cliente_1459,Premium,Calabria
+1460,Cliente_1460,Premium,Molise
+1461,Cliente_1461,Premium,Basilicata
+1462,Cliente_1462,Standard,Emilia-Romagna
+1463,Cliente_1463,Standard,Valle d'Aosta
+1464,Cliente_1464,Premium,Marche
+1465,Cliente_1465,Standard,Toscana
+1466,Cliente_1466,Premium,Valle d'Aosta
+1467,Cliente_1467,Standard,Trentino-Alto Adige
+1468,Cliente_1468,Premium,Lombardia
+1469,Cliente_1469,Premium,Piemonte
+1470,Cliente_1470,Premium,Marche
+1471,Cliente_1471,Premium,Abruzzo
+1472,Cliente_1472,Standard,Sicilia
+1473,Cliente_1473,Standard,Lazio
+1474,Cliente_1474,Standard,Friuli-Venezia Giulia
+1475,Cliente_1475,Premium,Umbria
+1476,Cliente_1476,Premium,Abruzzo
+1477,Cliente_1477,Premium,Piemonte
+1478,Cliente_1478,Premium,Umbria
+1479,Cliente_1479,Standard,Liguria
+1480,Cliente_1480,Standard,Molise
+1481,Cliente_1481,Standard,Friuli-Venezia Giulia
+1482,Cliente_1482,Standard,Marche
+1483,Cliente_1483,Premium,Marche
+1484,Cliente_1484,Premium,Calabria
+1485,Cliente_1485,Standard,Sardegna
+1486,Cliente_1486,Standard,Liguria
+1487,Cliente_1487,Premium,Sardegna
+1488,Cliente_1488,Premium,Calabria
+1489,Cliente_1489,Premium,Basilicata
+1490,Cliente_1490,Premium,Trentino-Alto Adige
+1491,Cliente_1491,Standard,Campania
+1492,Cliente_1492,Premium,Lombardia
+1493,Cliente_1493,Premium,Veneto
+1494,Cliente_1494,Premium,Calabria
+1495,Cliente_1495,Standard,Toscana
+1496,Cliente_1496,Standard,Molise
+1497,Cliente_1497,Standard,Calabria
+1498,Cliente_1498,Standard,Friuli-Venezia Giulia
+1499,Cliente_1499,Premium,Calabria
+1500,Cliente_1500,Premium,Lombardia
+1501,Cliente_1501,Standard,Valle d'Aosta
+1502,Cliente_1502,Standard,Molise
+1503,Cliente_1503,Standard,Veneto
+1504,Cliente_1504,Premium,Trentino-Alto Adige
+1505,Cliente_1505,Premium,Friuli-Venezia Giulia
+1506,Cliente_1506,Premium,Puglia
+1507,Cliente_1507,Premium,Abruzzo
+1508,Cliente_1508,Premium,Umbria
+1509,Cliente_1509,Premium,Toscana
+1510,Cliente_1510,Premium,Veneto
+1511,Cliente_1511,Standard,Friuli-Venezia Giulia
+1512,Cliente_1512,Standard,Calabria
+1513,Cliente_1513,Premium,Friuli-Venezia Giulia
+1514,Cliente_1514,Standard,Friuli-Venezia Giulia
+1515,Cliente_1515,Standard,Trentino-Alto Adige
+1516,Cliente_1516,Standard,Veneto
+1517,Cliente_1517,Standard,Toscana
+1518,Cliente_1518,Standard,Calabria
+1519,Cliente_1519,Standard,Veneto
+1520,Cliente_1520,Premium,Basilicata
+1521,Cliente_1521,Standard,Marche
+1522,Cliente_1522,Standard,Veneto
+1523,Cliente_1523,Premium,Umbria
+1524,Cliente_1524,Premium,Molise
+1525,Cliente_1525,Premium,Molise
+1526,Cliente_1526,Premium,Emilia-Romagna
+1527,Cliente_1527,Standard,Liguria
+1528,Cliente_1528,Premium,Campania
+1529,Cliente_1529,Premium,Basilicata
+1530,Cliente_1530,Standard,Emilia-Romagna
+1531,Cliente_1531,Premium,Valle d'Aosta
+1532,Cliente_1532,Standard,Sardegna
+1533,Cliente_1533,Premium,Toscana
+1534,Cliente_1534,Standard,Lazio
+1535,Cliente_1535,Premium,Sicilia
+1536,Cliente_1536,Standard,Umbria
+1537,Cliente_1537,Premium,Toscana
+1538,Cliente_1538,Standard,Friuli-Venezia Giulia
+1539,Cliente_1539,Premium,Liguria
+1540,Cliente_1540,Standard,Emilia-Romagna
+1541,Cliente_1541,Premium,Molise
+1542,Cliente_1542,Standard,Friuli-Venezia Giulia
+1543,Cliente_1543,Premium,Emilia-Romagna
+1544,Cliente_1544,Standard,Calabria
+1545,Cliente_1545,Premium,Veneto
+1546,Cliente_1546,Premium,Umbria
+1547,Cliente_1547,Standard,Umbria
+1548,Cliente_1548,Standard,Liguria
+1549,Cliente_1549,Premium,Marche
+1550,Cliente_1550,Premium,Emilia-Romagna
+1551,Cliente_1551,Standard,Lazio
+1552,Cliente_1552,Standard,Sardegna
+1553,Cliente_1553,Standard,Puglia
+1554,Cliente_1554,Standard,Toscana
+1555,Cliente_1555,Standard,Toscana
+1556,Cliente_1556,Premium,Sardegna
+1557,Cliente_1557,Premium,Liguria
+1558,Cliente_1558,Standard,Trentino-Alto Adige
+1559,Cliente_1559,Premium,Piemonte
+1560,Cliente_1560,Premium,Molise
+1561,Cliente_1561,Premium,Campania
+1562,Cliente_1562,Premium,Liguria
+1563,Cliente_1563,Premium,Liguria
+1564,Cliente_1564,Standard,Piemonte
+1565,Cliente_1565,Premium,Sicilia
+1566,Cliente_1566,Standard,Piemonte
+1567,Cliente_1567,Premium,Lombardia
+1568,Cliente_1568,Standard,Marche
+1569,Cliente_1569,Premium,Campania
+1570,Cliente_1570,Premium,Sardegna
+1571,Cliente_1571,Standard,Friuli-Venezia Giulia
+1572,Cliente_1572,Premium,Campania
+1573,Cliente_1573,Standard,Piemonte
+1574,Cliente_1574,Premium,Valle d'Aosta
+1575,Cliente_1575,Premium,Piemonte
+1576,Cliente_1576,Premium,Friuli-Venezia Giulia
+1577,Cliente_1577,Standard,Basilicata
+1578,Cliente_1578,Standard,Trentino-Alto Adige
+1579,Cliente_1579,Standard,Sardegna
+1580,Cliente_1580,Premium,Molise
+1581,Cliente_1581,Premium,Sicilia
+1582,Cliente_1582,Premium,Sardegna
+1583,Cliente_1583,Standard,Trentino-Alto Adige
+1584,Cliente_1584,Standard,Calabria
+1585,Cliente_1585,Standard,Calabria
+1586,Cliente_1586,Standard,Toscana
+1587,Cliente_1587,Premium,Sicilia
+1588,Cliente_1588,Premium,Marche
+1589,Cliente_1589,Standard,Valle d'Aosta
+1590,Cliente_1590,Standard,Liguria
+1591,Cliente_1591,Standard,Toscana
+1592,Cliente_1592,Standard,Trentino-Alto Adige
+1593,Cliente_1593,Premium,Calabria
+1594,Cliente_1594,Premium,Molise
+1595,Cliente_1595,Standard,Basilicata
+1596,Cliente_1596,Premium,Puglia
+1597,Cliente_1597,Premium,Lombardia
+1598,Cliente_1598,Premium,Basilicata
+1599,Cliente_1599,Premium,Veneto
+1600,Cliente_1600,Premium,Marche
+1601,Cliente_1601,Standard,Puglia
+1602,Cliente_1602,Standard,Basilicata
+1603,Cliente_1603,Premium,Toscana
+1604,Cliente_1604,Standard,Marche
+1605,Cliente_1605,Premium,Veneto
+1606,Cliente_1606,Standard,Trentino-Alto Adige
+1607,Cliente_1607,Standard,Sardegna
+1608,Cliente_1608,Standard,Piemonte
+1609,Cliente_1609,Standard,Molise
+1610,Cliente_1610,Standard,Veneto
+1611,Cliente_1611,Premium,Lazio
+1612,Cliente_1612,Premium,Basilicata
+1613,Cliente_1613,Standard,Veneto
+1614,Cliente_1614,Standard,Valle d'Aosta
+1615,Cliente_1615,Premium,Molise
+1616,Cliente_1616,Standard,Emilia-Romagna
+1617,Cliente_1617,Premium,Piemonte
+1618,Cliente_1618,Premium,Toscana
+1619,Cliente_1619,Premium,Trentino-Alto Adige
+1620,Cliente_1620,Premium,Valle d'Aosta
+1621,Cliente_1621,Premium,Liguria
+1622,Cliente_1622,Standard,Piemonte
+1623,Cliente_1623,Premium,Friuli-Venezia Giulia
+1624,Cliente_1624,Premium,Sicilia
+1625,Cliente_1625,Standard,Liguria
+1626,Cliente_1626,Standard,Umbria
+1627,Cliente_1627,Premium,Basilicata
+1628,Cliente_1628,Premium,Piemonte
+1629,Cliente_1629,Standard,Toscana
+1630,Cliente_1630,Standard,Abruzzo
+1631,Cliente_1631,Standard,Puglia
+1632,Cliente_1632,Standard,Trentino-Alto Adige
+1633,Cliente_1633,Premium,Basilicata
+1634,Cliente_1634,Premium,Campania
+1635,Cliente_1635,Standard,Lombardia
+1636,Cliente_1636,Premium,Molise
+1637,Cliente_1637,Premium,Toscana
+1638,Cliente_1638,Standard,Calabria
+1639,Cliente_1639,Premium,Molise
+1640,Cliente_1640,Premium,Valle d'Aosta
+1641,Cliente_1641,Standard,Trentino-Alto Adige
+1642,Cliente_1642,Standard,Sicilia
+1643,Cliente_1643,Premium,Valle d'Aosta
+1644,Cliente_1644,Standard,Molise
+1645,Cliente_1645,Premium,Valle d'Aosta
+1646,Cliente_1646,Premium,Umbria
+1647,Cliente_1647,Premium,Piemonte
+1648,Cliente_1648,Standard,Abruzzo
+1649,Cliente_1649,Premium,Marche
+1650,Cliente_1650,Premium,Abruzzo
+1651,Cliente_1651,Premium,Trentino-Alto Adige
+1652,Cliente_1652,Standard,Sardegna
+1653,Cliente_1653,Premium,Basilicata
+1654,Cliente_1654,Premium,Piemonte
+1655,Cliente_1655,Premium,Toscana
+1656,Cliente_1656,Premium,Emilia-Romagna
+1657,Cliente_1657,Standard,Sicilia
+1658,Cliente_1658,Premium,Toscana
+1659,Cliente_1659,Standard,Emilia-Romagna
+1660,Cliente_1660,Premium,Liguria
+1661,Cliente_1661,Premium,Molise
+1662,Cliente_1662,Standard,Piemonte
+1663,Cliente_1663,Premium,Abruzzo
+1664,Cliente_1664,Standard,Molise
+1665,Cliente_1665,Premium,Piemonte
+1666,Cliente_1666,Standard,Trentino-Alto Adige
+1667,Cliente_1667,Premium,Puglia
+1668,Cliente_1668,Standard,Abruzzo
+1669,Cliente_1669,Premium,Sicilia
+1670,Cliente_1670,Standard,Basilicata
+1671,Cliente_1671,Standard,Umbria
+1672,Cliente_1672,Standard,Liguria
+1673,Cliente_1673,Premium,Valle d'Aosta
+1674,Cliente_1674,Standard,Valle d'Aosta
+1675,Cliente_1675,Premium,Trentino-Alto Adige
+1676,Cliente_1676,Premium,Lazio
+1677,Cliente_1677,Standard,Sicilia
+1678,Cliente_1678,Premium,Molise
+1679,Cliente_1679,Premium,Calabria
+1680,Cliente_1680,Premium,Valle d'Aosta
+1681,Cliente_1681,Standard,Sardegna
+1682,Cliente_1682,Premium,Valle d'Aosta
+1683,Cliente_1683,Premium,Trentino-Alto Adige
+1684,Cliente_1684,Standard,Molise
+1685,Cliente_1685,Standard,Piemonte
+1686,Cliente_1686,Premium,Sicilia
+1687,Cliente_1687,Standard,Molise
+1688,Cliente_1688,Standard,Veneto
+1689,Cliente_1689,Premium,Puglia
+1690,Cliente_1690,Premium,Toscana
+1691,Cliente_1691,Premium,Piemonte
+1692,Cliente_1692,Standard,Emilia-Romagna
+1693,Cliente_1693,Premium,Umbria
+1694,Cliente_1694,Premium,Calabria
+1695,Cliente_1695,Standard,Toscana
+1696,Cliente_1696,Premium,Abruzzo
+1697,Cliente_1697,Premium,Veneto
+1698,Cliente_1698,Standard,Lombardia
+1699,Cliente_1699,Standard,Marche
+1700,Cliente_1700,Premium,Emilia-Romagna
+1701,Cliente_1701,Standard,Sicilia
+1702,Cliente_1702,Premium,Veneto
+1703,Cliente_1703,Standard,Valle d'Aosta
+1704,Cliente_1704,Premium,Emilia-Romagna
+1705,Cliente_1705,Standard,Liguria
+1706,Cliente_1706,Standard,Lombardia
+1707,Cliente_1707,Standard,Sicilia
+1708,Cliente_1708,Standard,Basilicata
+1709,Cliente_1709,Premium,Marche
+1710,Cliente_1710,Premium,Friuli-Venezia Giulia
+1711,Cliente_1711,Premium,Emilia-Romagna
+1712,Cliente_1712,Premium,Sardegna
+1713,Cliente_1713,Standard,Lazio
+1714,Cliente_1714,Standard,Umbria
+1715,Cliente_1715,Standard,Lazio
+1716,Cliente_1716,Standard,Veneto
+1717,Cliente_1717,Premium,Calabria
+1718,Cliente_1718,Premium,Valle d'Aosta
+1719,Cliente_1719,Premium,Trentino-Alto Adige
+1720,Cliente_1720,Standard,Lombardia
+1721,Cliente_1721,Standard,Trentino-Alto Adige
+1722,Cliente_1722,Standard,Sardegna
+1723,Cliente_1723,Premium,Toscana
+1724,Cliente_1724,Standard,Campania
+1725,Cliente_1725,Standard,Valle d'Aosta
+1726,Cliente_1726,Standard,Valle d'Aosta
+1727,Cliente_1727,Premium,Lazio
+1728,Cliente_1728,Premium,Valle d'Aosta
+1729,Cliente_1729,Premium,Sicilia
+1730,Cliente_1730,Premium,Trentino-Alto Adige
+1731,Cliente_1731,Premium,Puglia
+1732,Cliente_1732,Premium,Toscana
+1733,Cliente_1733,Standard,Sardegna
+1734,Cliente_1734,Premium,Emilia-Romagna
+1735,Cliente_1735,Standard,Sardegna
+1736,Cliente_1736,Standard,Campania
+1737,Cliente_1737,Standard,Umbria
+1738,Cliente_1738,Standard,Trentino-Alto Adige
+1739,Cliente_1739,Standard,Friuli-Venezia Giulia
+1740,Cliente_1740,Standard,Emilia-Romagna
+1741,Cliente_1741,Premium,Liguria
+1742,Cliente_1742,Standard,Emilia-Romagna
+1743,Cliente_1743,Standard,Piemonte
+1744,Cliente_1744,Standard,Abruzzo
+1745,Cliente_1745,Standard,Toscana
+1746,Cliente_1746,Standard,Marche
+1747,Cliente_1747,Premium,Sicilia
+1748,Cliente_1748,Premium,Liguria
+1749,Cliente_1749,Premium,Lazio
+1750,Cliente_1750,Standard,Lombardia
+1751,Cliente_1751,Standard,Umbria
+1752,Cliente_1752,Standard,Umbria
+1753,Cliente_1753,Standard,Trentino-Alto Adige
+1754,Cliente_1754,Standard,Friuli-Venezia Giulia
+1755,Cliente_1755,Premium,Veneto
+1756,Cliente_1756,Standard,Molise
+1757,Cliente_1757,Standard,Lazio
+1758,Cliente_1758,Standard,Liguria
+1759,Cliente_1759,Premium,Marche
+1760,Cliente_1760,Standard,Friuli-Venezia Giulia
+1761,Cliente_1761,Premium,Friuli-Venezia Giulia
+1762,Cliente_1762,Premium,Lazio
+1763,Cliente_1763,Standard,Molise
+1764,Cliente_1764,Standard,Toscana
+1765,Cliente_1765,Premium,Veneto
+1766,Cliente_1766,Standard,Liguria
+1767,Cliente_1767,Premium,Lombardia
+1768,Cliente_1768,Standard,Puglia
+1769,Cliente_1769,Standard,Emilia-Romagna
+1770,Cliente_1770,Standard,Sardegna
+1771,Cliente_1771,Standard,Puglia
+1772,Cliente_1772,Premium,Umbria
+1773,Cliente_1773,Premium,Basilicata
+1774,Cliente_1774,Premium,Calabria
+1775,Cliente_1775,Standard,Toscana
+1776,Cliente_1776,Premium,Marche
+1777,Cliente_1777,Standard,Puglia
+1778,Cliente_1778,Premium,Toscana
+1779,Cliente_1779,Standard,Sicilia
+1780,Cliente_1780,Premium,Abruzzo
+1781,Cliente_1781,Standard,Lazio
+1782,Cliente_1782,Premium,Molise
+1783,Cliente_1783,Premium,Sicilia
+1784,Cliente_1784,Standard,Molise
+1785,Cliente_1785,Standard,Calabria
+1786,Cliente_1786,Premium,Molise
+1787,Cliente_1787,Premium,Calabria
+1788,Cliente_1788,Standard,Sicilia
+1789,Cliente_1789,Premium,Calabria
+1790,Cliente_1790,Premium,Abruzzo
+1791,Cliente_1791,Premium,Molise
+1792,Cliente_1792,Standard,Liguria
+1793,Cliente_1793,Premium,Lombardia
+1794,Cliente_1794,Standard,Lombardia
+1795,Cliente_1795,Standard,Lazio
+1796,Cliente_1796,Standard,Trentino-Alto Adige
+1797,Cliente_1797,Premium,Valle d'Aosta
+1798,Cliente_1798,Standard,Sicilia
+1799,Cliente_1799,Standard,Calabria
+1800,Cliente_1800,Standard,Piemonte
+1801,Cliente_1801,Standard,Toscana
+1802,Cliente_1802,Standard,Campania
+1803,Cliente_1803,Standard,Liguria
+1804,Cliente_1804,Standard,Emilia-Romagna
+1805,Cliente_1805,Premium,Emilia-Romagna
+1806,Cliente_1806,Standard,Lazio
+1807,Cliente_1807,Premium,Marche
+1808,Cliente_1808,Standard,Valle d'Aosta
+1809,Cliente_1809,Standard,Puglia
+1810,Cliente_1810,Standard,Valle d'Aosta
+1811,Cliente_1811,Standard,Valle d'Aosta
+1812,Cliente_1812,Standard,Friuli-Venezia Giulia
+1813,Cliente_1813,Premium,Basilicata
+1814,Cliente_1814,Premium,Valle d'Aosta
+1815,Cliente_1815,Standard,Trentino-Alto Adige
+1816,Cliente_1816,Standard,Umbria
+1817,Cliente_1817,Standard,Marche
+1818,Cliente_1818,Premium,Molise
+1819,Cliente_1819,Standard,Campania
+1820,Cliente_1820,Standard,Puglia
+1821,Cliente_1821,Standard,Sardegna
+1822,Cliente_1822,Premium,Molise
+1823,Cliente_1823,Standard,Umbria
+1824,Cliente_1824,Premium,Emilia-Romagna
+1825,Cliente_1825,Premium,Lazio
+1826,Cliente_1826,Standard,Basilicata
+1827,Cliente_1827,Standard,Lazio
+1828,Cliente_1828,Premium,Molise
+1829,Cliente_1829,Standard,Valle d'Aosta
+1830,Cliente_1830,Premium,Trentino-Alto Adige
+1831,Cliente_1831,Standard,Valle d'Aosta
+1832,Cliente_1832,Standard,Calabria
+1833,Cliente_1833,Standard,Veneto
+1834,Cliente_1834,Standard,Lombardia
+1835,Cliente_1835,Standard,Sicilia
+1836,Cliente_1836,Standard,Liguria
+1837,Cliente_1837,Premium,Marche
+1838,Cliente_1838,Standard,Molise
+1839,Cliente_1839,Premium,Toscana
+1840,Cliente_1840,Standard,Umbria
+1841,Cliente_1841,Premium,Emilia-Romagna
+1842,Cliente_1842,Premium,Marche
+1843,Cliente_1843,Premium,Calabria
+1844,Cliente_1844,Premium,Molise
+1845,Cliente_1845,Standard,Liguria
+1846,Cliente_1846,Standard,Veneto
+1847,Cliente_1847,Premium,Calabria
+1848,Cliente_1848,Standard,Umbria
+1849,Cliente_1849,Standard,Puglia
+1850,Cliente_1850,Standard,Umbria
+1851,Cliente_1851,Premium,Lazio
+1852,Cliente_1852,Premium,Umbria
+1853,Cliente_1853,Premium,Molise
+1854,Cliente_1854,Standard,Lombardia
+1855,Cliente_1855,Premium,Campania
+1856,Cliente_1856,Standard,Sicilia
+1857,Cliente_1857,Premium,Lombardia
+1858,Cliente_1858,Premium,Lombardia
+1859,Cliente_1859,Premium,Sardegna
+1860,Cliente_1860,Premium,Sardegna
+1861,Cliente_1861,Premium,Sardegna
+1862,Cliente_1862,Standard,Molise
+1863,Cliente_1863,Standard,Lazio
+1864,Cliente_1864,Premium,Valle d'Aosta
+1865,Cliente_1865,Premium,Sardegna
+1866,Cliente_1866,Premium,Basilicata
+1867,Cliente_1867,Standard,Liguria
+1868,Cliente_1868,Standard,Friuli-Venezia Giulia
+1869,Cliente_1869,Premium,Umbria
+1870,Cliente_1870,Premium,Lazio
+1871,Cliente_1871,Standard,Puglia
+1872,Cliente_1872,Standard,Veneto
+1873,Cliente_1873,Premium,Piemonte
+1874,Cliente_1874,Standard,Molise
+1875,Cliente_1875,Standard,Valle d'Aosta
+1876,Cliente_1876,Standard,Basilicata
+1877,Cliente_1877,Standard,Abruzzo
+1878,Cliente_1878,Premium,Lazio
+1879,Cliente_1879,Standard,Puglia
+1880,Cliente_1880,Standard,Friuli-Venezia Giulia
+1881,Cliente_1881,Premium,Umbria
+1882,Cliente_1882,Premium,Veneto
+1883,Cliente_1883,Premium,Friuli-Venezia Giulia
+1884,Cliente_1884,Premium,Abruzzo
+1885,Cliente_1885,Standard,Sicilia
+1886,Cliente_1886,Premium,Puglia
+1887,Cliente_1887,Premium,Valle d'Aosta
+1888,Cliente_1888,Premium,Marche
+1889,Cliente_1889,Premium,Basilicata
+1890,Cliente_1890,Premium,Veneto
+1891,Cliente_1891,Standard,Sardegna
+1892,Cliente_1892,Standard,Toscana
+1893,Cliente_1893,Standard,Lazio
+1894,Cliente_1894,Premium,Piemonte
+1895,Cliente_1895,Premium,Trentino-Alto Adige
+1896,Cliente_1896,Standard,Liguria
+1897,Cliente_1897,Standard,Abruzzo
+1898,Cliente_1898,Premium,Basilicata
+1899,Cliente_1899,Premium,Abruzzo
+1900,Cliente_1900,Standard,Umbria
+1901,Cliente_1901,Premium,Marche
+1902,Cliente_1902,Standard,Veneto
+1903,Cliente_1903,Premium,Umbria
+1904,Cliente_1904,Premium,Campania
+1905,Cliente_1905,Standard,Molise
+1906,Cliente_1906,Premium,Sicilia
+1907,Cliente_1907,Premium,Umbria
+1908,Cliente_1908,Premium,Sicilia
+1909,Cliente_1909,Standard,Puglia
+1910,Cliente_1910,Premium,Basilicata
+1911,Cliente_1911,Premium,Umbria
+1912,Cliente_1912,Premium,Trentino-Alto Adige
+1913,Cliente_1913,Standard,Umbria
+1914,Cliente_1914,Standard,Piemonte
+1915,Cliente_1915,Standard,Lombardia
+1916,Cliente_1916,Standard,Toscana
+1917,Cliente_1917,Premium,Puglia
+1918,Cliente_1918,Premium,Piemonte
+1919,Cliente_1919,Standard,Friuli-Venezia Giulia
+1920,Cliente_1920,Standard,Abruzzo
+1921,Cliente_1921,Premium,Trentino-Alto Adige
+1922,Cliente_1922,Standard,Molise
+1923,Cliente_1923,Standard,Abruzzo
+1924,Cliente_1924,Standard,Lombardia
+1925,Cliente_1925,Premium,Lombardia
+1926,Cliente_1926,Standard,Veneto
+1927,Cliente_1927,Premium,Trentino-Alto Adige
+1928,Cliente_1928,Standard,Umbria
+1929,Cliente_1929,Premium,Puglia
+1930,Cliente_1930,Premium,Marche
+1931,Cliente_1931,Premium,Piemonte
+1932,Cliente_1932,Standard,Trentino-Alto Adige
+1933,Cliente_1933,Premium,Liguria
+1934,Cliente_1934,Standard,Umbria
+1935,Cliente_1935,Premium,Lombardia
+1936,Cliente_1936,Standard,Abruzzo
+1937,Cliente_1937,Standard,Lazio
+1938,Cliente_1938,Standard,Liguria
+1939,Cliente_1939,Standard,Veneto
+1940,Cliente_1940,Premium,Piemonte
+1941,Cliente_1941,Premium,Liguria
+1942,Cliente_1942,Premium,Sardegna
+1943,Cliente_1943,Premium,Piemonte
+1944,Cliente_1944,Premium,Trentino-Alto Adige
+1945,Cliente_1945,Standard,Sicilia
+1946,Cliente_1946,Standard,Piemonte
+1947,Cliente_1947,Standard,Valle d'Aosta
+1948,Cliente_1948,Standard,Liguria
+1949,Cliente_1949,Standard,Umbria
+1950,Cliente_1950,Premium,Puglia
+1951,Cliente_1951,Premium,Lazio
+1952,Cliente_1952,Standard,Molise
+1953,Cliente_1953,Standard,Friuli-Venezia Giulia
+1954,Cliente_1954,Standard,Emilia-Romagna
+1955,Cliente_1955,Standard,Lombardia
+1956,Cliente_1956,Standard,Toscana
+1957,Cliente_1957,Premium,Trentino-Alto Adige
+1958,Cliente_1958,Standard,Sicilia
+1959,Cliente_1959,Premium,Sicilia
+1960,Cliente_1960,Standard,Sardegna
+1961,Cliente_1961,Premium,Molise
+1962,Cliente_1962,Premium,Friuli-Venezia Giulia
+1963,Cliente_1963,Premium,Sicilia
+1964,Cliente_1964,Premium,Sardegna
+1965,Cliente_1965,Premium,Basilicata
+1966,Cliente_1966,Premium,Puglia
+1967,Cliente_1967,Standard,Sicilia
+1968,Cliente_1968,Standard,Basilicata
+1969,Cliente_1969,Premium,Friuli-Venezia Giulia
+1970,Cliente_1970,Premium,Molise
+1971,Cliente_1971,Standard,Veneto
+1972,Cliente_1972,Standard,Trentino-Alto Adige
+1973,Cliente_1973,Standard,Lombardia
+1974,Cliente_1974,Premium,Piemonte
+1975,Cliente_1975,Premium,Sardegna
+1976,Cliente_1976,Premium,Toscana
+1977,Cliente_1977,Standard,Toscana
+1978,Cliente_1978,Premium,Toscana
+1979,Cliente_1979,Premium,Friuli-Venezia Giulia
+1980,Cliente_1980,Standard,Calabria
+1981,Cliente_1981,Standard,Abruzzo
+1982,Cliente_1982,Premium,Trentino-Alto Adige
+1983,Cliente_1983,Standard,Calabria
+1984,Cliente_1984,Premium,Sardegna
+1985,Cliente_1985,Standard,Marche
+1986,Cliente_1986,Standard,Veneto
+1987,Cliente_1987,Standard,Molise
+1988,Cliente_1988,Standard,Friuli-Venezia Giulia
+1989,Cliente_1989,Premium,Basilicata
+1990,Cliente_1990,Standard,Marche
+1991,Cliente_1991,Premium,Trentino-Alto Adige
+1992,Cliente_1992,Premium,Basilicata
+1993,Cliente_1993,Standard,Abruzzo
+1994,Cliente_1994,Premium,Liguria
+1995,Cliente_1995,Premium,Sardegna
+1996,Cliente_1996,Premium,Emilia-Romagna
+1997,Cliente_1997,Premium,Emilia-Romagna
+1998,Cliente_1998,Standard,Liguria
+1999,Cliente_1999,Standard,Piemonte
+2000,Cliente_2000,Premium,Trentino-Alto Adige
+2001,Cliente_2001,Standard,Basilicata
+2002,Cliente_2002,Premium,Molise
+2003,Cliente_2003,Premium,Friuli-Venezia Giulia
+2004,Cliente_2004,Standard,Trentino-Alto Adige
+2005,Cliente_2005,Standard,Lombardia
+2006,Cliente_2006,Standard,Abruzzo
+2007,Cliente_2007,Premium,Calabria
+2008,Cliente_2008,Standard,Sicilia
+2009,Cliente_2009,Premium,Calabria
+2010,Cliente_2010,Standard,Friuli-Venezia Giulia
+2011,Cliente_2011,Premium,Sardegna
+2012,Cliente_2012,Premium,Trentino-Alto Adige
+2013,Cliente_2013,Standard,Basilicata
+2014,Cliente_2014,Premium,Valle d'Aosta
+2015,Cliente_2015,Premium,Lazio
+2016,Cliente_2016,Premium,Abruzzo
+2017,Cliente_2017,Premium,Veneto
+2018,Cliente_2018,Standard,Emilia-Romagna
+2019,Cliente_2019,Premium,Basilicata
+2020,Cliente_2020,Premium,Calabria
+2021,Cliente_2021,Standard,Trentino-Alto Adige
+2022,Cliente_2022,Premium,Campania
+2023,Cliente_2023,Premium,Emilia-Romagna
+2024,Cliente_2024,Premium,Trentino-Alto Adige
+2025,Cliente_2025,Standard,Marche
+2026,Cliente_2026,Premium,Valle d'Aosta
+2027,Cliente_2027,Premium,Sardegna
+2028,Cliente_2028,Standard,Trentino-Alto Adige
+2029,Cliente_2029,Premium,Valle d'Aosta
+2030,Cliente_2030,Premium,Molise
+2031,Cliente_2031,Standard,Puglia
+2032,Cliente_2032,Standard,Lombardia
+2033,Cliente_2033,Standard,Emilia-Romagna
+2034,Cliente_2034,Premium,Marche
+2035,Cliente_2035,Premium,Trentino-Alto Adige
+2036,Cliente_2036,Premium,Calabria
+2037,Cliente_2037,Standard,Piemonte
+2038,Cliente_2038,Premium,Marche
+2039,Cliente_2039,Premium,Sardegna
+2040,Cliente_2040,Standard,Piemonte
+2041,Cliente_2041,Premium,Veneto
+2042,Cliente_2042,Standard,Friuli-Venezia Giulia
+2043,Cliente_2043,Premium,Marche
+2044,Cliente_2044,Premium,Sicilia
+2045,Cliente_2045,Standard,Liguria
+2046,Cliente_2046,Standard,Lazio
+2047,Cliente_2047,Premium,Emilia-Romagna
+2048,Cliente_2048,Premium,Abruzzo
+2049,Cliente_2049,Premium,Toscana
+2050,Cliente_2050,Premium,Marche
+2051,Cliente_2051,Premium,Liguria
+2052,Cliente_2052,Premium,Abruzzo
+2053,Cliente_2053,Standard,Calabria
+2054,Cliente_2054,Standard,Sardegna
+2055,Cliente_2055,Premium,Basilicata
+2056,Cliente_2056,Standard,Sicilia
+2057,Cliente_2057,Standard,Piemonte
+2058,Cliente_2058,Premium,Toscana
+2059,Cliente_2059,Standard,Sardegna
+2060,Cliente_2060,Standard,Molise
+2061,Cliente_2061,Standard,Liguria
+2062,Cliente_2062,Premium,Sardegna
+2063,Cliente_2063,Standard,Liguria
+2064,Cliente_2064,Premium,Lazio
+2065,Cliente_2065,Premium,Lazio
+2066,Cliente_2066,Premium,Liguria
+2067,Cliente_2067,Standard,Basilicata
+2068,Cliente_2068,Standard,Valle d'Aosta
+2069,Cliente_2069,Standard,Emilia-Romagna
+2070,Cliente_2070,Standard,Toscana
+2071,Cliente_2071,Premium,Toscana
+2072,Cliente_2072,Standard,Campania
+2073,Cliente_2073,Premium,Abruzzo
+2074,Cliente_2074,Standard,Abruzzo
+2075,Cliente_2075,Standard,Friuli-Venezia Giulia
+2076,Cliente_2076,Standard,Emilia-Romagna
+2077,Cliente_2077,Premium,Toscana
+2078,Cliente_2078,Premium,Sicilia
+2079,Cliente_2079,Premium,Sicilia
+2080,Cliente_2080,Premium,Molise
+2081,Cliente_2081,Standard,Puglia
+2082,Cliente_2082,Premium,Marche
+2083,Cliente_2083,Premium,Umbria
+2084,Cliente_2084,Premium,Veneto
+2085,Cliente_2085,Premium,Trentino-Alto Adige
+2086,Cliente_2086,Standard,Calabria
+2087,Cliente_2087,Standard,Veneto
+2088,Cliente_2088,Premium,Abruzzo
+2089,Cliente_2089,Standard,Friuli-Venezia Giulia
+2090,Cliente_2090,Premium,Basilicata
+2091,Cliente_2091,Standard,Veneto
+2092,Cliente_2092,Premium,Valle d'Aosta
+2093,Cliente_2093,Premium,Calabria
+2094,Cliente_2094,Premium,Sicilia
+2095,Cliente_2095,Premium,Toscana
+2096,Cliente_2096,Standard,Calabria
+2097,Cliente_2097,Premium,Toscana
+2098,Cliente_2098,Premium,Toscana
+2099,Cliente_2099,Standard,Molise
+2100,Cliente_2100,Premium,Piemonte
+2101,Cliente_2101,Premium,Sicilia
+2102,Cliente_2102,Premium,Valle d'Aosta
+2103,Cliente_2103,Standard,Veneto
+2104,Cliente_2104,Standard,Toscana
+2105,Cliente_2105,Premium,Piemonte
+2106,Cliente_2106,Standard,Emilia-Romagna
+2107,Cliente_2107,Premium,Trentino-Alto Adige
+2108,Cliente_2108,Standard,Liguria
+2109,Cliente_2109,Premium,Toscana
+2110,Cliente_2110,Standard,Friuli-Venezia Giulia
+2111,Cliente_2111,Standard,Campania
+2112,Cliente_2112,Standard,Emilia-Romagna
+2113,Cliente_2113,Premium,Calabria
+2114,Cliente_2114,Standard,Trentino-Alto Adige
+2115,Cliente_2115,Premium,Umbria
+2116,Cliente_2116,Standard,Marche
+2117,Cliente_2117,Premium,Friuli-Venezia Giulia
+2118,Cliente_2118,Standard,Piemonte
+2119,Cliente_2119,Premium,Sicilia
+2120,Cliente_2120,Premium,Campania
+2121,Cliente_2121,Premium,Umbria
+2122,Cliente_2122,Premium,Umbria
+2123,Cliente_2123,Premium,Basilicata
+2124,Cliente_2124,Standard,Sicilia
+2125,Cliente_2125,Standard,Sardegna
+2126,Cliente_2126,Standard,Abruzzo
+2127,Cliente_2127,Standard,Sardegna
+2128,Cliente_2128,Premium,Valle d'Aosta
+2129,Cliente_2129,Premium,Trentino-Alto Adige
+2130,Cliente_2130,Premium,Basilicata
+2131,Cliente_2131,Premium,Toscana
+2132,Cliente_2132,Standard,Campania
+2133,Cliente_2133,Premium,Lombardia
+2134,Cliente_2134,Standard,Trentino-Alto Adige
+2135,Cliente_2135,Premium,Valle d'Aosta
+2136,Cliente_2136,Standard,Campania
+2137,Cliente_2137,Standard,Molise
+2138,Cliente_2138,Standard,Umbria
+2139,Cliente_2139,Standard,Toscana
+2140,Cliente_2140,Standard,Toscana
+2141,Cliente_2141,Standard,Basilicata
+2142,Cliente_2142,Standard,Piemonte
+2143,Cliente_2143,Premium,Sardegna
+2144,Cliente_2144,Premium,Puglia
+2145,Cliente_2145,Standard,Valle d'Aosta
+2146,Cliente_2146,Premium,Friuli-Venezia Giulia
+2147,Cliente_2147,Standard,Valle d'Aosta
+2148,Cliente_2148,Standard,Friuli-Venezia Giulia
+2149,Cliente_2149,Standard,Puglia
+2150,Cliente_2150,Premium,Marche
+2151,Cliente_2151,Premium,Liguria
+2152,Cliente_2152,Standard,Trentino-Alto Adige
+2153,Cliente_2153,Premium,Campania
+2154,Cliente_2154,Standard,Lombardia
+2155,Cliente_2155,Standard,Lombardia
+2156,Cliente_2156,Premium,Lombardia
+2157,Cliente_2157,Premium,Valle d'Aosta
+2158,Cliente_2158,Standard,Calabria
+2159,Cliente_2159,Premium,Marche
+2160,Cliente_2160,Premium,Toscana
+2161,Cliente_2161,Premium,Marche
+2162,Cliente_2162,Standard,Friuli-Venezia Giulia
+2163,Cliente_2163,Premium,Lombardia
+2164,Cliente_2164,Premium,Molise
+2165,Cliente_2165,Premium,Abruzzo
+2166,Cliente_2166,Standard,Calabria
+2167,Cliente_2167,Premium,Umbria
+2168,Cliente_2168,Standard,Campania
+2169,Cliente_2169,Premium,Veneto
+2170,Cliente_2170,Standard,Friuli-Venezia Giulia
+2171,Cliente_2171,Premium,Sicilia
+2172,Cliente_2172,Premium,Puglia
+2173,Cliente_2173,Standard,Sardegna
+2174,Cliente_2174,Standard,Molise
+2175,Cliente_2175,Premium,Calabria
+2176,Cliente_2176,Premium,Emilia-Romagna
+2177,Cliente_2177,Premium,Marche
+2178,Cliente_2178,Standard,Umbria
+2179,Cliente_2179,Premium,Lazio
+2180,Cliente_2180,Premium,Sicilia
+2181,Cliente_2181,Standard,Emilia-Romagna
+2182,Cliente_2182,Premium,Sardegna
+2183,Cliente_2183,Premium,Umbria
+2184,Cliente_2184,Standard,Marche
+2185,Cliente_2185,Standard,Calabria
+2186,Cliente_2186,Premium,Umbria
+2187,Cliente_2187,Standard,Lombardia
+2188,Cliente_2188,Standard,Lazio
+2189,Cliente_2189,Premium,Molise
+2190,Cliente_2190,Standard,Piemonte
+2191,Cliente_2191,Premium,Toscana
+2192,Cliente_2192,Standard,Toscana
+2193,Cliente_2193,Premium,Emilia-Romagna
+2194,Cliente_2194,Standard,Campania
+2195,Cliente_2195,Standard,Lombardia
+2196,Cliente_2196,Premium,Basilicata
+2197,Cliente_2197,Standard,Piemonte
+2198,Cliente_2198,Premium,Veneto
+2199,Cliente_2199,Standard,Trentino-Alto Adige
+2200,Cliente_2200,Standard,Umbria
+2201,Cliente_2201,Premium,Campania
+2202,Cliente_2202,Premium,Marche
+2203,Cliente_2203,Standard,Lombardia
+2204,Cliente_2204,Premium,Sicilia
+2205,Cliente_2205,Premium,Puglia
+2206,Cliente_2206,Premium,Marche
+2207,Cliente_2207,Premium,Lazio
+2208,Cliente_2208,Premium,Friuli-Venezia Giulia
+2209,Cliente_2209,Premium,Umbria
+2210,Cliente_2210,Premium,Valle d'Aosta
+2211,Cliente_2211,Premium,Valle d'Aosta
+2212,Cliente_2212,Standard,Piemonte
+2213,Cliente_2213,Standard,Veneto
+2214,Cliente_2214,Standard,Toscana
+2215,Cliente_2215,Premium,Veneto
+2216,Cliente_2216,Standard,Friuli-Venezia Giulia
+2217,Cliente_2217,Standard,Lazio
+2218,Cliente_2218,Premium,Sicilia
+2219,Cliente_2219,Standard,Abruzzo
+2220,Cliente_2220,Premium,Trentino-Alto Adige
+2221,Cliente_2221,Standard,Marche
+2222,Cliente_2222,Standard,Friuli-Venezia Giulia
+2223,Cliente_2223,Premium,Veneto
+2224,Cliente_2224,Standard,Veneto
+2225,Cliente_2225,Premium,Abruzzo
+2226,Cliente_2226,Standard,Puglia
+2227,Cliente_2227,Premium,Liguria
+2228,Cliente_2228,Standard,Liguria
+2229,Cliente_2229,Premium,Puglia
+2230,Cliente_2230,Premium,Veneto
+2231,Cliente_2231,Premium,Sicilia
+2232,Cliente_2232,Standard,Marche
+2233,Cliente_2233,Standard,Valle d'Aosta
+2234,Cliente_2234,Premium,Friuli-Venezia Giulia
+2235,Cliente_2235,Standard,Trentino-Alto Adige
+2236,Cliente_2236,Standard,Molise
+2237,Cliente_2237,Standard,Trentino-Alto Adige
+2238,Cliente_2238,Premium,Piemonte
+2239,Cliente_2239,Premium,Lazio
+2240,Cliente_2240,Premium,Calabria
+2241,Cliente_2241,Premium,Marche
+2242,Cliente_2242,Premium,Toscana
+2243,Cliente_2243,Premium,Campania
+2244,Cliente_2244,Standard,Lazio
+2245,Cliente_2245,Standard,Sicilia
+2246,Cliente_2246,Premium,Molise
+2247,Cliente_2247,Premium,Veneto
+2248,Cliente_2248,Premium,Sicilia
+2249,Cliente_2249,Standard,Lombardia
+2250,Cliente_2250,Standard,Veneto
+2251,Cliente_2251,Standard,Sardegna
+2252,Cliente_2252,Premium,Abruzzo
+2253,Cliente_2253,Standard,Basilicata
+2254,Cliente_2254,Premium,Sicilia
+2255,Cliente_2255,Premium,Friuli-Venezia Giulia
+2256,Cliente_2256,Standard,Abruzzo
+2257,Cliente_2257,Premium,Piemonte
+2258,Cliente_2258,Standard,Liguria
+2259,Cliente_2259,Standard,Marche
+2260,Cliente_2260,Premium,Trentino-Alto Adige
+2261,Cliente_2261,Premium,Basilicata
+2262,Cliente_2262,Standard,Friuli-Venezia Giulia
+2263,Cliente_2263,Premium,Lazio
+2264,Cliente_2264,Standard,Sicilia
+2265,Cliente_2265,Standard,Molise
+2266,Cliente_2266,Premium,Piemonte
+2267,Cliente_2267,Standard,Liguria
+2268,Cliente_2268,Standard,Veneto
+2269,Cliente_2269,Standard,Piemonte
+2270,Cliente_2270,Premium,Veneto
+2271,Cliente_2271,Standard,Toscana
+2272,Cliente_2272,Premium,Valle d'Aosta
+2273,Cliente_2273,Premium,Basilicata
+2274,Cliente_2274,Premium,Calabria
+2275,Cliente_2275,Premium,Veneto
+2276,Cliente_2276,Premium,Sardegna
+2277,Cliente_2277,Standard,Toscana
+2278,Cliente_2278,Standard,Umbria
+2279,Cliente_2279,Standard,Molise
+2280,Cliente_2280,Premium,Valle d'Aosta
+2281,Cliente_2281,Standard,Sardegna
+2282,Cliente_2282,Premium,Valle d'Aosta
+2283,Cliente_2283,Standard,Sicilia
+2284,Cliente_2284,Premium,Toscana
+2285,Cliente_2285,Standard,Valle d'Aosta
+2286,Cliente_2286,Standard,Calabria
+2287,Cliente_2287,Premium,Molise
+2288,Cliente_2288,Premium,Lazio
+2289,Cliente_2289,Standard,Sicilia
+2290,Cliente_2290,Premium,Marche
+2291,Cliente_2291,Premium,Abruzzo
+2292,Cliente_2292,Premium,Valle d'Aosta
+2293,Cliente_2293,Premium,Umbria
+2294,Cliente_2294,Premium,Sicilia
+2295,Cliente_2295,Premium,Sicilia
+2296,Cliente_2296,Standard,Trentino-Alto Adige
+2297,Cliente_2297,Premium,Valle d'Aosta
+2298,Cliente_2298,Standard,Umbria
+2299,Cliente_2299,Standard,Toscana
+2300,Cliente_2300,Premium,Umbria
+2301,Cliente_2301,Standard,Puglia
+2302,Cliente_2302,Standard,Basilicata
+2303,Cliente_2303,Premium,Abruzzo
+2304,Cliente_2304,Premium,Piemonte
+2305,Cliente_2305,Standard,Sicilia
+2306,Cliente_2306,Premium,Sardegna
+2307,Cliente_2307,Premium,Sardegna
+2308,Cliente_2308,Premium,Friuli-Venezia Giulia
+2309,Cliente_2309,Premium,Basilicata
+2310,Cliente_2310,Standard,Friuli-Venezia Giulia
+2311,Cliente_2311,Standard,Sardegna
+2312,Cliente_2312,Premium,Basilicata
+2313,Cliente_2313,Premium,Friuli-Venezia Giulia
+2314,Cliente_2314,Standard,Sardegna
+2315,Cliente_2315,Premium,Piemonte
+2316,Cliente_2316,Premium,Molise
+2317,Cliente_2317,Standard,Trentino-Alto Adige
+2318,Cliente_2318,Standard,Umbria
+2319,Cliente_2319,Standard,Lazio
+2320,Cliente_2320,Standard,Basilicata
+2321,Cliente_2321,Premium,Puglia
+2322,Cliente_2322,Premium,Sardegna
+2323,Cliente_2323,Standard,Emilia-Romagna
+2324,Cliente_2324,Standard,Abruzzo
+2325,Cliente_2325,Standard,Puglia
+2326,Cliente_2326,Premium,Emilia-Romagna
+2327,Cliente_2327,Standard,Sicilia
+2328,Cliente_2328,Premium,Emilia-Romagna
+2329,Cliente_2329,Premium,Valle d'Aosta
+2330,Cliente_2330,Standard,Friuli-Venezia Giulia
+2331,Cliente_2331,Premium,Sicilia
+2332,Cliente_2332,Premium,Puglia
+2333,Cliente_2333,Premium,Toscana
+2334,Cliente_2334,Standard,Abruzzo
+2335,Cliente_2335,Premium,Campania
+2336,Cliente_2336,Premium,Lombardia
+2337,Cliente_2337,Standard,Toscana
+2338,Cliente_2338,Standard,Campania
+2339,Cliente_2339,Standard,Veneto
+2340,Cliente_2340,Premium,Sardegna
+2341,Cliente_2341,Standard,Toscana
+2342,Cliente_2342,Premium,Lombardia
+2343,Cliente_2343,Premium,Abruzzo
+2344,Cliente_2344,Premium,Puglia
+2345,Cliente_2345,Premium,Abruzzo
+2346,Cliente_2346,Standard,Friuli-Venezia Giulia
+2347,Cliente_2347,Premium,Basilicata
+2348,Cliente_2348,Standard,Emilia-Romagna
+2349,Cliente_2349,Premium,Lazio
+2350,Cliente_2350,Standard,Liguria
+2351,Cliente_2351,Premium,Emilia-Romagna
+2352,Cliente_2352,Standard,Abruzzo
+2353,Cliente_2353,Premium,Molise
+2354,Cliente_2354,Premium,Emilia-Romagna
+2355,Cliente_2355,Standard,Valle d'Aosta
+2356,Cliente_2356,Premium,Umbria
+2357,Cliente_2357,Standard,Calabria
+2358,Cliente_2358,Standard,Liguria
+2359,Cliente_2359,Premium,Emilia-Romagna
+2360,Cliente_2360,Standard,Lazio
+2361,Cliente_2361,Premium,Emilia-Romagna
+2362,Cliente_2362,Standard,Emilia-Romagna
+2363,Cliente_2363,Standard,Puglia
+2364,Cliente_2364,Premium,Abruzzo
+2365,Cliente_2365,Premium,Veneto
+2366,Cliente_2366,Standard,Sardegna
+2367,Cliente_2367,Premium,Abruzzo
+2368,Cliente_2368,Standard,Toscana
+2369,Cliente_2369,Premium,Emilia-Romagna
+2370,Cliente_2370,Premium,Trentino-Alto Adige
+2371,Cliente_2371,Premium,Trentino-Alto Adige
+2372,Cliente_2372,Standard,Piemonte
+2373,Cliente_2373,Premium,Friuli-Venezia Giulia
+2374,Cliente_2374,Standard,Toscana
+2375,Cliente_2375,Premium,Veneto
+2376,Cliente_2376,Premium,Puglia
+2377,Cliente_2377,Standard,Toscana
+2378,Cliente_2378,Standard,Piemonte
+2379,Cliente_2379,Standard,Trentino-Alto Adige
+2380,Cliente_2380,Premium,Umbria
+2381,Cliente_2381,Standard,Friuli-Venezia Giulia
+2382,Cliente_2382,Standard,Veneto
+2383,Cliente_2383,Standard,Lombardia
+2384,Cliente_2384,Premium,Trentino-Alto Adige
+2385,Cliente_2385,Premium,Campania
+2386,Cliente_2386,Premium,Trentino-Alto Adige
+2387,Cliente_2387,Premium,Lombardia
+2388,Cliente_2388,Premium,Liguria
+2389,Cliente_2389,Premium,Basilicata
+2390,Cliente_2390,Premium,Piemonte
+2391,Cliente_2391,Standard,Sardegna
+2392,Cliente_2392,Standard,Campania
+2393,Cliente_2393,Standard,Lombardia
+2394,Cliente_2394,Premium,Lazio
+2395,Cliente_2395,Premium,Lazio
+2396,Cliente_2396,Premium,Veneto
+2397,Cliente_2397,Standard,Liguria
+2398,Cliente_2398,Premium,Puglia
+2399,Cliente_2399,Premium,Puglia
+2400,Cliente_2400,Standard,Veneto
+2401,Cliente_2401,Premium,Lombardia
+2402,Cliente_2402,Standard,Trentino-Alto Adige
+2403,Cliente_2403,Premium,Calabria
+2404,Cliente_2404,Standard,Veneto
+2405,Cliente_2405,Premium,Veneto
+2406,Cliente_2406,Standard,Molise
+2407,Cliente_2407,Premium,Basilicata
+2408,Cliente_2408,Premium,Piemonte
+2409,Cliente_2409,Standard,Toscana
+2410,Cliente_2410,Premium,Basilicata
+2411,Cliente_2411,Standard,Abruzzo
+2412,Cliente_2412,Standard,Lazio
+2413,Cliente_2413,Premium,Marche
+2414,Cliente_2414,Standard,Lombardia
+2415,Cliente_2415,Premium,Trentino-Alto Adige
+2416,Cliente_2416,Premium,Sardegna
+2417,Cliente_2417,Premium,Puglia
+2418,Cliente_2418,Premium,Basilicata
+2419,Cliente_2419,Premium,Trentino-Alto Adige
+2420,Cliente_2420,Premium,Toscana
+2421,Cliente_2421,Premium,Abruzzo
+2422,Cliente_2422,Premium,Veneto
+2423,Cliente_2423,Premium,Sicilia
+2424,Cliente_2424,Standard,Umbria
+2425,Cliente_2425,Standard,Calabria
+2426,Cliente_2426,Standard,Puglia
+2427,Cliente_2427,Standard,Veneto
+2428,Cliente_2428,Premium,Veneto
+2429,Cliente_2429,Standard,Campania
+2430,Cliente_2430,Standard,Piemonte
+2431,Cliente_2431,Standard,Lombardia
+2432,Cliente_2432,Standard,Campania
+2433,Cliente_2433,Standard,Friuli-Venezia Giulia
+2434,Cliente_2434,Standard,Trentino-Alto Adige
+2435,Cliente_2435,Standard,Valle d'Aosta
+2436,Cliente_2436,Standard,Puglia
+2437,Cliente_2437,Premium,Toscana
+2438,Cliente_2438,Standard,Veneto
+2439,Cliente_2439,Standard,Liguria
+2440,Cliente_2440,Premium,Molise
+2441,Cliente_2441,Premium,Sicilia
+2442,Cliente_2442,Premium,Toscana
+2443,Cliente_2443,Standard,Lazio
+2444,Cliente_2444,Premium,Calabria
+2445,Cliente_2445,Standard,Liguria
+2446,Cliente_2446,Standard,Trentino-Alto Adige
+2447,Cliente_2447,Standard,Piemonte
+2448,Cliente_2448,Standard,Molise
+2449,Cliente_2449,Standard,Basilicata
+2450,Cliente_2450,Premium,Sardegna
+2451,Cliente_2451,Standard,Veneto
+2452,Cliente_2452,Standard,Campania
+2453,Cliente_2453,Premium,Calabria
+2454,Cliente_2454,Premium,Friuli-Venezia Giulia
+2455,Cliente_2455,Premium,Puglia
+2456,Cliente_2456,Premium,Campania
+2457,Cliente_2457,Premium,Piemonte
+2458,Cliente_2458,Standard,Veneto
+2459,Cliente_2459,Standard,Sardegna
+2460,Cliente_2460,Standard,Basilicata
+2461,Cliente_2461,Standard,Toscana
+2462,Cliente_2462,Premium,Friuli-Venezia Giulia
+2463,Cliente_2463,Standard,Valle d'Aosta
+2464,Cliente_2464,Premium,Lazio
+2465,Cliente_2465,Standard,Friuli-Venezia Giulia
+2466,Cliente_2466,Premium,Trentino-Alto Adige
+2467,Cliente_2467,Standard,Lazio
+2468,Cliente_2468,Premium,Marche
+2469,Cliente_2469,Standard,Piemonte
+2470,Cliente_2470,Premium,Valle d'Aosta
+2471,Cliente_2471,Standard,Lombardia
+2472,Cliente_2472,Premium,Valle d'Aosta
+2473,Cliente_2473,Premium,Umbria
+2474,Cliente_2474,Premium,Toscana
+2475,Cliente_2475,Standard,Emilia-Romagna
+2476,Cliente_2476,Premium,Molise
+2477,Cliente_2477,Standard,Sardegna
+2478,Cliente_2478,Premium,Marche
+2479,Cliente_2479,Premium,Marche
+2480,Cliente_2480,Standard,Puglia
+2481,Cliente_2481,Standard,Puglia
+2482,Cliente_2482,Premium,Abruzzo
+2483,Cliente_2483,Standard,Campania
+2484,Cliente_2484,Standard,Trentino-Alto Adige
+2485,Cliente_2485,Premium,Calabria
+2486,Cliente_2486,Premium,Campania
+2487,Cliente_2487,Standard,Liguria
+2488,Cliente_2488,Standard,Valle d'Aosta
+2489,Cliente_2489,Premium,Umbria
+2490,Cliente_2490,Standard,Trentino-Alto Adige
+2491,Cliente_2491,Standard,Puglia
+2492,Cliente_2492,Premium,Puglia
+2493,Cliente_2493,Standard,Abruzzo
+2494,Cliente_2494,Standard,Lombardia
+2495,Cliente_2495,Premium,Valle d'Aosta
+2496,Cliente_2496,Standard,Sicilia
+2497,Cliente_2497,Standard,Trentino-Alto Adige
+2498,Cliente_2498,Standard,Toscana
+2499,Cliente_2499,Premium,Liguria
+2500,Cliente_2500,Standard,Campania
+2501,Cliente_2501,Premium,Lazio
+2502,Cliente_2502,Premium,Umbria
+2503,Cliente_2503,Standard,Lazio
+2504,Cliente_2504,Premium,Sardegna
+2505,Cliente_2505,Premium,Piemonte
+2506,Cliente_2506,Standard,Puglia
+2507,Cliente_2507,Premium,Toscana
+2508,Cliente_2508,Standard,Basilicata
+2509,Cliente_2509,Premium,Liguria
+2510,Cliente_2510,Standard,Lombardia
+2511,Cliente_2511,Premium,Trentino-Alto Adige
+2512,Cliente_2512,Premium,Liguria
+2513,Cliente_2513,Standard,Valle d'Aosta
+2514,Cliente_2514,Premium,Liguria
+2515,Cliente_2515,Premium,Veneto
+2516,Cliente_2516,Standard,Toscana
+2517,Cliente_2517,Standard,Valle d'Aosta
+2518,Cliente_2518,Premium,Piemonte
+2519,Cliente_2519,Premium,Marche
+2520,Cliente_2520,Standard,Valle d'Aosta
+2521,Cliente_2521,Premium,Valle d'Aosta
+2522,Cliente_2522,Standard,Molise
+2523,Cliente_2523,Standard,Trentino-Alto Adige
+2524,Cliente_2524,Standard,Puglia
+2525,Cliente_2525,Standard,Sardegna
+2526,Cliente_2526,Premium,Umbria
+2527,Cliente_2527,Standard,Campania
+2528,Cliente_2528,Standard,Umbria
+2529,Cliente_2529,Standard,Trentino-Alto Adige
+2530,Cliente_2530,Premium,Abruzzo
+2531,Cliente_2531,Standard,Campania
+2532,Cliente_2532,Premium,Lazio
+2533,Cliente_2533,Standard,Valle d'Aosta
+2534,Cliente_2534,Premium,Emilia-Romagna
+2535,Cliente_2535,Premium,Puglia
+2536,Cliente_2536,Standard,Abruzzo
+2537,Cliente_2537,Standard,Liguria
+2538,Cliente_2538,Premium,Toscana
+2539,Cliente_2539,Standard,Lazio
+2540,Cliente_2540,Premium,Molise
+2541,Cliente_2541,Standard,Trentino-Alto Adige
+2542,Cliente_2542,Premium,Sardegna
+2543,Cliente_2543,Premium,Lazio
+2544,Cliente_2544,Standard,Toscana
+2545,Cliente_2545,Standard,Umbria
+2546,Cliente_2546,Standard,Sicilia
+2547,Cliente_2547,Standard,Calabria
+2548,Cliente_2548,Standard,Veneto
+2549,Cliente_2549,Standard,Puglia
+2550,Cliente_2550,Premium,Sardegna
+2551,Cliente_2551,Standard,Calabria
+2552,Cliente_2552,Premium,Lazio
+2553,Cliente_2553,Premium,Sicilia
+2554,Cliente_2554,Premium,Sicilia
+2555,Cliente_2555,Standard,Friuli-Venezia Giulia
+2556,Cliente_2556,Premium,Sicilia
+2557,Cliente_2557,Standard,Toscana
+2558,Cliente_2558,Standard,Basilicata
+2559,Cliente_2559,Standard,Piemonte
+2560,Cliente_2560,Standard,Lazio
+2561,Cliente_2561,Premium,Lombardia
+2562,Cliente_2562,Standard,Piemonte
+2563,Cliente_2563,Standard,Calabria
+2564,Cliente_2564,Standard,Emilia-Romagna
+2565,Cliente_2565,Premium,Friuli-Venezia Giulia
+2566,Cliente_2566,Premium,Emilia-Romagna
+2567,Cliente_2567,Premium,Lazio
+2568,Cliente_2568,Standard,Puglia
+2569,Cliente_2569,Premium,Molise
+2570,Cliente_2570,Standard,Molise
+2571,Cliente_2571,Standard,Sicilia
+2572,Cliente_2572,Standard,Trentino-Alto Adige
+2573,Cliente_2573,Premium,Calabria
+2574,Cliente_2574,Standard,Liguria
+2575,Cliente_2575,Standard,Emilia-Romagna
+2576,Cliente_2576,Premium,Lombardia
+2577,Cliente_2577,Standard,Toscana
+2578,Cliente_2578,Premium,Sicilia
+2579,Cliente_2579,Premium,Piemonte
+2580,Cliente_2580,Standard,Sardegna
+2581,Cliente_2581,Premium,Umbria
+2582,Cliente_2582,Standard,Veneto
+2583,Cliente_2583,Premium,Emilia-Romagna
+2584,Cliente_2584,Standard,Veneto
+2585,Cliente_2585,Premium,Trentino-Alto Adige
+2586,Cliente_2586,Premium,Sardegna
+2587,Cliente_2587,Premium,Toscana
+2588,Cliente_2588,Standard,Puglia
+2589,Cliente_2589,Premium,Puglia
+2590,Cliente_2590,Premium,Toscana
+2591,Cliente_2591,Premium,Puglia
+2592,Cliente_2592,Standard,Emilia-Romagna
+2593,Cliente_2593,Premium,Campania
+2594,Cliente_2594,Standard,Abruzzo
+2595,Cliente_2595,Standard,Molise
+2596,Cliente_2596,Standard,Sicilia
+2597,Cliente_2597,Standard,Marche
+2598,Cliente_2598,Standard,Toscana
+2599,Cliente_2599,Premium,Veneto
+2600,Cliente_2600,Premium,Liguria
+2601,Cliente_2601,Standard,Sardegna
+2602,Cliente_2602,Standard,Toscana
+2603,Cliente_2603,Standard,Emilia-Romagna
+2604,Cliente_2604,Standard,Calabria
+2605,Cliente_2605,Premium,Puglia
+2606,Cliente_2606,Standard,Sicilia
+2607,Cliente_2607,Standard,Veneto
+2608,Cliente_2608,Premium,Molise
+2609,Cliente_2609,Standard,Friuli-Venezia Giulia
+2610,Cliente_2610,Standard,Toscana
+2611,Cliente_2611,Standard,Lazio
+2612,Cliente_2612,Standard,Basilicata
+2613,Cliente_2613,Premium,Trentino-Alto Adige
+2614,Cliente_2614,Premium,Toscana
+2615,Cliente_2615,Standard,Basilicata
+2616,Cliente_2616,Premium,Abruzzo
+2617,Cliente_2617,Standard,Campania
+2618,Cliente_2618,Premium,Abruzzo
+2619,Cliente_2619,Standard,Puglia
+2620,Cliente_2620,Premium,Trentino-Alto Adige
+2621,Cliente_2621,Standard,Emilia-Romagna
+2622,Cliente_2622,Premium,Abruzzo
+2623,Cliente_2623,Standard,Campania
+2624,Cliente_2624,Premium,Piemonte
+2625,Cliente_2625,Standard,Puglia
+2626,Cliente_2626,Standard,Piemonte
+2627,Cliente_2627,Premium,Veneto
+2628,Cliente_2628,Standard,Sicilia
+2629,Cliente_2629,Standard,Campania
+2630,Cliente_2630,Premium,Molise
+2631,Cliente_2631,Standard,Sardegna
+2632,Cliente_2632,Standard,Umbria
+2633,Cliente_2633,Premium,Molise
+2634,Cliente_2634,Standard,Sicilia
+2635,Cliente_2635,Standard,Emilia-Romagna
+2636,Cliente_2636,Standard,Sicilia
+2637,Cliente_2637,Standard,Abruzzo
+2638,Cliente_2638,Premium,Veneto
+2639,Cliente_2639,Premium,Calabria
+2640,Cliente_2640,Premium,Lazio
+2641,Cliente_2641,Premium,Puglia
+2642,Cliente_2642,Premium,Marche
+2643,Cliente_2643,Premium,Veneto
+2644,Cliente_2644,Standard,Marche
+2645,Cliente_2645,Standard,Abruzzo
+2646,Cliente_2646,Standard,Puglia
+2647,Cliente_2647,Standard,Toscana
+2648,Cliente_2648,Standard,Emilia-Romagna
+2649,Cliente_2649,Premium,Liguria
+2650,Cliente_2650,Premium,Emilia-Romagna
+2651,Cliente_2651,Premium,Lazio
+2652,Cliente_2652,Standard,Lazio
+2653,Cliente_2653,Premium,Emilia-Romagna
+2654,Cliente_2654,Premium,Lazio
+2655,Cliente_2655,Standard,Campania
+2656,Cliente_2656,Premium,Valle d'Aosta
+2657,Cliente_2657,Premium,Veneto
+2658,Cliente_2658,Standard,Friuli-Venezia Giulia
+2659,Cliente_2659,Premium,Liguria
+2660,Cliente_2660,Standard,Molise
+2661,Cliente_2661,Premium,Basilicata
+2662,Cliente_2662,Premium,Calabria
+2663,Cliente_2663,Premium,Abruzzo
+2664,Cliente_2664,Standard,Valle d'Aosta
+2665,Cliente_2665,Premium,Sicilia
+2666,Cliente_2666,Standard,Molise
+2667,Cliente_2667,Premium,Sardegna
+2668,Cliente_2668,Standard,Basilicata
+2669,Cliente_2669,Standard,Sardegna
+2670,Cliente_2670,Standard,Liguria
+2671,Cliente_2671,Standard,Calabria
+2672,Cliente_2672,Standard,Valle d'Aosta
+2673,Cliente_2673,Standard,Toscana
+2674,Cliente_2674,Premium,Friuli-Venezia Giulia
+2675,Cliente_2675,Premium,Emilia-Romagna
+2676,Cliente_2676,Premium,Lombardia
+2677,Cliente_2677,Premium,Lombardia
+2678,Cliente_2678,Standard,Campania
+2679,Cliente_2679,Premium,Umbria
+2680,Cliente_2680,Standard,Lombardia
+2681,Cliente_2681,Premium,Veneto
+2682,Cliente_2682,Standard,Piemonte
+2683,Cliente_2683,Premium,Emilia-Romagna
+2684,Cliente_2684,Premium,Umbria
+2685,Cliente_2685,Standard,Marche
+2686,Cliente_2686,Premium,Calabria
+2687,Cliente_2687,Premium,Umbria
+2688,Cliente_2688,Premium,Friuli-Venezia Giulia
+2689,Cliente_2689,Premium,Valle d'Aosta
+2690,Cliente_2690,Standard,Molise
+2691,Cliente_2691,Standard,Puglia
+2692,Cliente_2692,Standard,Molise
+2693,Cliente_2693,Standard,Lazio
+2694,Cliente_2694,Premium,Basilicata
+2695,Cliente_2695,Standard,Puglia
+2696,Cliente_2696,Standard,Marche
+2697,Cliente_2697,Premium,Emilia-Romagna
+2698,Cliente_2698,Standard,Lazio
+2699,Cliente_2699,Premium,Basilicata
+2700,Cliente_2700,Premium,Sicilia
+2701,Cliente_2701,Premium,Basilicata
+2702,Cliente_2702,Premium,Veneto
+2703,Cliente_2703,Premium,Lombardia
+2704,Cliente_2704,Premium,Piemonte
+2705,Cliente_2705,Standard,Puglia
+2706,Cliente_2706,Standard,Abruzzo
+2707,Cliente_2707,Standard,Puglia
+2708,Cliente_2708,Standard,Campania
+2709,Cliente_2709,Standard,Emilia-Romagna
+2710,Cliente_2710,Premium,Valle d'Aosta
+2711,Cliente_2711,Premium,Campania
+2712,Cliente_2712,Standard,Sicilia
+2713,Cliente_2713,Premium,Marche
+2714,Cliente_2714,Premium,Veneto
+2715,Cliente_2715,Standard,Piemonte
+2716,Cliente_2716,Premium,Toscana
+2717,Cliente_2717,Premium,Campania
+2718,Cliente_2718,Standard,Piemonte
+2719,Cliente_2719,Premium,Friuli-Venezia Giulia
+2720,Cliente_2720,Premium,Sicilia
+2721,Cliente_2721,Premium,Sardegna
+2722,Cliente_2722,Premium,Trentino-Alto Adige
+2723,Cliente_2723,Standard,Valle d'Aosta
+2724,Cliente_2724,Standard,Valle d'Aosta
+2725,Cliente_2725,Premium,Molise
+2726,Cliente_2726,Premium,Abruzzo
+2727,Cliente_2727,Standard,Abruzzo
+2728,Cliente_2728,Premium,Lazio
+2729,Cliente_2729,Standard,Toscana
+2730,Cliente_2730,Standard,Valle d'Aosta
+2731,Cliente_2731,Premium,Toscana
+2732,Cliente_2732,Premium,Umbria
+2733,Cliente_2733,Standard,Valle d'Aosta
+2734,Cliente_2734,Premium,Emilia-Romagna
+2735,Cliente_2735,Standard,Valle d'Aosta
+2736,Cliente_2736,Premium,Campania
+2737,Cliente_2737,Standard,Piemonte
+2738,Cliente_2738,Premium,Puglia
+2739,Cliente_2739,Premium,Calabria
+2740,Cliente_2740,Standard,Lombardia
+2741,Cliente_2741,Standard,Sicilia
+2742,Cliente_2742,Premium,Emilia-Romagna
+2743,Cliente_2743,Standard,Sardegna
+2744,Cliente_2744,Premium,Molise
+2745,Cliente_2745,Standard,Campania
+2746,Cliente_2746,Premium,Umbria
+2747,Cliente_2747,Standard,Friuli-Venezia Giulia
+2748,Cliente_2748,Premium,Emilia-Romagna
+2749,Cliente_2749,Standard,Emilia-Romagna
+2750,Cliente_2750,Premium,Liguria
+2751,Cliente_2751,Standard,Piemonte
+2752,Cliente_2752,Premium,Sardegna
+2753,Cliente_2753,Standard,Sicilia
+2754,Cliente_2754,Premium,Veneto
+2755,Cliente_2755,Standard,Molise
+2756,Cliente_2756,Standard,Sicilia
+2757,Cliente_2757,Premium,Piemonte
+2758,Cliente_2758,Premium,Lombardia
+2759,Cliente_2759,Standard,Abruzzo
+2760,Cliente_2760,Standard,Valle d'Aosta
+2761,Cliente_2761,Standard,Puglia
+2762,Cliente_2762,Premium,Veneto
+2763,Cliente_2763,Standard,Piemonte
+2764,Cliente_2764,Premium,Lazio
+2765,Cliente_2765,Standard,Abruzzo
+2766,Cliente_2766,Premium,Toscana
+2767,Cliente_2767,Standard,Friuli-Venezia Giulia
+2768,Cliente_2768,Premium,Piemonte
+2769,Cliente_2769,Standard,Abruzzo
+2770,Cliente_2770,Standard,Emilia-Romagna
+2771,Cliente_2771,Standard,Molise
+2772,Cliente_2772,Premium,Veneto
+2773,Cliente_2773,Standard,Molise
+2774,Cliente_2774,Premium,Liguria
+2775,Cliente_2775,Premium,Lombardia
+2776,Cliente_2776,Standard,Puglia
+2777,Cliente_2777,Standard,Veneto
+2778,Cliente_2778,Standard,Umbria
+2779,Cliente_2779,Premium,Abruzzo
+2780,Cliente_2780,Standard,Marche
+2781,Cliente_2781,Premium,Calabria
+2782,Cliente_2782,Premium,Valle d'Aosta
+2783,Cliente_2783,Premium,Emilia-Romagna
+2784,Cliente_2784,Premium,Emilia-Romagna
+2785,Cliente_2785,Premium,Emilia-Romagna
+2786,Cliente_2786,Premium,Emilia-Romagna
+2787,Cliente_2787,Standard,Emilia-Romagna
+2788,Cliente_2788,Premium,Toscana
+2789,Cliente_2789,Standard,Veneto
+2790,Cliente_2790,Premium,Piemonte
+2791,Cliente_2791,Standard,Basilicata
+2792,Cliente_2792,Standard,Valle d'Aosta
+2793,Cliente_2793,Standard,Puglia
+2794,Cliente_2794,Standard,Puglia
+2795,Cliente_2795,Standard,Lazio
+2796,Cliente_2796,Premium,Lombardia
+2797,Cliente_2797,Premium,Lazio
+2798,Cliente_2798,Standard,Umbria
+2799,Cliente_2799,Premium,Campania
+2800,Cliente_2800,Premium,Umbria
+2801,Cliente_2801,Premium,Campania
+2802,Cliente_2802,Standard,Friuli-Venezia Giulia
+2803,Cliente_2803,Premium,Valle d'Aosta
+2804,Cliente_2804,Standard,Marche
+2805,Cliente_2805,Premium,Basilicata
+2806,Cliente_2806,Premium,Umbria
+2807,Cliente_2807,Premium,Campania
+2808,Cliente_2808,Premium,Piemonte
+2809,Cliente_2809,Standard,Friuli-Venezia Giulia
+2810,Cliente_2810,Premium,Basilicata
+2811,Cliente_2811,Premium,Valle d'Aosta
+2812,Cliente_2812,Standard,Lombardia
+2813,Cliente_2813,Premium,Marche
+2814,Cliente_2814,Premium,Lazio
+2815,Cliente_2815,Standard,Valle d'Aosta
+2816,Cliente_2816,Standard,Toscana
+2817,Cliente_2817,Premium,Lombardia
+2818,Cliente_2818,Premium,Puglia
+2819,Cliente_2819,Premium,Lazio
+2820,Cliente_2820,Standard,Sardegna
+2821,Cliente_2821,Standard,Piemonte
+2822,Cliente_2822,Standard,Lazio
+2823,Cliente_2823,Standard,Emilia-Romagna
+2824,Cliente_2824,Standard,Basilicata
+2825,Cliente_2825,Standard,Molise
+2826,Cliente_2826,Standard,Valle d'Aosta
+2827,Cliente_2827,Standard,Veneto
+2828,Cliente_2828,Premium,Molise
+2829,Cliente_2829,Standard,Calabria
+2830,Cliente_2830,Premium,Campania
+2831,Cliente_2831,Premium,Lombardia
+2832,Cliente_2832,Standard,Valle d'Aosta
+2833,Cliente_2833,Premium,Emilia-Romagna
+2834,Cliente_2834,Standard,Lazio
+2835,Cliente_2835,Premium,Trentino-Alto Adige
+2836,Cliente_2836,Standard,Friuli-Venezia Giulia
+2837,Cliente_2837,Standard,Puglia
+2838,Cliente_2838,Standard,Veneto
+2839,Cliente_2839,Premium,Trentino-Alto Adige
+2840,Cliente_2840,Premium,Toscana
+2841,Cliente_2841,Premium,Emilia-Romagna
+2842,Cliente_2842,Premium,Valle d'Aosta
+2843,Cliente_2843,Premium,Veneto
+2844,Cliente_2844,Standard,Lazio
+2845,Cliente_2845,Premium,Umbria
+2846,Cliente_2846,Premium,Molise
+2847,Cliente_2847,Standard,Emilia-Romagna
+2848,Cliente_2848,Standard,Marche
+2849,Cliente_2849,Premium,Campania
+2850,Cliente_2850,Standard,Friuli-Venezia Giulia
+2851,Cliente_2851,Standard,Basilicata
+2852,Cliente_2852,Standard,Campania
+2853,Cliente_2853,Standard,Sicilia
+2854,Cliente_2854,Premium,Trentino-Alto Adige
+2855,Cliente_2855,Premium,Campania
+2856,Cliente_2856,Premium,Abruzzo
+2857,Cliente_2857,Standard,Umbria
+2858,Cliente_2858,Premium,Veneto
+2859,Cliente_2859,Standard,Sardegna
+2860,Cliente_2860,Standard,Piemonte
+2861,Cliente_2861,Premium,Calabria
+2862,Cliente_2862,Premium,Lazio
+2863,Cliente_2863,Premium,Molise
+2864,Cliente_2864,Premium,Piemonte
+2865,Cliente_2865,Standard,Toscana
+2866,Cliente_2866,Premium,Molise
+2867,Cliente_2867,Standard,Abruzzo
+2868,Cliente_2868,Standard,Valle d'Aosta
+2869,Cliente_2869,Premium,Valle d'Aosta
+2870,Cliente_2870,Premium,Toscana
+2871,Cliente_2871,Premium,Abruzzo
+2872,Cliente_2872,Premium,Trentino-Alto Adige
+2873,Cliente_2873,Standard,Lombardia
+2874,Cliente_2874,Standard,Sicilia
+2875,Cliente_2875,Standard,Lazio
+2876,Cliente_2876,Premium,Umbria
+2877,Cliente_2877,Standard,Valle d'Aosta
+2878,Cliente_2878,Standard,Calabria
+2879,Cliente_2879,Premium,Friuli-Venezia Giulia
+2880,Cliente_2880,Premium,Liguria
+2881,Cliente_2881,Premium,Basilicata
+2882,Cliente_2882,Premium,Umbria
+2883,Cliente_2883,Premium,Marche
+2884,Cliente_2884,Standard,Basilicata
+2885,Cliente_2885,Premium,Emilia-Romagna
+2886,Cliente_2886,Premium,Marche
+2887,Cliente_2887,Premium,Sicilia
+2888,Cliente_2888,Premium,Marche
+2889,Cliente_2889,Premium,Lombardia
+2890,Cliente_2890,Premium,Emilia-Romagna
+2891,Cliente_2891,Standard,Campania
+2892,Cliente_2892,Premium,Sardegna
+2893,Cliente_2893,Premium,Lombardia
+2894,Cliente_2894,Premium,Trentino-Alto Adige
+2895,Cliente_2895,Standard,Friuli-Venezia Giulia
+2896,Cliente_2896,Premium,Calabria
+2897,Cliente_2897,Premium,Molise
+2898,Cliente_2898,Premium,Campania
+2899,Cliente_2899,Standard,Puglia
+2900,Cliente_2900,Premium,Sardegna
+2901,Cliente_2901,Premium,Molise
+2902,Cliente_2902,Premium,Friuli-Venezia Giulia
+2903,Cliente_2903,Premium,Veneto
+2904,Cliente_2904,Premium,Veneto
+2905,Cliente_2905,Standard,Puglia
+2906,Cliente_2906,Standard,Emilia-Romagna
+2907,Cliente_2907,Premium,Calabria
+2908,Cliente_2908,Standard,Basilicata
+2909,Cliente_2909,Premium,Valle d'Aosta
+2910,Cliente_2910,Standard,Piemonte
+2911,Cliente_2911,Premium,Veneto
+2912,Cliente_2912,Standard,Sardegna
+2913,Cliente_2913,Premium,Liguria
+2914,Cliente_2914,Standard,Calabria
+2915,Cliente_2915,Standard,Basilicata
+2916,Cliente_2916,Standard,Abruzzo
+2917,Cliente_2917,Premium,Friuli-Venezia Giulia
+2918,Cliente_2918,Premium,Veneto
+2919,Cliente_2919,Premium,Puglia
+2920,Cliente_2920,Standard,Abruzzo
+2921,Cliente_2921,Premium,Basilicata
+2922,Cliente_2922,Standard,Toscana
+2923,Cliente_2923,Premium,Campania
+2924,Cliente_2924,Premium,Calabria
+2925,Cliente_2925,Standard,Sicilia
+2926,Cliente_2926,Premium,Piemonte
+2927,Cliente_2927,Premium,Emilia-Romagna
+2928,Cliente_2928,Standard,Veneto
+2929,Cliente_2929,Standard,Veneto
+2930,Cliente_2930,Premium,Sicilia
+2931,Cliente_2931,Premium,Calabria
+2932,Cliente_2932,Standard,Sardegna
+2933,Cliente_2933,Premium,Calabria
+2934,Cliente_2934,Standard,Friuli-Venezia Giulia
+2935,Cliente_2935,Standard,Emilia-Romagna
+2936,Cliente_2936,Premium,Lazio
+2937,Cliente_2937,Premium,Umbria
+2938,Cliente_2938,Premium,Sicilia
+2939,Cliente_2939,Standard,Lombardia
+2940,Cliente_2940,Premium,Sardegna
+2941,Cliente_2941,Standard,Liguria
+2942,Cliente_2942,Premium,Calabria
+2943,Cliente_2943,Premium,Umbria
+2944,Cliente_2944,Standard,Sardegna
+2945,Cliente_2945,Standard,Lazio
+2946,Cliente_2946,Standard,Basilicata
+2947,Cliente_2947,Premium,Abruzzo
+2948,Cliente_2948,Premium,Liguria
+2949,Cliente_2949,Standard,Liguria
+2950,Cliente_2950,Premium,Abruzzo
+2951,Cliente_2951,Premium,Liguria
+2952,Cliente_2952,Premium,Campania
+2953,Cliente_2953,Premium,Liguria
+2954,Cliente_2954,Premium,Sicilia
+2955,Cliente_2955,Premium,Friuli-Venezia Giulia
+2956,Cliente_2956,Premium,Liguria
+2957,Cliente_2957,Standard,Toscana
+2958,Cliente_2958,Premium,Emilia-Romagna
+2959,Cliente_2959,Premium,Basilicata
+2960,Cliente_2960,Standard,Lazio
+2961,Cliente_2961,Premium,Umbria
+2962,Cliente_2962,Premium,Molise
+2963,Cliente_2963,Standard,Abruzzo
+2964,Cliente_2964,Premium,Piemonte
+2965,Cliente_2965,Standard,Molise
+2966,Cliente_2966,Premium,Lazio
+2967,Cliente_2967,Standard,Friuli-Venezia Giulia
+2968,Cliente_2968,Premium,Valle d'Aosta
+2969,Cliente_2969,Standard,Puglia
+2970,Cliente_2970,Standard,Valle d'Aosta
+2971,Cliente_2971,Premium,Marche
+2972,Cliente_2972,Premium,Friuli-Venezia Giulia
+2973,Cliente_2973,Standard,Valle d'Aosta
+2974,Cliente_2974,Standard,Liguria
+2975,Cliente_2975,Standard,Basilicata
+2976,Cliente_2976,Premium,Marche
+2977,Cliente_2977,Premium,Trentino-Alto Adige
+2978,Cliente_2978,Standard,Toscana
+2979,Cliente_2979,Standard,Basilicata
+2980,Cliente_2980,Standard,Friuli-Venezia Giulia
+2981,Cliente_2981,Standard,Abruzzo
+2982,Cliente_2982,Premium,Sardegna
+2983,Cliente_2983,Standard,Valle d'Aosta
+2984,Cliente_2984,Premium,Piemonte
+2985,Cliente_2985,Standard,Friuli-Venezia Giulia
+2986,Cliente_2986,Standard,Lombardia
+2987,Cliente_2987,Premium,Campania
+2988,Cliente_2988,Premium,Lazio
+2989,Cliente_2989,Standard,Friuli-Venezia Giulia
+2990,Cliente_2990,Premium,Basilicata
+2991,Cliente_2991,Premium,Lombardia
+2992,Cliente_2992,Standard,Lazio
+2993,Cliente_2993,Standard,Calabria
+2994,Cliente_2994,Premium,Abruzzo
+2995,Cliente_2995,Premium,Liguria
+2996,Cliente_2996,Premium,Friuli-Venezia Giulia
+2997,Cliente_2997,Standard,Piemonte
+2998,Cliente_2998,Premium,Sicilia
+2999,Cliente_2999,Standard,Piemonte
+3000,Cliente_3000,Standard,Basilicata
+3001,Cliente_3001,Standard,Basilicata
+3002,Cliente_3002,Premium,Emilia-Romagna
+3003,Cliente_3003,Premium,Emilia-Romagna
+3004,Cliente_3004,Premium,Friuli-Venezia Giulia
+3005,Cliente_3005,Premium,Umbria
+3006,Cliente_3006,Standard,Toscana
+3007,Cliente_3007,Premium,Basilicata
+3008,Cliente_3008,Premium,Lazio
+3009,Cliente_3009,Premium,Friuli-Venezia Giulia
+3010,Cliente_3010,Premium,Basilicata
+3011,Cliente_3011,Standard,Friuli-Venezia Giulia
+3012,Cliente_3012,Standard,Lazio
+3013,Cliente_3013,Standard,Sardegna
+3014,Cliente_3014,Premium,Marche
+3015,Cliente_3015,Standard,Molise
+3016,Cliente_3016,Standard,Abruzzo
+3017,Cliente_3017,Standard,Sicilia
+3018,Cliente_3018,Standard,Puglia
+3019,Cliente_3019,Premium,Puglia
+3020,Cliente_3020,Standard,Sardegna
+3021,Cliente_3021,Standard,Sicilia
+3022,Cliente_3022,Premium,Piemonte
+3023,Cliente_3023,Standard,Piemonte
+3024,Cliente_3024,Standard,Campania
+3025,Cliente_3025,Standard,Lombardia
+3026,Cliente_3026,Standard,Molise
+3027,Cliente_3027,Premium,Puglia
+3028,Cliente_3028,Premium,Marche
+3029,Cliente_3029,Standard,Piemonte
+3030,Cliente_3030,Premium,Toscana
+3031,Cliente_3031,Premium,Campania
+3032,Cliente_3032,Premium,Sicilia
+3033,Cliente_3033,Premium,Puglia
+3034,Cliente_3034,Standard,Marche
+3035,Cliente_3035,Standard,Veneto
+3036,Cliente_3036,Standard,Liguria
+3037,Cliente_3037,Premium,Lazio
+3038,Cliente_3038,Standard,Umbria
+3039,Cliente_3039,Premium,Abruzzo
+3040,Cliente_3040,Standard,Piemonte
+3041,Cliente_3041,Premium,Basilicata
+3042,Cliente_3042,Premium,Sardegna
+3043,Cliente_3043,Standard,Puglia
+3044,Cliente_3044,Premium,Veneto
+3045,Cliente_3045,Standard,Puglia
+3046,Cliente_3046,Standard,Puglia
+3047,Cliente_3047,Standard,Veneto
+3048,Cliente_3048,Premium,Toscana
+3049,Cliente_3049,Premium,Calabria
+3050,Cliente_3050,Premium,Veneto
+3051,Cliente_3051,Premium,Abruzzo
+3052,Cliente_3052,Standard,Liguria
+3053,Cliente_3053,Premium,Calabria
+3054,Cliente_3054,Premium,Campania
+3055,Cliente_3055,Premium,Veneto
+3056,Cliente_3056,Standard,Valle d'Aosta
+3057,Cliente_3057,Standard,Abruzzo
+3058,Cliente_3058,Premium,Basilicata
+3059,Cliente_3059,Premium,Lombardia
+3060,Cliente_3060,Premium,Calabria
+3061,Cliente_3061,Standard,Toscana
+3062,Cliente_3062,Standard,Friuli-Venezia Giulia
+3063,Cliente_3063,Premium,Piemonte
+3064,Cliente_3064,Standard,Veneto
+3065,Cliente_3065,Standard,Piemonte
+3066,Cliente_3066,Standard,Friuli-Venezia Giulia
+3067,Cliente_3067,Premium,Basilicata
+3068,Cliente_3068,Premium,Lombardia
+3069,Cliente_3069,Standard,Trentino-Alto Adige
+3070,Cliente_3070,Standard,Friuli-Venezia Giulia
+3071,Cliente_3071,Premium,Emilia-Romagna
+3072,Cliente_3072,Standard,Trentino-Alto Adige
+3073,Cliente_3073,Premium,Basilicata
+3074,Cliente_3074,Standard,Lazio
+3075,Cliente_3075,Premium,Campania
+3076,Cliente_3076,Standard,Liguria
+3077,Cliente_3077,Premium,Toscana
+3078,Cliente_3078,Premium,Trentino-Alto Adige
+3079,Cliente_3079,Standard,Sardegna
+3080,Cliente_3080,Premium,Abruzzo
+3081,Cliente_3081,Standard,Umbria
+3082,Cliente_3082,Standard,Sicilia
+3083,Cliente_3083,Standard,Valle d'Aosta
+3084,Cliente_3084,Premium,Sicilia
+3085,Cliente_3085,Standard,Basilicata
+3086,Cliente_3086,Premium,Lombardia
+3087,Cliente_3087,Premium,Veneto
+3088,Cliente_3088,Premium,Molise
+3089,Cliente_3089,Premium,Trentino-Alto Adige
+3090,Cliente_3090,Standard,Veneto
+3091,Cliente_3091,Premium,Lazio
+3092,Cliente_3092,Premium,Puglia
+3093,Cliente_3093,Premium,Abruzzo
+3094,Cliente_3094,Standard,Liguria
+3095,Cliente_3095,Premium,Friuli-Venezia Giulia
+3096,Cliente_3096,Standard,Valle d'Aosta
+3097,Cliente_3097,Standard,Sardegna
+3098,Cliente_3098,Premium,Campania
+3099,Cliente_3099,Premium,Lazio
+3100,Cliente_3100,Premium,Friuli-Venezia Giulia
+3101,Cliente_3101,Premium,Sardegna
+3102,Cliente_3102,Standard,Liguria
+3103,Cliente_3103,Premium,Campania
+3104,Cliente_3104,Standard,Campania
+3105,Cliente_3105,Standard,Emilia-Romagna
+3106,Cliente_3106,Standard,Lombardia
+3107,Cliente_3107,Standard,Sardegna
+3108,Cliente_3108,Standard,Calabria
+3109,Cliente_3109,Standard,Valle d'Aosta
+3110,Cliente_3110,Premium,Puglia
+3111,Cliente_3111,Premium,Calabria
+3112,Cliente_3112,Standard,Sardegna
+3113,Cliente_3113,Premium,Friuli-Venezia Giulia
+3114,Cliente_3114,Premium,Basilicata
+3115,Cliente_3115,Premium,Valle d'Aosta
+3116,Cliente_3116,Premium,Piemonte
+3117,Cliente_3117,Premium,Lazio
+3118,Cliente_3118,Premium,Toscana
+3119,Cliente_3119,Standard,Valle d'Aosta
+3120,Cliente_3120,Standard,Marche
+3121,Cliente_3121,Premium,Emilia-Romagna
+3122,Cliente_3122,Standard,Trentino-Alto Adige
+3123,Cliente_3123,Standard,Piemonte
+3124,Cliente_3124,Premium,Marche
+3125,Cliente_3125,Premium,Sardegna
+3126,Cliente_3126,Standard,Puglia
+3127,Cliente_3127,Standard,Campania
+3128,Cliente_3128,Premium,Lombardia
+3129,Cliente_3129,Standard,Lombardia
+3130,Cliente_3130,Standard,Puglia
+3131,Cliente_3131,Standard,Puglia
+3132,Cliente_3132,Standard,Sardegna
+3133,Cliente_3133,Standard,Trentino-Alto Adige
+3134,Cliente_3134,Premium,Marche
+3135,Cliente_3135,Premium,Valle d'Aosta
+3136,Cliente_3136,Standard,Valle d'Aosta
+3137,Cliente_3137,Premium,Calabria
+3138,Cliente_3138,Premium,Veneto
+3139,Cliente_3139,Premium,Veneto
+3140,Cliente_3140,Premium,Campania
+3141,Cliente_3141,Premium,Abruzzo
+3142,Cliente_3142,Premium,Veneto
+3143,Cliente_3143,Standard,Marche
+3144,Cliente_3144,Standard,Abruzzo
+3145,Cliente_3145,Standard,Molise
+3146,Cliente_3146,Standard,Piemonte
+3147,Cliente_3147,Premium,Sicilia
+3148,Cliente_3148,Standard,Sardegna
+3149,Cliente_3149,Premium,Sardegna
+3150,Cliente_3150,Premium,Basilicata
+3151,Cliente_3151,Standard,Marche
+3152,Cliente_3152,Premium,Liguria
+3153,Cliente_3153,Premium,Sicilia
+3154,Cliente_3154,Standard,Puglia
+3155,Cliente_3155,Premium,Valle d'Aosta
+3156,Cliente_3156,Premium,Molise
+3157,Cliente_3157,Standard,Abruzzo
+3158,Cliente_3158,Premium,Emilia-Romagna
+3159,Cliente_3159,Standard,Calabria
+3160,Cliente_3160,Standard,Valle d'Aosta
+3161,Cliente_3161,Premium,Toscana
+3162,Cliente_3162,Standard,Marche
+3163,Cliente_3163,Premium,Calabria
+3164,Cliente_3164,Premium,Trentino-Alto Adige
+3165,Cliente_3165,Premium,Marche
+3166,Cliente_3166,Premium,Marche
+3167,Cliente_3167,Premium,Calabria
+3168,Cliente_3168,Standard,Campania
+3169,Cliente_3169,Premium,Calabria
+3170,Cliente_3170,Standard,Basilicata
+3171,Cliente_3171,Premium,Piemonte
+3172,Cliente_3172,Premium,Sicilia
+3173,Cliente_3173,Standard,Trentino-Alto Adige
+3174,Cliente_3174,Premium,Abruzzo
+3175,Cliente_3175,Standard,Valle d'Aosta
+3176,Cliente_3176,Premium,Sicilia
+3177,Cliente_3177,Standard,Marche
+3178,Cliente_3178,Premium,Trentino-Alto Adige
+3179,Cliente_3179,Standard,Umbria
+3180,Cliente_3180,Premium,Sicilia
+3181,Cliente_3181,Premium,Toscana
+3182,Cliente_3182,Premium,Calabria
+3183,Cliente_3183,Premium,Puglia
+3184,Cliente_3184,Standard,Piemonte
+3185,Cliente_3185,Premium,Friuli-Venezia Giulia
+3186,Cliente_3186,Standard,Lazio
+3187,Cliente_3187,Standard,Lombardia
+3188,Cliente_3188,Premium,Campania
+3189,Cliente_3189,Standard,Toscana
+3190,Cliente_3190,Premium,Trentino-Alto Adige
+3191,Cliente_3191,Premium,Calabria
+3192,Cliente_3192,Standard,Liguria
+3193,Cliente_3193,Standard,Puglia
+3194,Cliente_3194,Standard,Emilia-Romagna
+3195,Cliente_3195,Premium,Basilicata
+3196,Cliente_3196,Standard,Liguria
+3197,Cliente_3197,Standard,Sicilia
+3198,Cliente_3198,Premium,Liguria
+3199,Cliente_3199,Premium,Campania
+3200,Cliente_3200,Standard,Liguria
+3201,Cliente_3201,Premium,Sardegna
+3202,Cliente_3202,Standard,Toscana
+3203,Cliente_3203,Standard,Abruzzo
+3204,Cliente_3204,Standard,Piemonte
+3205,Cliente_3205,Premium,Abruzzo
+3206,Cliente_3206,Premium,Calabria
+3207,Cliente_3207,Premium,Sardegna
+3208,Cliente_3208,Standard,Calabria
+3209,Cliente_3209,Standard,Lazio
+3210,Cliente_3210,Standard,Valle d'Aosta
+3211,Cliente_3211,Premium,Emilia-Romagna
+3212,Cliente_3212,Premium,Lombardia
+3213,Cliente_3213,Premium,Trentino-Alto Adige
+3214,Cliente_3214,Standard,Trentino-Alto Adige
+3215,Cliente_3215,Standard,Friuli-Venezia Giulia
+3216,Cliente_3216,Standard,Umbria
+3217,Cliente_3217,Standard,Liguria
+3218,Cliente_3218,Standard,Sardegna
+3219,Cliente_3219,Standard,Basilicata
+3220,Cliente_3220,Standard,Abruzzo
+3221,Cliente_3221,Standard,Veneto
+3222,Cliente_3222,Premium,Umbria
+3223,Cliente_3223,Premium,Trentino-Alto Adige
+3224,Cliente_3224,Premium,Friuli-Venezia Giulia
+3225,Cliente_3225,Premium,Abruzzo
+3226,Cliente_3226,Premium,Calabria
+3227,Cliente_3227,Standard,Sicilia
+3228,Cliente_3228,Premium,Trentino-Alto Adige
+3229,Cliente_3229,Standard,Veneto
+3230,Cliente_3230,Standard,Trentino-Alto Adige
+3231,Cliente_3231,Premium,Friuli-Venezia Giulia
+3232,Cliente_3232,Premium,Emilia-Romagna
+3233,Cliente_3233,Standard,Abruzzo
+3234,Cliente_3234,Premium,Friuli-Venezia Giulia
+3235,Cliente_3235,Premium,Valle d'Aosta
+3236,Cliente_3236,Premium,Marche
+3237,Cliente_3237,Premium,Liguria
+3238,Cliente_3238,Standard,Molise
+3239,Cliente_3239,Premium,Veneto
+3240,Cliente_3240,Premium,Abruzzo
+3241,Cliente_3241,Standard,Lombardia
+3242,Cliente_3242,Standard,Emilia-Romagna
+3243,Cliente_3243,Standard,Veneto
+3244,Cliente_3244,Standard,Toscana
+3245,Cliente_3245,Standard,Toscana
+3246,Cliente_3246,Standard,Umbria
+3247,Cliente_3247,Premium,Toscana
+3248,Cliente_3248,Standard,Puglia
+3249,Cliente_3249,Standard,Molise
+3250,Cliente_3250,Premium,Calabria
+3251,Cliente_3251,Premium,Molise
+3252,Cliente_3252,Standard,Abruzzo
+3253,Cliente_3253,Premium,Toscana
+3254,Cliente_3254,Standard,Emilia-Romagna
+3255,Cliente_3255,Premium,Campania
+3256,Cliente_3256,Premium,Marche
+3257,Cliente_3257,Standard,Piemonte
+3258,Cliente_3258,Standard,Calabria
+3259,Cliente_3259,Premium,Lazio
+3260,Cliente_3260,Premium,Piemonte
+3261,Cliente_3261,Standard,Trentino-Alto Adige
+3262,Cliente_3262,Premium,Basilicata
+3263,Cliente_3263,Premium,Emilia-Romagna
+3264,Cliente_3264,Premium,Molise
+3265,Cliente_3265,Standard,Friuli-Venezia Giulia
+3266,Cliente_3266,Standard,Umbria
+3267,Cliente_3267,Standard,Basilicata
+3268,Cliente_3268,Premium,Calabria
+3269,Cliente_3269,Premium,Calabria
+3270,Cliente_3270,Premium,Umbria
+3271,Cliente_3271,Standard,Friuli-Venezia Giulia
+3272,Cliente_3272,Standard,Sardegna
+3273,Cliente_3273,Premium,Abruzzo
+3274,Cliente_3274,Premium,Piemonte
+3275,Cliente_3275,Standard,Marche
+3276,Cliente_3276,Premium,Valle d'Aosta
+3277,Cliente_3277,Standard,Lazio
+3278,Cliente_3278,Premium,Molise
+3279,Cliente_3279,Premium,Sardegna
+3280,Cliente_3280,Standard,Umbria
+3281,Cliente_3281,Premium,Basilicata
+3282,Cliente_3282,Standard,Calabria
+3283,Cliente_3283,Premium,Emilia-Romagna
+3284,Cliente_3284,Premium,Toscana
+3285,Cliente_3285,Premium,Emilia-Romagna
+3286,Cliente_3286,Standard,Emilia-Romagna
+3287,Cliente_3287,Standard,Abruzzo
+3288,Cliente_3288,Premium,Piemonte
+3289,Cliente_3289,Standard,Campania
+3290,Cliente_3290,Standard,Molise
+3291,Cliente_3291,Premium,Piemonte
+3292,Cliente_3292,Standard,Abruzzo
+3293,Cliente_3293,Premium,Piemonte
+3294,Cliente_3294,Premium,Sicilia
+3295,Cliente_3295,Premium,Basilicata
+3296,Cliente_3296,Premium,Trentino-Alto Adige
+3297,Cliente_3297,Premium,Liguria
+3298,Cliente_3298,Standard,Calabria
+3299,Cliente_3299,Premium,Molise
+3300,Cliente_3300,Premium,Sardegna
+3301,Cliente_3301,Premium,Piemonte
+3302,Cliente_3302,Standard,Lombardia
+3303,Cliente_3303,Standard,Toscana
+3304,Cliente_3304,Premium,Sardegna
+3305,Cliente_3305,Premium,Calabria
+3306,Cliente_3306,Premium,Puglia
+3307,Cliente_3307,Premium,Lombardia
+3308,Cliente_3308,Premium,Lombardia
+3309,Cliente_3309,Standard,Calabria
+3310,Cliente_3310,Premium,Veneto
+3311,Cliente_3311,Standard,Molise
+3312,Cliente_3312,Standard,Trentino-Alto Adige
+3313,Cliente_3313,Standard,Liguria
+3314,Cliente_3314,Premium,Lombardia
+3315,Cliente_3315,Premium,Sardegna
+3316,Cliente_3316,Standard,Sardegna
+3317,Cliente_3317,Premium,Veneto
+3318,Cliente_3318,Standard,Campania
+3319,Cliente_3319,Premium,Campania
+3320,Cliente_3320,Standard,Piemonte
+3321,Cliente_3321,Standard,Lombardia
+3322,Cliente_3322,Premium,Lazio
+3323,Cliente_3323,Standard,Liguria
+3324,Cliente_3324,Premium,Calabria
+3325,Cliente_3325,Premium,Piemonte
+3326,Cliente_3326,Premium,Molise
+3327,Cliente_3327,Standard,Umbria
+3328,Cliente_3328,Standard,Toscana
+3329,Cliente_3329,Premium,Marche
+3330,Cliente_3330,Premium,Trentino-Alto Adige
+3331,Cliente_3331,Standard,Lazio
+3332,Cliente_3332,Standard,Calabria
+3333,Cliente_3333,Premium,Liguria
+3334,Cliente_3334,Standard,Veneto
+3335,Cliente_3335,Standard,Marche
+3336,Cliente_3336,Premium,Sicilia
+3337,Cliente_3337,Standard,Trentino-Alto Adige
+3338,Cliente_3338,Standard,Liguria
+3339,Cliente_3339,Premium,Liguria
+3340,Cliente_3340,Premium,Sicilia
+3341,Cliente_3341,Premium,Calabria
+3342,Cliente_3342,Premium,Trentino-Alto Adige
+3343,Cliente_3343,Premium,Sardegna
+3344,Cliente_3344,Premium,Toscana
+3345,Cliente_3345,Standard,Veneto
+3346,Cliente_3346,Premium,Marche
+3347,Cliente_3347,Premium,Valle d'Aosta
+3348,Cliente_3348,Premium,Lombardia
+3349,Cliente_3349,Standard,Abruzzo
+3350,Cliente_3350,Premium,Sicilia
+3351,Cliente_3351,Standard,Toscana
+3352,Cliente_3352,Premium,Piemonte
+3353,Cliente_3353,Premium,Liguria
+3354,Cliente_3354,Premium,Marche
+3355,Cliente_3355,Standard,Friuli-Venezia Giulia
+3356,Cliente_3356,Premium,Lombardia
+3357,Cliente_3357,Premium,Emilia-Romagna
+3358,Cliente_3358,Standard,Valle d'Aosta
+3359,Cliente_3359,Standard,Toscana
+3360,Cliente_3360,Premium,Lombardia
+3361,Cliente_3361,Standard,Basilicata
+3362,Cliente_3362,Standard,Liguria
+3363,Cliente_3363,Standard,Calabria
+3364,Cliente_3364,Standard,Puglia
+3365,Cliente_3365,Premium,Valle d'Aosta
+3366,Cliente_3366,Standard,Marche
+3367,Cliente_3367,Premium,Toscana
+3368,Cliente_3368,Standard,Liguria
+3369,Cliente_3369,Premium,Abruzzo
+3370,Cliente_3370,Standard,Sicilia
+3371,Cliente_3371,Premium,Lazio
+3372,Cliente_3372,Standard,Sicilia
+3373,Cliente_3373,Premium,Lombardia
+3374,Cliente_3374,Premium,Umbria
+3375,Cliente_3375,Standard,Abruzzo
+3376,Cliente_3376,Premium,Calabria
+3377,Cliente_3377,Standard,Umbria
+3378,Cliente_3378,Premium,Liguria
+3379,Cliente_3379,Standard,Sicilia
+3380,Cliente_3380,Standard,Trentino-Alto Adige
+3381,Cliente_3381,Standard,Sicilia
+3382,Cliente_3382,Standard,Campania
+3383,Cliente_3383,Premium,Calabria
+3384,Cliente_3384,Premium,Lombardia
+3385,Cliente_3385,Standard,Puglia
+3386,Cliente_3386,Premium,Abruzzo
+3387,Cliente_3387,Premium,Trentino-Alto Adige
+3388,Cliente_3388,Premium,Veneto
+3389,Cliente_3389,Premium,Sicilia
+3390,Cliente_3390,Premium,Calabria
+3391,Cliente_3391,Premium,Sicilia
+3392,Cliente_3392,Premium,Liguria
+3393,Cliente_3393,Standard,Sicilia
+3394,Cliente_3394,Standard,Calabria
+3395,Cliente_3395,Premium,Abruzzo
+3396,Cliente_3396,Premium,Abruzzo
+3397,Cliente_3397,Standard,Lombardia
+3398,Cliente_3398,Premium,Friuli-Venezia Giulia
+3399,Cliente_3399,Premium,Lombardia
+3400,Cliente_3400,Premium,Sicilia
+3401,Cliente_3401,Premium,Abruzzo
+3402,Cliente_3402,Premium,Friuli-Venezia Giulia
+3403,Cliente_3403,Standard,Basilicata
+3404,Cliente_3404,Premium,Lombardia
+3405,Cliente_3405,Premium,Puglia
+3406,Cliente_3406,Standard,Veneto
+3407,Cliente_3407,Premium,Lombardia
+3408,Cliente_3408,Premium,Toscana
+3409,Cliente_3409,Standard,Marche
+3410,Cliente_3410,Standard,Friuli-Venezia Giulia
+3411,Cliente_3411,Premium,Friuli-Venezia Giulia
+3412,Cliente_3412,Standard,Friuli-Venezia Giulia
+3413,Cliente_3413,Premium,Trentino-Alto Adige
+3414,Cliente_3414,Premium,Lombardia
+3415,Cliente_3415,Standard,Lazio
+3416,Cliente_3416,Premium,Sardegna
+3417,Cliente_3417,Standard,Lazio
+3418,Cliente_3418,Standard,Calabria
+3419,Cliente_3419,Standard,Toscana
+3420,Cliente_3420,Standard,Valle d'Aosta
+3421,Cliente_3421,Premium,Friuli-Venezia Giulia
+3422,Cliente_3422,Premium,Toscana
+3423,Cliente_3423,Premium,Veneto
+3424,Cliente_3424,Premium,Calabria
+3425,Cliente_3425,Standard,Trentino-Alto Adige
+3426,Cliente_3426,Premium,Basilicata
+3427,Cliente_3427,Standard,Friuli-Venezia Giulia
+3428,Cliente_3428,Standard,Liguria
+3429,Cliente_3429,Premium,Veneto
+3430,Cliente_3430,Standard,Campania
+3431,Cliente_3431,Standard,Campania
+3432,Cliente_3432,Premium,Sicilia
+3433,Cliente_3433,Premium,Trentino-Alto Adige
+3434,Cliente_3434,Premium,Lazio
+3435,Cliente_3435,Premium,Piemonte
+3436,Cliente_3436,Standard,Valle d'Aosta
+3437,Cliente_3437,Premium,Sicilia
+3438,Cliente_3438,Premium,Friuli-Venezia Giulia
+3439,Cliente_3439,Premium,Marche
+3440,Cliente_3440,Premium,Valle d'Aosta
+3441,Cliente_3441,Standard,Valle d'Aosta
+3442,Cliente_3442,Standard,Calabria
+3443,Cliente_3443,Standard,Lazio
+3444,Cliente_3444,Standard,Sardegna
+3445,Cliente_3445,Standard,Basilicata
+3446,Cliente_3446,Premium,Veneto
+3447,Cliente_3447,Standard,Valle d'Aosta
+3448,Cliente_3448,Standard,Campania
+3449,Cliente_3449,Premium,Friuli-Venezia Giulia
+3450,Cliente_3450,Premium,Basilicata
+3451,Cliente_3451,Premium,Sicilia
+3452,Cliente_3452,Standard,Abruzzo
+3453,Cliente_3453,Premium,Puglia
+3454,Cliente_3454,Standard,Calabria
+3455,Cliente_3455,Standard,Abruzzo
+3456,Cliente_3456,Standard,Abruzzo
+3457,Cliente_3457,Standard,Molise
+3458,Cliente_3458,Premium,Toscana
+3459,Cliente_3459,Premium,Trentino-Alto Adige
+3460,Cliente_3460,Premium,Toscana
+3461,Cliente_3461,Premium,Piemonte
+3462,Cliente_3462,Standard,Abruzzo
+3463,Cliente_3463,Standard,Veneto
+3464,Cliente_3464,Standard,Veneto
+3465,Cliente_3465,Premium,Calabria
+3466,Cliente_3466,Premium,Umbria
+3467,Cliente_3467,Premium,Lombardia
+3468,Cliente_3468,Standard,Campania
+3469,Cliente_3469,Standard,Puglia
+3470,Cliente_3470,Premium,Campania
+3471,Cliente_3471,Premium,Friuli-Venezia Giulia
+3472,Cliente_3472,Premium,Sardegna
+3473,Cliente_3473,Standard,Molise
+3474,Cliente_3474,Standard,Lombardia
+3475,Cliente_3475,Premium,Sicilia
+3476,Cliente_3476,Standard,Campania
+3477,Cliente_3477,Premium,Sicilia
+3478,Cliente_3478,Premium,Emilia-Romagna
+3479,Cliente_3479,Standard,Lazio
+3480,Cliente_3480,Standard,Liguria
+3481,Cliente_3481,Premium,Calabria
+3482,Cliente_3482,Premium,Sicilia
+3483,Cliente_3483,Standard,Trentino-Alto Adige
+3484,Cliente_3484,Premium,Molise
+3485,Cliente_3485,Premium,Trentino-Alto Adige
+3486,Cliente_3486,Premium,Calabria
+3487,Cliente_3487,Premium,Puglia
+3488,Cliente_3488,Standard,Liguria
+3489,Cliente_3489,Standard,Abruzzo
+3490,Cliente_3490,Standard,Umbria
+3491,Cliente_3491,Premium,Piemonte
+3492,Cliente_3492,Premium,Emilia-Romagna
+3493,Cliente_3493,Standard,Emilia-Romagna
+3494,Cliente_3494,Standard,Marche
+3495,Cliente_3495,Standard,Sardegna
+3496,Cliente_3496,Premium,Lombardia
+3497,Cliente_3497,Premium,Trentino-Alto Adige
+3498,Cliente_3498,Premium,Piemonte
+3499,Cliente_3499,Standard,Abruzzo
+3500,Cliente_3500,Standard,Basilicata
+3501,Cliente_3501,Premium,Lombardia
+3502,Cliente_3502,Standard,Friuli-Venezia Giulia
+3503,Cliente_3503,Premium,Abruzzo
+3504,Cliente_3504,Premium,Calabria
+3505,Cliente_3505,Standard,Liguria
+3506,Cliente_3506,Premium,Puglia
+3507,Cliente_3507,Standard,Piemonte
+3508,Cliente_3508,Standard,Campania
+3509,Cliente_3509,Premium,Friuli-Venezia Giulia
+3510,Cliente_3510,Premium,Umbria
+3511,Cliente_3511,Standard,Lazio
+3512,Cliente_3512,Standard,Veneto
+3513,Cliente_3513,Premium,Toscana
+3514,Cliente_3514,Standard,Marche
+3515,Cliente_3515,Premium,Trentino-Alto Adige
+3516,Cliente_3516,Premium,Molise
+3517,Cliente_3517,Standard,Toscana
+3518,Cliente_3518,Standard,Lazio
+3519,Cliente_3519,Premium,Trentino-Alto Adige
+3520,Cliente_3520,Premium,Piemonte
+3521,Cliente_3521,Premium,Sicilia
+3522,Cliente_3522,Premium,Sicilia
+3523,Cliente_3523,Standard,Veneto
+3524,Cliente_3524,Standard,Toscana
+3525,Cliente_3525,Premium,Marche
+3526,Cliente_3526,Premium,Abruzzo
+3527,Cliente_3527,Premium,Toscana
+3528,Cliente_3528,Standard,Lombardia
+3529,Cliente_3529,Standard,Abruzzo
+3530,Cliente_3530,Premium,Piemonte
+3531,Cliente_3531,Premium,Basilicata
+3532,Cliente_3532,Standard,Umbria
+3533,Cliente_3533,Standard,Sicilia
+3534,Cliente_3534,Standard,Puglia
+3535,Cliente_3535,Standard,Lombardia
+3536,Cliente_3536,Premium,Basilicata
+3537,Cliente_3537,Standard,Campania
+3538,Cliente_3538,Premium,Veneto
+3539,Cliente_3539,Standard,Sardegna
+3540,Cliente_3540,Standard,Valle d'Aosta
+3541,Cliente_3541,Premium,Abruzzo
+3542,Cliente_3542,Standard,Sicilia
+3543,Cliente_3543,Standard,Abruzzo
+3544,Cliente_3544,Premium,Marche
+3545,Cliente_3545,Standard,Molise
+3546,Cliente_3546,Standard,Umbria
+3547,Cliente_3547,Standard,Molise
+3548,Cliente_3548,Standard,Umbria
+3549,Cliente_3549,Premium,Marche
+3550,Cliente_3550,Premium,Liguria
+3551,Cliente_3551,Standard,Umbria
+3552,Cliente_3552,Premium,Basilicata
+3553,Cliente_3553,Standard,Basilicata
+3554,Cliente_3554,Standard,Campania
+3555,Cliente_3555,Standard,Campania
+3556,Cliente_3556,Standard,Sicilia
+3557,Cliente_3557,Standard,Basilicata
+3558,Cliente_3558,Standard,Sardegna
+3559,Cliente_3559,Premium,Toscana
+3560,Cliente_3560,Standard,Lazio
+3561,Cliente_3561,Premium,Campania
+3562,Cliente_3562,Premium,Friuli-Venezia Giulia
+3563,Cliente_3563,Standard,Campania
+3564,Cliente_3564,Standard,Campania
+3565,Cliente_3565,Standard,Molise
+3566,Cliente_3566,Premium,Sardegna
+3567,Cliente_3567,Premium,Umbria
+3568,Cliente_3568,Standard,Sardegna
+3569,Cliente_3569,Standard,Sardegna
+3570,Cliente_3570,Premium,Basilicata
+3571,Cliente_3571,Premium,Veneto
+3572,Cliente_3572,Premium,Molise
+3573,Cliente_3573,Standard,Puglia
+3574,Cliente_3574,Standard,Valle d'Aosta
+3575,Cliente_3575,Premium,Campania
+3576,Cliente_3576,Premium,Basilicata
+3577,Cliente_3577,Premium,Sicilia
+3578,Cliente_3578,Premium,Lazio
+3579,Cliente_3579,Premium,Valle d'Aosta
+3580,Cliente_3580,Standard,Calabria
+3581,Cliente_3581,Premium,Molise
+3582,Cliente_3582,Standard,Toscana
+3583,Cliente_3583,Standard,Sicilia
+3584,Cliente_3584,Standard,Lazio
+3585,Cliente_3585,Premium,Lombardia
+3586,Cliente_3586,Premium,Marche
+3587,Cliente_3587,Standard,Emilia-Romagna
+3588,Cliente_3588,Premium,Liguria
+3589,Cliente_3589,Standard,Veneto
+3590,Cliente_3590,Standard,Umbria
+3591,Cliente_3591,Standard,Lazio
+3592,Cliente_3592,Premium,Friuli-Venezia Giulia
+3593,Cliente_3593,Standard,Sicilia
+3594,Cliente_3594,Standard,Valle d'Aosta
+3595,Cliente_3595,Premium,Veneto
+3596,Cliente_3596,Premium,Sicilia
+3597,Cliente_3597,Premium,Basilicata
+3598,Cliente_3598,Premium,Toscana
+3599,Cliente_3599,Standard,Umbria
+3600,Cliente_3600,Premium,Friuli-Venezia Giulia
+3601,Cliente_3601,Standard,Basilicata
+3602,Cliente_3602,Premium,Lombardia
+3603,Cliente_3603,Premium,Puglia
+3604,Cliente_3604,Standard,Friuli-Venezia Giulia
+3605,Cliente_3605,Standard,Marche
+3606,Cliente_3606,Standard,Friuli-Venezia Giulia
+3607,Cliente_3607,Standard,Emilia-Romagna
+3608,Cliente_3608,Standard,Toscana
+3609,Cliente_3609,Standard,Campania
+3610,Cliente_3610,Standard,Trentino-Alto Adige
+3611,Cliente_3611,Standard,Lombardia
+3612,Cliente_3612,Standard,Valle d'Aosta
+3613,Cliente_3613,Premium,Puglia
+3614,Cliente_3614,Premium,Emilia-Romagna
+3615,Cliente_3615,Standard,Trentino-Alto Adige
+3616,Cliente_3616,Standard,Trentino-Alto Adige
+3617,Cliente_3617,Standard,Calabria
+3618,Cliente_3618,Standard,Liguria
+3619,Cliente_3619,Standard,Emilia-Romagna
+3620,Cliente_3620,Standard,Veneto
+3621,Cliente_3621,Standard,Abruzzo
+3622,Cliente_3622,Premium,Toscana
+3623,Cliente_3623,Standard,Liguria
+3624,Cliente_3624,Standard,Basilicata
+3625,Cliente_3625,Premium,Abruzzo
+3626,Cliente_3626,Premium,Lombardia
+3627,Cliente_3627,Premium,Sardegna
+3628,Cliente_3628,Standard,Sicilia
+3629,Cliente_3629,Standard,Puglia
+3630,Cliente_3630,Standard,Valle d'Aosta
+3631,Cliente_3631,Premium,Basilicata
+3632,Cliente_3632,Premium,Emilia-Romagna
+3633,Cliente_3633,Premium,Lazio
+3634,Cliente_3634,Premium,Toscana
+3635,Cliente_3635,Standard,Valle d'Aosta
+3636,Cliente_3636,Standard,Lazio
+3637,Cliente_3637,Premium,Valle d'Aosta
+3638,Cliente_3638,Premium,Sardegna
+3639,Cliente_3639,Standard,Puglia
+3640,Cliente_3640,Premium,Puglia
+3641,Cliente_3641,Standard,Basilicata
+3642,Cliente_3642,Standard,Calabria
+3643,Cliente_3643,Standard,Valle d'Aosta
+3644,Cliente_3644,Standard,Sardegna
+3645,Cliente_3645,Standard,Veneto
+3646,Cliente_3646,Premium,Marche
+3647,Cliente_3647,Premium,Molise
+3648,Cliente_3648,Premium,Basilicata
+3649,Cliente_3649,Standard,Molise
+3650,Cliente_3650,Premium,Sicilia
+3651,Cliente_3651,Premium,Emilia-Romagna
+3652,Cliente_3652,Premium,Veneto
+3653,Cliente_3653,Standard,Valle d'Aosta
+3654,Cliente_3654,Standard,Marche
+3655,Cliente_3655,Premium,Molise
+3656,Cliente_3656,Premium,Friuli-Venezia Giulia
+3657,Cliente_3657,Premium,Friuli-Venezia Giulia
+3658,Cliente_3658,Premium,Calabria
+3659,Cliente_3659,Standard,Abruzzo
+3660,Cliente_3660,Standard,Toscana
+3661,Cliente_3661,Standard,Abruzzo
+3662,Cliente_3662,Premium,Piemonte
+3663,Cliente_3663,Premium,Liguria
+3664,Cliente_3664,Premium,Toscana
+3665,Cliente_3665,Standard,Toscana
+3666,Cliente_3666,Standard,Basilicata
+3667,Cliente_3667,Premium,Valle d'Aosta
+3668,Cliente_3668,Standard,Molise
+3669,Cliente_3669,Premium,Sardegna
+3670,Cliente_3670,Premium,Friuli-Venezia Giulia
+3671,Cliente_3671,Standard,Abruzzo
+3672,Cliente_3672,Premium,Lombardia
+3673,Cliente_3673,Premium,Liguria
+3674,Cliente_3674,Standard,Veneto
+3675,Cliente_3675,Standard,Trentino-Alto Adige
+3676,Cliente_3676,Standard,Puglia
+3677,Cliente_3677,Premium,Lombardia
+3678,Cliente_3678,Standard,Emilia-Romagna
+3679,Cliente_3679,Standard,Emilia-Romagna
+3680,Cliente_3680,Standard,Toscana
+3681,Cliente_3681,Standard,Piemonte
+3682,Cliente_3682,Standard,Umbria
+3683,Cliente_3683,Premium,Sardegna
+3684,Cliente_3684,Standard,Veneto
+3685,Cliente_3685,Standard,Emilia-Romagna
+3686,Cliente_3686,Premium,Emilia-Romagna
+3687,Cliente_3687,Premium,Toscana
+3688,Cliente_3688,Standard,Veneto
+3689,Cliente_3689,Standard,Basilicata
+3690,Cliente_3690,Premium,Puglia
+3691,Cliente_3691,Standard,Veneto
+3692,Cliente_3692,Premium,Calabria
+3693,Cliente_3693,Standard,Emilia-Romagna
+3694,Cliente_3694,Premium,Campania
+3695,Cliente_3695,Premium,Basilicata
+3696,Cliente_3696,Premium,Veneto
+3697,Cliente_3697,Standard,Marche
+3698,Cliente_3698,Premium,Abruzzo
+3699,Cliente_3699,Standard,Piemonte
+3700,Cliente_3700,Premium,Calabria
+3701,Cliente_3701,Premium,Sicilia
+3702,Cliente_3702,Standard,Marche
+3703,Cliente_3703,Standard,Sicilia
+3704,Cliente_3704,Standard,Sicilia
+3705,Cliente_3705,Premium,Abruzzo
+3706,Cliente_3706,Premium,Sardegna
+3707,Cliente_3707,Premium,Basilicata
+3708,Cliente_3708,Standard,Sardegna
+3709,Cliente_3709,Premium,Molise
+3710,Cliente_3710,Premium,Emilia-Romagna
+3711,Cliente_3711,Standard,Valle d'Aosta
+3712,Cliente_3712,Standard,Valle d'Aosta
+3713,Cliente_3713,Premium,Lazio
+3714,Cliente_3714,Premium,Piemonte
+3715,Cliente_3715,Premium,Veneto
+3716,Cliente_3716,Standard,Umbria
+3717,Cliente_3717,Standard,Lombardia
+3718,Cliente_3718,Standard,Trentino-Alto Adige
+3719,Cliente_3719,Standard,Liguria
+3720,Cliente_3720,Standard,Umbria
+3721,Cliente_3721,Standard,Abruzzo
+3722,Cliente_3722,Standard,Puglia
+3723,Cliente_3723,Premium,Puglia
+3724,Cliente_3724,Standard,Lazio
+3725,Cliente_3725,Premium,Calabria
+3726,Cliente_3726,Premium,Valle d'Aosta
+3727,Cliente_3727,Premium,Umbria
+3728,Cliente_3728,Standard,Abruzzo
+3729,Cliente_3729,Standard,Veneto
+3730,Cliente_3730,Standard,Campania
+3731,Cliente_3731,Premium,Liguria
+3732,Cliente_3732,Premium,Lombardia
+3733,Cliente_3733,Standard,Emilia-Romagna
+3734,Cliente_3734,Premium,Emilia-Romagna
+3735,Cliente_3735,Standard,Veneto
+3736,Cliente_3736,Standard,Lombardia
+3737,Cliente_3737,Standard,Veneto
+3738,Cliente_3738,Premium,Umbria
+3739,Cliente_3739,Premium,Liguria
+3740,Cliente_3740,Standard,Piemonte
+3741,Cliente_3741,Premium,Lazio
+3742,Cliente_3742,Standard,Sicilia
+3743,Cliente_3743,Standard,Piemonte
+3744,Cliente_3744,Standard,Basilicata
+3745,Cliente_3745,Standard,Piemonte
+3746,Cliente_3746,Premium,Lombardia
+3747,Cliente_3747,Standard,Valle d'Aosta
+3748,Cliente_3748,Standard,Piemonte
+3749,Cliente_3749,Standard,Molise
+3750,Cliente_3750,Standard,Veneto
+3751,Cliente_3751,Premium,Puglia
+3752,Cliente_3752,Standard,Trentino-Alto Adige
+3753,Cliente_3753,Standard,Veneto
+3754,Cliente_3754,Standard,Umbria
+3755,Cliente_3755,Premium,Liguria
+3756,Cliente_3756,Standard,Abruzzo
+3757,Cliente_3757,Premium,Campania
+3758,Cliente_3758,Standard,Campania
+3759,Cliente_3759,Premium,Marche
+3760,Cliente_3760,Premium,Liguria
+3761,Cliente_3761,Standard,Marche
+3762,Cliente_3762,Premium,Basilicata
+3763,Cliente_3763,Standard,Puglia
+3764,Cliente_3764,Standard,Valle d'Aosta
+3765,Cliente_3765,Premium,Piemonte
+3766,Cliente_3766,Premium,Valle d'Aosta
+3767,Cliente_3767,Premium,Abruzzo
+3768,Cliente_3768,Standard,Friuli-Venezia Giulia
+3769,Cliente_3769,Standard,Molise
+3770,Cliente_3770,Premium,Toscana
+3771,Cliente_3771,Standard,Liguria
+3772,Cliente_3772,Standard,Valle d'Aosta
+3773,Cliente_3773,Standard,Calabria
+3774,Cliente_3774,Premium,Liguria
+3775,Cliente_3775,Premium,Friuli-Venezia Giulia
+3776,Cliente_3776,Standard,Piemonte
+3777,Cliente_3777,Premium,Toscana
+3778,Cliente_3778,Standard,Toscana
+3779,Cliente_3779,Premium,Veneto
+3780,Cliente_3780,Premium,Liguria
+3781,Cliente_3781,Standard,Valle d'Aosta
+3782,Cliente_3782,Standard,Umbria
+3783,Cliente_3783,Premium,Basilicata
+3784,Cliente_3784,Standard,Valle d'Aosta
+3785,Cliente_3785,Standard,Basilicata
+3786,Cliente_3786,Premium,Lombardia
+3787,Cliente_3787,Standard,Emilia-Romagna
+3788,Cliente_3788,Premium,Liguria
+3789,Cliente_3789,Standard,Veneto
+3790,Cliente_3790,Premium,Calabria
+3791,Cliente_3791,Premium,Umbria
+3792,Cliente_3792,Premium,Emilia-Romagna
+3793,Cliente_3793,Premium,Calabria
+3794,Cliente_3794,Standard,Lazio
+3795,Cliente_3795,Premium,Puglia
+3796,Cliente_3796,Standard,Lazio
+3797,Cliente_3797,Premium,Valle d'Aosta
+3798,Cliente_3798,Premium,Valle d'Aosta
+3799,Cliente_3799,Premium,Campania
+3800,Cliente_3800,Standard,Marche
+3801,Cliente_3801,Premium,Marche
+3802,Cliente_3802,Standard,Calabria
+3803,Cliente_3803,Standard,Abruzzo
+3804,Cliente_3804,Standard,Molise
+3805,Cliente_3805,Standard,Emilia-Romagna
+3806,Cliente_3806,Premium,Piemonte
+3807,Cliente_3807,Premium,Veneto
+3808,Cliente_3808,Premium,Calabria
+3809,Cliente_3809,Standard,Toscana
+3810,Cliente_3810,Standard,Puglia
+3811,Cliente_3811,Standard,Veneto
+3812,Cliente_3812,Premium,Lombardia
+3813,Cliente_3813,Standard,Veneto
+3814,Cliente_3814,Standard,Basilicata
+3815,Cliente_3815,Standard,Basilicata
+3816,Cliente_3816,Premium,Puglia
+3817,Cliente_3817,Premium,Veneto
+3818,Cliente_3818,Standard,Lazio
+3819,Cliente_3819,Premium,Toscana
+3820,Cliente_3820,Premium,Campania
+3821,Cliente_3821,Standard,Sicilia
+3822,Cliente_3822,Premium,Lombardia
+3823,Cliente_3823,Premium,Molise
+3824,Cliente_3824,Standard,Sardegna
+3825,Cliente_3825,Premium,Basilicata
+3826,Cliente_3826,Premium,Lazio
+3827,Cliente_3827,Standard,Abruzzo
+3828,Cliente_3828,Premium,Sardegna
+3829,Cliente_3829,Premium,Umbria
+3830,Cliente_3830,Premium,Emilia-Romagna
+3831,Cliente_3831,Standard,Valle d'Aosta
+3832,Cliente_3832,Premium,Toscana
+3833,Cliente_3833,Standard,Piemonte
+3834,Cliente_3834,Standard,Sicilia
+3835,Cliente_3835,Premium,Sardegna
+3836,Cliente_3836,Premium,Piemonte
+3837,Cliente_3837,Premium,Friuli-Venezia Giulia
+3838,Cliente_3838,Premium,Emilia-Romagna
+3839,Cliente_3839,Premium,Campania
+3840,Cliente_3840,Standard,Molise
+3841,Cliente_3841,Premium,Lazio
+3842,Cliente_3842,Premium,Basilicata
+3843,Cliente_3843,Standard,Sicilia
+3844,Cliente_3844,Premium,Sardegna
+3845,Cliente_3845,Standard,Lombardia
+3846,Cliente_3846,Standard,Calabria
+3847,Cliente_3847,Premium,Umbria
+3848,Cliente_3848,Premium,Molise
+3849,Cliente_3849,Premium,Trentino-Alto Adige
+3850,Cliente_3850,Premium,Trentino-Alto Adige
+3851,Cliente_3851,Standard,Veneto
+3852,Cliente_3852,Standard,Lazio
+3853,Cliente_3853,Premium,Basilicata
+3854,Cliente_3854,Standard,Toscana
+3855,Cliente_3855,Standard,Sardegna
+3856,Cliente_3856,Premium,Sicilia
+3857,Cliente_3857,Premium,Veneto
+3858,Cliente_3858,Standard,Sardegna
+3859,Cliente_3859,Premium,Piemonte
+3860,Cliente_3860,Premium,Calabria
+3861,Cliente_3861,Premium,Sicilia
+3862,Cliente_3862,Standard,Marche
+3863,Cliente_3863,Standard,Calabria
+3864,Cliente_3864,Premium,Puglia
+3865,Cliente_3865,Premium,Liguria
+3866,Cliente_3866,Premium,Emilia-Romagna
+3867,Cliente_3867,Premium,Toscana
+3868,Cliente_3868,Standard,Liguria
+3869,Cliente_3869,Premium,Toscana
+3870,Cliente_3870,Standard,Basilicata
+3871,Cliente_3871,Premium,Emilia-Romagna
+3872,Cliente_3872,Standard,Puglia
+3873,Cliente_3873,Standard,Marche
+3874,Cliente_3874,Premium,Toscana
+3875,Cliente_3875,Premium,Marche
+3876,Cliente_3876,Premium,Friuli-Venezia Giulia
+3877,Cliente_3877,Standard,Valle d'Aosta
+3878,Cliente_3878,Standard,Campania
+3879,Cliente_3879,Premium,Valle d'Aosta
+3880,Cliente_3880,Premium,Molise
+3881,Cliente_3881,Premium,Calabria
+3882,Cliente_3882,Premium,Valle d'Aosta
+3883,Cliente_3883,Standard,Puglia
+3884,Cliente_3884,Premium,Basilicata
+3885,Cliente_3885,Standard,Calabria
+3886,Cliente_3886,Premium,Lazio
+3887,Cliente_3887,Premium,Marche
+3888,Cliente_3888,Standard,Marche
+3889,Cliente_3889,Standard,Sicilia
+3890,Cliente_3890,Premium,Veneto
+3891,Cliente_3891,Premium,Friuli-Venezia Giulia
+3892,Cliente_3892,Premium,Puglia
+3893,Cliente_3893,Standard,Sicilia
+3894,Cliente_3894,Standard,Puglia
+3895,Cliente_3895,Standard,Lazio
+3896,Cliente_3896,Premium,Calabria
+3897,Cliente_3897,Premium,Valle d'Aosta
+3898,Cliente_3898,Standard,Lazio
+3899,Cliente_3899,Standard,Abruzzo
+3900,Cliente_3900,Standard,Molise
+3901,Cliente_3901,Standard,Veneto
+3902,Cliente_3902,Premium,Liguria
+3903,Cliente_3903,Premium,Molise
+3904,Cliente_3904,Standard,Basilicata
+3905,Cliente_3905,Premium,Sardegna
+3906,Cliente_3906,Standard,Campania
+3907,Cliente_3907,Premium,Abruzzo
+3908,Cliente_3908,Standard,Basilicata
+3909,Cliente_3909,Premium,Friuli-Venezia Giulia
+3910,Cliente_3910,Premium,Piemonte
+3911,Cliente_3911,Premium,Lazio
+3912,Cliente_3912,Standard,Toscana
+3913,Cliente_3913,Standard,Marche
+3914,Cliente_3914,Standard,Toscana
+3915,Cliente_3915,Standard,Sardegna
+3916,Cliente_3916,Premium,Trentino-Alto Adige
+3917,Cliente_3917,Premium,Lazio
+3918,Cliente_3918,Standard,Lazio
+3919,Cliente_3919,Standard,Piemonte
+3920,Cliente_3920,Premium,Molise
+3921,Cliente_3921,Standard,Calabria
+3922,Cliente_3922,Premium,Trentino-Alto Adige
+3923,Cliente_3923,Standard,Umbria
+3924,Cliente_3924,Premium,Lazio
+3925,Cliente_3925,Standard,Campania
+3926,Cliente_3926,Standard,Trentino-Alto Adige
+3927,Cliente_3927,Premium,Lazio
+3928,Cliente_3928,Premium,Liguria
+3929,Cliente_3929,Premium,Sardegna
+3930,Cliente_3930,Standard,Puglia
+3931,Cliente_3931,Standard,Basilicata
+3932,Cliente_3932,Standard,Molise
+3933,Cliente_3933,Premium,Lombardia
+3934,Cliente_3934,Premium,Sardegna
+3935,Cliente_3935,Standard,Toscana
+3936,Cliente_3936,Premium,Molise
+3937,Cliente_3937,Premium,Umbria
+3938,Cliente_3938,Premium,Trentino-Alto Adige
+3939,Cliente_3939,Premium,Piemonte
+3940,Cliente_3940,Premium,Campania
+3941,Cliente_3941,Standard,Molise
+3942,Cliente_3942,Standard,Piemonte
+3943,Cliente_3943,Standard,Liguria
+3944,Cliente_3944,Standard,Umbria
+3945,Cliente_3945,Premium,Puglia
+3946,Cliente_3946,Premium,Marche
+3947,Cliente_3947,Standard,Calabria
+3948,Cliente_3948,Standard,Sardegna
+3949,Cliente_3949,Standard,Friuli-Venezia Giulia
+3950,Cliente_3950,Standard,Umbria
+3951,Cliente_3951,Premium,Basilicata
+3952,Cliente_3952,Premium,Sicilia
+3953,Cliente_3953,Standard,Liguria
+3954,Cliente_3954,Standard,Emilia-Romagna
+3955,Cliente_3955,Standard,Emilia-Romagna
+3956,Cliente_3956,Standard,Abruzzo
+3957,Cliente_3957,Premium,Basilicata
+3958,Cliente_3958,Premium,Trentino-Alto Adige
+3959,Cliente_3959,Premium,Puglia
+3960,Cliente_3960,Standard,Trentino-Alto Adige
+3961,Cliente_3961,Premium,Veneto
+3962,Cliente_3962,Premium,Abruzzo
+3963,Cliente_3963,Premium,Toscana
+3964,Cliente_3964,Premium,Piemonte
+3965,Cliente_3965,Standard,Trentino-Alto Adige
+3966,Cliente_3966,Standard,Lazio
+3967,Cliente_3967,Premium,Lombardia
+3968,Cliente_3968,Standard,Puglia
+3969,Cliente_3969,Premium,Abruzzo
+3970,Cliente_3970,Premium,Basilicata
+3971,Cliente_3971,Premium,Valle d'Aosta
+3972,Cliente_3972,Standard,Molise
+3973,Cliente_3973,Standard,Sicilia
+3974,Cliente_3974,Standard,Toscana
+3975,Cliente_3975,Standard,Emilia-Romagna
+3976,Cliente_3976,Standard,Calabria
+3977,Cliente_3977,Premium,Valle d'Aosta
+3978,Cliente_3978,Premium,Toscana
+3979,Cliente_3979,Standard,Valle d'Aosta
+3980,Cliente_3980,Standard,Sardegna
+3981,Cliente_3981,Standard,Calabria
+3982,Cliente_3982,Premium,Lombardia
+3983,Cliente_3983,Standard,Calabria
+3984,Cliente_3984,Premium,Sardegna
+3985,Cliente_3985,Premium,Lazio
+3986,Cliente_3986,Premium,Friuli-Venezia Giulia
+3987,Cliente_3987,Premium,Valle d'Aosta
+3988,Cliente_3988,Premium,Molise
+3989,Cliente_3989,Premium,Veneto
+3990,Cliente_3990,Standard,Molise
+3991,Cliente_3991,Premium,Molise
+3992,Cliente_3992,Standard,Trentino-Alto Adige
+3993,Cliente_3993,Standard,Molise
+3994,Cliente_3994,Premium,Molise
+3995,Cliente_3995,Premium,Campania
+3996,Cliente_3996,Standard,Abruzzo
+3997,Cliente_3997,Premium,Puglia
+3998,Cliente_3998,Standard,Emilia-Romagna
+3999,Cliente_3999,Standard,Sicilia
+4000,Cliente_4000,Standard,Trentino-Alto Adige
+4001,Cliente_4001,Premium,Lombardia
+4002,Cliente_4002,Premium,Sicilia
+4003,Cliente_4003,Standard,Sicilia
+4004,Cliente_4004,Standard,Calabria
+4005,Cliente_4005,Standard,Veneto
+4006,Cliente_4006,Standard,Calabria
+4007,Cliente_4007,Premium,Umbria
+4008,Cliente_4008,Premium,Veneto
+4009,Cliente_4009,Standard,Marche
+4010,Cliente_4010,Standard,Abruzzo
+4011,Cliente_4011,Standard,Campania
+4012,Cliente_4012,Standard,Valle d'Aosta
+4013,Cliente_4013,Standard,Piemonte
+4014,Cliente_4014,Premium,Valle d'Aosta
+4015,Cliente_4015,Premium,Abruzzo
+4016,Cliente_4016,Premium,Molise
+4017,Cliente_4017,Premium,Lombardia
+4018,Cliente_4018,Premium,Friuli-Venezia Giulia
+4019,Cliente_4019,Premium,Sicilia
+4020,Cliente_4020,Premium,Puglia
+4021,Cliente_4021,Standard,Veneto
+4022,Cliente_4022,Standard,Piemonte
+4023,Cliente_4023,Standard,Campania
+4024,Cliente_4024,Premium,Sardegna
+4025,Cliente_4025,Standard,Trentino-Alto Adige
+4026,Cliente_4026,Premium,Friuli-Venezia Giulia
+4027,Cliente_4027,Premium,Sicilia
+4028,Cliente_4028,Premium,Emilia-Romagna
+4029,Cliente_4029,Premium,Abruzzo
+4030,Cliente_4030,Standard,Lazio
+4031,Cliente_4031,Premium,Veneto
+4032,Cliente_4032,Premium,Trentino-Alto Adige
+4033,Cliente_4033,Premium,Veneto
+4034,Cliente_4034,Standard,Liguria
+4035,Cliente_4035,Standard,Abruzzo
+4036,Cliente_4036,Standard,Marche
+4037,Cliente_4037,Premium,Liguria
+4038,Cliente_4038,Standard,Calabria
+4039,Cliente_4039,Standard,Molise
+4040,Cliente_4040,Premium,Puglia
+4041,Cliente_4041,Standard,Calabria
+4042,Cliente_4042,Standard,Molise
+4043,Cliente_4043,Premium,Piemonte
+4044,Cliente_4044,Standard,Trentino-Alto Adige
+4045,Cliente_4045,Premium,Liguria
+4046,Cliente_4046,Standard,Piemonte
+4047,Cliente_4047,Standard,Calabria
+4048,Cliente_4048,Standard,Emilia-Romagna
+4049,Cliente_4049,Premium,Veneto
+4050,Cliente_4050,Premium,Puglia
+4051,Cliente_4051,Premium,Molise
+4052,Cliente_4052,Premium,Campania
+4053,Cliente_4053,Premium,Puglia
+4054,Cliente_4054,Premium,Calabria
+4055,Cliente_4055,Premium,Emilia-Romagna
+4056,Cliente_4056,Premium,Friuli-Venezia Giulia
+4057,Cliente_4057,Standard,Lombardia
+4058,Cliente_4058,Premium,Lazio
+4059,Cliente_4059,Standard,Umbria
+4060,Cliente_4060,Standard,Friuli-Venezia Giulia
+4061,Cliente_4061,Standard,Marche
+4062,Cliente_4062,Standard,Veneto
+4063,Cliente_4063,Standard,Campania
+4064,Cliente_4064,Premium,Calabria
+4065,Cliente_4065,Premium,Abruzzo
+4066,Cliente_4066,Standard,Sardegna
+4067,Cliente_4067,Premium,Toscana
+4068,Cliente_4068,Premium,Molise
+4069,Cliente_4069,Premium,Piemonte
+4070,Cliente_4070,Standard,Sicilia
+4071,Cliente_4071,Standard,Lombardia
+4072,Cliente_4072,Premium,Lombardia
+4073,Cliente_4073,Standard,Marche
+4074,Cliente_4074,Standard,Trentino-Alto Adige
+4075,Cliente_4075,Premium,Friuli-Venezia Giulia
+4076,Cliente_4076,Standard,Sardegna
+4077,Cliente_4077,Standard,Emilia-Romagna
+4078,Cliente_4078,Premium,Toscana
+4079,Cliente_4079,Premium,Piemonte
+4080,Cliente_4080,Premium,Friuli-Venezia Giulia
+4081,Cliente_4081,Standard,Umbria
+4082,Cliente_4082,Standard,Basilicata
+4083,Cliente_4083,Standard,Calabria
+4084,Cliente_4084,Standard,Trentino-Alto Adige
+4085,Cliente_4085,Premium,Abruzzo
+4086,Cliente_4086,Standard,Sardegna
+4087,Cliente_4087,Standard,Sicilia
+4088,Cliente_4088,Standard,Abruzzo
+4089,Cliente_4089,Standard,Sicilia
+4090,Cliente_4090,Standard,Sicilia
+4091,Cliente_4091,Premium,Emilia-Romagna
+4092,Cliente_4092,Standard,Marche
+4093,Cliente_4093,Standard,Liguria
+4094,Cliente_4094,Standard,Puglia
+4095,Cliente_4095,Standard,Lazio
+4096,Cliente_4096,Premium,Puglia
+4097,Cliente_4097,Premium,Calabria
+4098,Cliente_4098,Standard,Campania
+4099,Cliente_4099,Standard,Calabria
+4100,Cliente_4100,Premium,Sardegna
+4101,Cliente_4101,Standard,Friuli-Venezia Giulia
+4102,Cliente_4102,Standard,Calabria
+4103,Cliente_4103,Premium,Molise
+4104,Cliente_4104,Premium,Sicilia
+4105,Cliente_4105,Premium,Liguria
+4106,Cliente_4106,Premium,Umbria
+4107,Cliente_4107,Premium,Liguria
+4108,Cliente_4108,Premium,Liguria
+4109,Cliente_4109,Premium,Veneto
+4110,Cliente_4110,Standard,Lazio
+4111,Cliente_4111,Standard,Lombardia
+4112,Cliente_4112,Premium,Friuli-Venezia Giulia
+4113,Cliente_4113,Premium,Sicilia
+4114,Cliente_4114,Standard,Emilia-Romagna
+4115,Cliente_4115,Premium,Toscana
+4116,Cliente_4116,Standard,Umbria
+4117,Cliente_4117,Standard,Sardegna
+4118,Cliente_4118,Premium,Lazio
+4119,Cliente_4119,Premium,Abruzzo
+4120,Cliente_4120,Premium,Campania
+4121,Cliente_4121,Standard,Friuli-Venezia Giulia
+4122,Cliente_4122,Standard,Sicilia
+4123,Cliente_4123,Standard,Friuli-Venezia Giulia
+4124,Cliente_4124,Premium,Basilicata
+4125,Cliente_4125,Standard,Liguria
+4126,Cliente_4126,Premium,Puglia
+4127,Cliente_4127,Premium,Umbria
+4128,Cliente_4128,Standard,Molise
+4129,Cliente_4129,Premium,Emilia-Romagna
+4130,Cliente_4130,Standard,Valle d'Aosta
+4131,Cliente_4131,Standard,Abruzzo
+4132,Cliente_4132,Premium,Emilia-Romagna
+4133,Cliente_4133,Standard,Puglia
+4134,Cliente_4134,Premium,Lazio
+4135,Cliente_4135,Premium,Veneto
+4136,Cliente_4136,Premium,Lombardia
+4137,Cliente_4137,Standard,Puglia
+4138,Cliente_4138,Premium,Sicilia
+4139,Cliente_4139,Standard,Sicilia
+4140,Cliente_4140,Standard,Umbria
+4141,Cliente_4141,Premium,Campania
+4142,Cliente_4142,Premium,Liguria
+4143,Cliente_4143,Standard,Toscana
+4144,Cliente_4144,Premium,Basilicata
+4145,Cliente_4145,Premium,Puglia
+4146,Cliente_4146,Premium,Toscana
+4147,Cliente_4147,Premium,Valle d'Aosta
+4148,Cliente_4148,Standard,Sicilia
+4149,Cliente_4149,Premium,Umbria
+4150,Cliente_4150,Standard,Toscana
+4151,Cliente_4151,Premium,Liguria
+4152,Cliente_4152,Premium,Sardegna
+4153,Cliente_4153,Premium,Umbria
+4154,Cliente_4154,Premium,Veneto
+4155,Cliente_4155,Standard,Friuli-Venezia Giulia
+4156,Cliente_4156,Premium,Abruzzo
+4157,Cliente_4157,Premium,Friuli-Venezia Giulia
+4158,Cliente_4158,Standard,Umbria
+4159,Cliente_4159,Standard,Friuli-Venezia Giulia
+4160,Cliente_4160,Premium,Friuli-Venezia Giulia
+4161,Cliente_4161,Premium,Friuli-Venezia Giulia
+4162,Cliente_4162,Standard,Valle d'Aosta
+4163,Cliente_4163,Premium,Basilicata
+4164,Cliente_4164,Standard,Basilicata
+4165,Cliente_4165,Premium,Marche
+4166,Cliente_4166,Standard,Marche
+4167,Cliente_4167,Standard,Toscana
+4168,Cliente_4168,Premium,Campania
+4169,Cliente_4169,Standard,Lombardia
+4170,Cliente_4170,Premium,Lombardia
+4171,Cliente_4171,Premium,Liguria
+4172,Cliente_4172,Premium,Emilia-Romagna
+4173,Cliente_4173,Standard,Abruzzo
+4174,Cliente_4174,Standard,Emilia-Romagna
+4175,Cliente_4175,Premium,Sicilia
+4176,Cliente_4176,Standard,Veneto
+4177,Cliente_4177,Premium,Trentino-Alto Adige
+4178,Cliente_4178,Premium,Emilia-Romagna
+4179,Cliente_4179,Premium,Veneto
+4180,Cliente_4180,Standard,Molise
+4181,Cliente_4181,Standard,Lombardia
+4182,Cliente_4182,Standard,Liguria
+4183,Cliente_4183,Premium,Calabria
+4184,Cliente_4184,Standard,Molise
+4185,Cliente_4185,Standard,Sicilia
+4186,Cliente_4186,Standard,Umbria
+4187,Cliente_4187,Standard,Umbria
+4188,Cliente_4188,Premium,Trentino-Alto Adige
+4189,Cliente_4189,Standard,Piemonte
+4190,Cliente_4190,Premium,Sardegna
+4191,Cliente_4191,Standard,Umbria
+4192,Cliente_4192,Premium,Liguria
+4193,Cliente_4193,Premium,Umbria
+4194,Cliente_4194,Standard,Calabria
+4195,Cliente_4195,Standard,Liguria
+4196,Cliente_4196,Premium,Umbria
+4197,Cliente_4197,Standard,Trentino-Alto Adige
+4198,Cliente_4198,Standard,Calabria
+4199,Cliente_4199,Premium,Emilia-Romagna
+4200,Cliente_4200,Standard,Calabria
+4201,Cliente_4201,Premium,Liguria
+4202,Cliente_4202,Standard,Marche
+4203,Cliente_4203,Premium,Liguria
+4204,Cliente_4204,Standard,Sardegna
+4205,Cliente_4205,Premium,Veneto
+4206,Cliente_4206,Standard,Toscana
+4207,Cliente_4207,Standard,Marche
+4208,Cliente_4208,Standard,Lombardia
+4209,Cliente_4209,Premium,Sicilia
+4210,Cliente_4210,Premium,Emilia-Romagna
+4211,Cliente_4211,Premium,Valle d'Aosta
+4212,Cliente_4212,Premium,Lombardia
+4213,Cliente_4213,Premium,Lombardia
+4214,Cliente_4214,Standard,Piemonte
+4215,Cliente_4215,Standard,Marche
+4216,Cliente_4216,Standard,Lazio
+4217,Cliente_4217,Standard,Veneto
+4218,Cliente_4218,Premium,Calabria
+4219,Cliente_4219,Standard,Trentino-Alto Adige
+4220,Cliente_4220,Standard,Marche
+4221,Cliente_4221,Premium,Sardegna
+4222,Cliente_4222,Standard,Sicilia
+4223,Cliente_4223,Premium,Abruzzo
+4224,Cliente_4224,Standard,Sardegna
+4225,Cliente_4225,Premium,Lazio
+4226,Cliente_4226,Premium,Calabria
+4227,Cliente_4227,Standard,Lombardia
+4228,Cliente_4228,Standard,Trentino-Alto Adige
+4229,Cliente_4229,Premium,Piemonte
+4230,Cliente_4230,Standard,Abruzzo
+4231,Cliente_4231,Standard,Toscana
+4232,Cliente_4232,Standard,Marche
+4233,Cliente_4233,Standard,Piemonte
+4234,Cliente_4234,Standard,Toscana
+4235,Cliente_4235,Standard,Sicilia
+4236,Cliente_4236,Standard,Toscana
+4237,Cliente_4237,Premium,Sardegna
+4238,Cliente_4238,Standard,Piemonte
+4239,Cliente_4239,Premium,Valle d'Aosta
+4240,Cliente_4240,Standard,Umbria
+4241,Cliente_4241,Premium,Lombardia
+4242,Cliente_4242,Standard,Lombardia
+4243,Cliente_4243,Standard,Lombardia
+4244,Cliente_4244,Standard,Emilia-Romagna
+4245,Cliente_4245,Standard,Campania
+4246,Cliente_4246,Premium,Sicilia
+4247,Cliente_4247,Standard,Toscana
+4248,Cliente_4248,Standard,Calabria
+4249,Cliente_4249,Standard,Piemonte
+4250,Cliente_4250,Premium,Puglia
+4251,Cliente_4251,Standard,Liguria
+4252,Cliente_4252,Standard,Umbria
+4253,Cliente_4253,Standard,Marche
+4254,Cliente_4254,Standard,Toscana
+4255,Cliente_4255,Standard,Basilicata
+4256,Cliente_4256,Standard,Liguria
+4257,Cliente_4257,Standard,Marche
+4258,Cliente_4258,Premium,Toscana
+4259,Cliente_4259,Premium,Molise
+4260,Cliente_4260,Standard,Toscana
+4261,Cliente_4261,Premium,Sardegna
+4262,Cliente_4262,Standard,Emilia-Romagna
+4263,Cliente_4263,Standard,Valle d'Aosta
+4264,Cliente_4264,Premium,Campania
+4265,Cliente_4265,Standard,Puglia
+4266,Cliente_4266,Premium,Molise
+4267,Cliente_4267,Standard,Umbria
+4268,Cliente_4268,Premium,Trentino-Alto Adige
+4269,Cliente_4269,Standard,Molise
+4270,Cliente_4270,Standard,Puglia
+4271,Cliente_4271,Premium,Sardegna
+4272,Cliente_4272,Premium,Campania
+4273,Cliente_4273,Premium,Abruzzo
+4274,Cliente_4274,Standard,Umbria
+4275,Cliente_4275,Premium,Sardegna
+4276,Cliente_4276,Standard,Piemonte
+4277,Cliente_4277,Standard,Piemonte
+4278,Cliente_4278,Standard,Piemonte
+4279,Cliente_4279,Premium,Sardegna
+4280,Cliente_4280,Standard,Emilia-Romagna
+4281,Cliente_4281,Premium,Basilicata
+4282,Cliente_4282,Standard,Liguria
+4283,Cliente_4283,Standard,Umbria
+4284,Cliente_4284,Premium,Umbria
+4285,Cliente_4285,Standard,Sardegna
+4286,Cliente_4286,Standard,Puglia
+4287,Cliente_4287,Premium,Abruzzo
+4288,Cliente_4288,Premium,Basilicata
+4289,Cliente_4289,Premium,Abruzzo
+4290,Cliente_4290,Standard,Liguria
+4291,Cliente_4291,Standard,Valle d'Aosta
+4292,Cliente_4292,Premium,Puglia
+4293,Cliente_4293,Standard,Abruzzo
+4294,Cliente_4294,Premium,Campania
+4295,Cliente_4295,Standard,Sicilia
+4296,Cliente_4296,Premium,Abruzzo
+4297,Cliente_4297,Premium,Calabria
+4298,Cliente_4298,Standard,Toscana
+4299,Cliente_4299,Premium,Molise
+4300,Cliente_4300,Premium,Piemonte
+4301,Cliente_4301,Standard,Basilicata
+4302,Cliente_4302,Standard,Basilicata
+4303,Cliente_4303,Premium,Sardegna
+4304,Cliente_4304,Premium,Calabria
+4305,Cliente_4305,Premium,Puglia
+4306,Cliente_4306,Standard,Abruzzo
+4307,Cliente_4307,Premium,Piemonte
+4308,Cliente_4308,Standard,Trentino-Alto Adige
+4309,Cliente_4309,Premium,Molise
+4310,Cliente_4310,Standard,Basilicata
+4311,Cliente_4311,Premium,Umbria
+4312,Cliente_4312,Standard,Campania
+4313,Cliente_4313,Standard,Sicilia
+4314,Cliente_4314,Premium,Toscana
+4315,Cliente_4315,Standard,Lombardia
+4316,Cliente_4316,Standard,Liguria
+4317,Cliente_4317,Premium,Molise
+4318,Cliente_4318,Standard,Puglia
+4319,Cliente_4319,Premium,Trentino-Alto Adige
+4320,Cliente_4320,Premium,Umbria
+4321,Cliente_4321,Standard,Molise
+4322,Cliente_4322,Standard,Piemonte
+4323,Cliente_4323,Premium,Calabria
+4324,Cliente_4324,Premium,Sardegna
+4325,Cliente_4325,Standard,Toscana
+4326,Cliente_4326,Premium,Friuli-Venezia Giulia
+4327,Cliente_4327,Premium,Umbria
+4328,Cliente_4328,Premium,Lombardia
+4329,Cliente_4329,Standard,Campania
+4330,Cliente_4330,Premium,Lombardia
+4331,Cliente_4331,Standard,Liguria
+4332,Cliente_4332,Standard,Friuli-Venezia Giulia
+4333,Cliente_4333,Premium,Molise
+4334,Cliente_4334,Premium,Campania
+4335,Cliente_4335,Premium,Calabria
+4336,Cliente_4336,Premium,Valle d'Aosta
+4337,Cliente_4337,Premium,Marche
+4338,Cliente_4338,Premium,Friuli-Venezia Giulia
+4339,Cliente_4339,Premium,Lazio
+4340,Cliente_4340,Premium,Toscana
+4341,Cliente_4341,Premium,Veneto
+4342,Cliente_4342,Standard,Calabria
+4343,Cliente_4343,Standard,Lazio
+4344,Cliente_4344,Premium,Lazio
+4345,Cliente_4345,Premium,Toscana
+4346,Cliente_4346,Premium,Basilicata
+4347,Cliente_4347,Standard,Puglia
+4348,Cliente_4348,Premium,Lombardia
+4349,Cliente_4349,Premium,Veneto
+4350,Cliente_4350,Standard,Puglia
+4351,Cliente_4351,Standard,Piemonte
+4352,Cliente_4352,Standard,Emilia-Romagna
+4353,Cliente_4353,Premium,Calabria
+4354,Cliente_4354,Premium,Veneto
+4355,Cliente_4355,Standard,Lombardia
+4356,Cliente_4356,Standard,Trentino-Alto Adige
+4357,Cliente_4357,Standard,Abruzzo
+4358,Cliente_4358,Premium,Abruzzo
+4359,Cliente_4359,Standard,Abruzzo
+4360,Cliente_4360,Standard,Lombardia
+4361,Cliente_4361,Premium,Veneto
+4362,Cliente_4362,Standard,Lombardia
+4363,Cliente_4363,Premium,Abruzzo
+4364,Cliente_4364,Standard,Lazio
+4365,Cliente_4365,Standard,Calabria
+4366,Cliente_4366,Standard,Puglia
+4367,Cliente_4367,Standard,Calabria
+4368,Cliente_4368,Standard,Toscana
+4369,Cliente_4369,Premium,Molise
+4370,Cliente_4370,Standard,Emilia-Romagna
+4371,Cliente_4371,Premium,Umbria
+4372,Cliente_4372,Standard,Puglia
+4373,Cliente_4373,Premium,Basilicata
+4374,Cliente_4374,Premium,Basilicata
+4375,Cliente_4375,Standard,Trentino-Alto Adige
+4376,Cliente_4376,Premium,Lombardia
+4377,Cliente_4377,Premium,Basilicata
+4378,Cliente_4378,Premium,Veneto
+4379,Cliente_4379,Standard,Lombardia
+4380,Cliente_4380,Standard,Molise
+4381,Cliente_4381,Premium,Puglia
+4382,Cliente_4382,Standard,Veneto
+4383,Cliente_4383,Standard,Calabria
+4384,Cliente_4384,Premium,Friuli-Venezia Giulia
+4385,Cliente_4385,Standard,Emilia-Romagna
+4386,Cliente_4386,Standard,Piemonte
+4387,Cliente_4387,Premium,Abruzzo
+4388,Cliente_4388,Premium,Toscana
+4389,Cliente_4389,Standard,Marche
+4390,Cliente_4390,Premium,Campania
+4391,Cliente_4391,Premium,Sicilia
+4392,Cliente_4392,Premium,Lazio
+4393,Cliente_4393,Premium,Puglia
+4394,Cliente_4394,Premium,Toscana
+4395,Cliente_4395,Standard,Liguria
+4396,Cliente_4396,Premium,Piemonte
+4397,Cliente_4397,Premium,Marche
+4398,Cliente_4398,Premium,Trentino-Alto Adige
+4399,Cliente_4399,Premium,Valle d'Aosta
+4400,Cliente_4400,Premium,Toscana
+4401,Cliente_4401,Premium,Basilicata
+4402,Cliente_4402,Standard,Lombardia
+4403,Cliente_4403,Premium,Basilicata
+4404,Cliente_4404,Standard,Toscana
+4405,Cliente_4405,Standard,Lombardia
+4406,Cliente_4406,Standard,Toscana
+4407,Cliente_4407,Standard,Sardegna
+4408,Cliente_4408,Premium,Campania
+4409,Cliente_4409,Standard,Campania
+4410,Cliente_4410,Standard,Emilia-Romagna
+4411,Cliente_4411,Premium,Liguria
+4412,Cliente_4412,Premium,Sardegna
+4413,Cliente_4413,Standard,Piemonte
+4414,Cliente_4414,Premium,Valle d'Aosta
+4415,Cliente_4415,Standard,Piemonte
+4416,Cliente_4416,Standard,Sicilia
+4417,Cliente_4417,Premium,Campania
+4418,Cliente_4418,Premium,Marche
+4419,Cliente_4419,Premium,Sicilia
+4420,Cliente_4420,Standard,Liguria
+4421,Cliente_4421,Standard,Sardegna
+4422,Cliente_4422,Premium,Liguria
+4423,Cliente_4423,Premium,Lombardia
+4424,Cliente_4424,Premium,Liguria
+4425,Cliente_4425,Premium,Sicilia
+4426,Cliente_4426,Standard,Valle d'Aosta
+4427,Cliente_4427,Standard,Valle d'Aosta
+4428,Cliente_4428,Standard,Abruzzo
+4429,Cliente_4429,Premium,Toscana
+4430,Cliente_4430,Standard,Valle d'Aosta
+4431,Cliente_4431,Standard,Abruzzo
+4432,Cliente_4432,Premium,Sicilia
+4433,Cliente_4433,Standard,Toscana
+4434,Cliente_4434,Premium,Friuli-Venezia Giulia
+4435,Cliente_4435,Standard,Molise
+4436,Cliente_4436,Premium,Liguria
+4437,Cliente_4437,Standard,Lombardia
+4438,Cliente_4438,Standard,Sicilia
+4439,Cliente_4439,Premium,Liguria
+4440,Cliente_4440,Premium,Emilia-Romagna
+4441,Cliente_4441,Standard,Sardegna
+4442,Cliente_4442,Standard,Sardegna
+4443,Cliente_4443,Premium,Sardegna
+4444,Cliente_4444,Premium,Molise
+4445,Cliente_4445,Standard,Emilia-Romagna
+4446,Cliente_4446,Premium,Umbria
+4447,Cliente_4447,Standard,Veneto
+4448,Cliente_4448,Premium,Trentino-Alto Adige
+4449,Cliente_4449,Standard,Campania
+4450,Cliente_4450,Standard,Sicilia
+4451,Cliente_4451,Standard,Marche
+4452,Cliente_4452,Premium,Veneto
+4453,Cliente_4453,Standard,Piemonte
+4454,Cliente_4454,Standard,Piemonte
+4455,Cliente_4455,Premium,Valle d'Aosta
+4456,Cliente_4456,Premium,Sicilia
+4457,Cliente_4457,Standard,Liguria
+4458,Cliente_4458,Premium,Sardegna
+4459,Cliente_4459,Premium,Lazio
+4460,Cliente_4460,Premium,Umbria
+4461,Cliente_4461,Premium,Veneto
+4462,Cliente_4462,Premium,Marche
+4463,Cliente_4463,Premium,Valle d'Aosta
+4464,Cliente_4464,Premium,Molise
+4465,Cliente_4465,Premium,Piemonte
+4466,Cliente_4466,Standard,Friuli-Venezia Giulia
+4467,Cliente_4467,Standard,Molise
+4468,Cliente_4468,Standard,Abruzzo
+4469,Cliente_4469,Standard,Liguria
+4470,Cliente_4470,Standard,Abruzzo
+4471,Cliente_4471,Standard,Sardegna
+4472,Cliente_4472,Premium,Emilia-Romagna
+4473,Cliente_4473,Premium,Basilicata
+4474,Cliente_4474,Premium,Piemonte
+4475,Cliente_4475,Standard,Calabria
+4476,Cliente_4476,Premium,Puglia
+4477,Cliente_4477,Standard,Puglia
+4478,Cliente_4478,Premium,Umbria
+4479,Cliente_4479,Standard,Marche
+4480,Cliente_4480,Standard,Molise
+4481,Cliente_4481,Premium,Marche
+4482,Cliente_4482,Premium,Campania
+4483,Cliente_4483,Premium,Piemonte
+4484,Cliente_4484,Standard,Basilicata
+4485,Cliente_4485,Premium,Veneto
+4486,Cliente_4486,Premium,Campania
+4487,Cliente_4487,Premium,Emilia-Romagna
+4488,Cliente_4488,Standard,Toscana
+4489,Cliente_4489,Standard,Basilicata
+4490,Cliente_4490,Premium,Valle d'Aosta
+4491,Cliente_4491,Premium,Valle d'Aosta
+4492,Cliente_4492,Premium,Campania
+4493,Cliente_4493,Standard,Liguria
+4494,Cliente_4494,Standard,Liguria
+4495,Cliente_4495,Premium,Calabria
+4496,Cliente_4496,Premium,Campania
+4497,Cliente_4497,Premium,Puglia
+4498,Cliente_4498,Standard,Trentino-Alto Adige
+4499,Cliente_4499,Standard,Veneto
+4500,Cliente_4500,Standard,Piemonte
+4501,Cliente_4501,Premium,Molise
+4502,Cliente_4502,Standard,Sicilia
+4503,Cliente_4503,Premium,Piemonte
+4504,Cliente_4504,Premium,Valle d'Aosta
+4505,Cliente_4505,Premium,Sardegna
+4506,Cliente_4506,Premium,Sardegna
+4507,Cliente_4507,Standard,Campania
+4508,Cliente_4508,Standard,Molise
+4509,Cliente_4509,Standard,Veneto
+4510,Cliente_4510,Premium,Molise
+4511,Cliente_4511,Premium,Valle d'Aosta
+4512,Cliente_4512,Standard,Campania
+4513,Cliente_4513,Premium,Abruzzo
+4514,Cliente_4514,Premium,Valle d'Aosta
+4515,Cliente_4515,Premium,Sicilia
+4516,Cliente_4516,Premium,Marche
+4517,Cliente_4517,Standard,Puglia
+4518,Cliente_4518,Premium,Puglia
+4519,Cliente_4519,Premium,Liguria
+4520,Cliente_4520,Standard,Basilicata
+4521,Cliente_4521,Premium,Abruzzo
+4522,Cliente_4522,Standard,Liguria
+4523,Cliente_4523,Premium,Valle d'Aosta
+4524,Cliente_4524,Premium,Friuli-Venezia Giulia
+4525,Cliente_4525,Standard,Emilia-Romagna
+4526,Cliente_4526,Premium,Toscana
+4527,Cliente_4527,Premium,Molise
+4528,Cliente_4528,Standard,Abruzzo
+4529,Cliente_4529,Standard,Piemonte
+4530,Cliente_4530,Premium,Piemonte
+4531,Cliente_4531,Premium,Liguria
+4532,Cliente_4532,Standard,Campania
+4533,Cliente_4533,Premium,Basilicata
+4534,Cliente_4534,Premium,Lazio
+4535,Cliente_4535,Premium,Lombardia
+4536,Cliente_4536,Premium,Valle d'Aosta
+4537,Cliente_4537,Standard,Marche
+4538,Cliente_4538,Standard,Umbria
+4539,Cliente_4539,Premium,Abruzzo
+4540,Cliente_4540,Premium,Puglia
+4541,Cliente_4541,Standard,Lombardia
+4542,Cliente_4542,Premium,Abruzzo
+4543,Cliente_4543,Premium,Emilia-Romagna
+4544,Cliente_4544,Premium,Piemonte
+4545,Cliente_4545,Standard,Campania
+4546,Cliente_4546,Premium,Sardegna
+4547,Cliente_4547,Standard,Molise
+4548,Cliente_4548,Standard,Puglia
+4549,Cliente_4549,Standard,Calabria
+4550,Cliente_4550,Standard,Emilia-Romagna
+4551,Cliente_4551,Premium,Basilicata
+4552,Cliente_4552,Premium,Puglia
+4553,Cliente_4553,Premium,Abruzzo
+4554,Cliente_4554,Standard,Valle d'Aosta
+4555,Cliente_4555,Standard,Basilicata
+4556,Cliente_4556,Premium,Piemonte
+4557,Cliente_4557,Premium,Marche
+4558,Cliente_4558,Standard,Marche
+4559,Cliente_4559,Premium,Sicilia
+4560,Cliente_4560,Standard,Lombardia
+4561,Cliente_4561,Standard,Lazio
+4562,Cliente_4562,Premium,Toscana
+4563,Cliente_4563,Standard,Puglia
+4564,Cliente_4564,Premium,Lazio
+4565,Cliente_4565,Premium,Emilia-Romagna
+4566,Cliente_4566,Premium,Liguria
+4567,Cliente_4567,Premium,Sicilia
+4568,Cliente_4568,Standard,Trentino-Alto Adige
+4569,Cliente_4569,Premium,Friuli-Venezia Giulia
+4570,Cliente_4570,Premium,Puglia
+4571,Cliente_4571,Premium,Trentino-Alto Adige
+4572,Cliente_4572,Premium,Molise
+4573,Cliente_4573,Premium,Trentino-Alto Adige
+4574,Cliente_4574,Standard,Sicilia
+4575,Cliente_4575,Standard,Basilicata
+4576,Cliente_4576,Premium,Sicilia
+4577,Cliente_4577,Premium,Campania
+4578,Cliente_4578,Premium,Abruzzo
+4579,Cliente_4579,Premium,Valle d'Aosta
+4580,Cliente_4580,Standard,Friuli-Venezia Giulia
+4581,Cliente_4581,Standard,Abruzzo
+4582,Cliente_4582,Standard,Veneto
+4583,Cliente_4583,Premium,Sardegna
+4584,Cliente_4584,Premium,Friuli-Venezia Giulia
+4585,Cliente_4585,Premium,Umbria
+4586,Cliente_4586,Premium,Sicilia
+4587,Cliente_4587,Premium,Marche
+4588,Cliente_4588,Premium,Veneto
+4589,Cliente_4589,Standard,Abruzzo
+4590,Cliente_4590,Premium,Puglia
+4591,Cliente_4591,Premium,Sardegna
+4592,Cliente_4592,Premium,Sardegna
+4593,Cliente_4593,Premium,Sardegna
+4594,Cliente_4594,Standard,Liguria
+4595,Cliente_4595,Premium,Abruzzo
+4596,Cliente_4596,Premium,Puglia
+4597,Cliente_4597,Premium,Valle d'Aosta
+4598,Cliente_4598,Premium,Sicilia
+4599,Cliente_4599,Premium,Trentino-Alto Adige
+4600,Cliente_4600,Premium,Lazio
+4601,Cliente_4601,Standard,Piemonte
+4602,Cliente_4602,Premium,Abruzzo
+4603,Cliente_4603,Standard,Sardegna
+4604,Cliente_4604,Premium,Piemonte
+4605,Cliente_4605,Premium,Valle d'Aosta
+4606,Cliente_4606,Standard,Trentino-Alto Adige
+4607,Cliente_4607,Premium,Puglia
+4608,Cliente_4608,Premium,Veneto
+4609,Cliente_4609,Premium,Lazio
+4610,Cliente_4610,Standard,Sardegna
+4611,Cliente_4611,Premium,Sicilia
+4612,Cliente_4612,Premium,Piemonte
+4613,Cliente_4613,Standard,Toscana
+4614,Cliente_4614,Standard,Marche
+4615,Cliente_4615,Premium,Lombardia
+4616,Cliente_4616,Standard,Sicilia
+4617,Cliente_4617,Standard,Umbria
+4618,Cliente_4618,Standard,Emilia-Romagna
+4619,Cliente_4619,Standard,Umbria
+4620,Cliente_4620,Standard,Sicilia
+4621,Cliente_4621,Premium,Toscana
+4622,Cliente_4622,Premium,Toscana
+4623,Cliente_4623,Premium,Piemonte
+4624,Cliente_4624,Standard,Abruzzo
+4625,Cliente_4625,Premium,Friuli-Venezia Giulia
+4626,Cliente_4626,Standard,Emilia-Romagna
+4627,Cliente_4627,Standard,Marche
+4628,Cliente_4628,Standard,Campania
+4629,Cliente_4629,Premium,Calabria
+4630,Cliente_4630,Premium,Veneto
+4631,Cliente_4631,Premium,Emilia-Romagna
+4632,Cliente_4632,Standard,Campania
+4633,Cliente_4633,Standard,Emilia-Romagna
+4634,Cliente_4634,Premium,Piemonte
+4635,Cliente_4635,Premium,Calabria
+4636,Cliente_4636,Standard,Friuli-Venezia Giulia
+4637,Cliente_4637,Premium,Liguria
+4638,Cliente_4638,Premium,Toscana
+4639,Cliente_4639,Standard,Molise
+4640,Cliente_4640,Premium,Piemonte
+4641,Cliente_4641,Standard,Molise
+4642,Cliente_4642,Premium,Sicilia
+4643,Cliente_4643,Standard,Toscana
+4644,Cliente_4644,Standard,Trentino-Alto Adige
+4645,Cliente_4645,Standard,Lombardia
+4646,Cliente_4646,Premium,Lazio
+4647,Cliente_4647,Premium,Umbria
+4648,Cliente_4648,Premium,Campania
+4649,Cliente_4649,Standard,Emilia-Romagna
+4650,Cliente_4650,Premium,Molise
+4651,Cliente_4651,Standard,Lombardia
+4652,Cliente_4652,Premium,Valle d'Aosta
+4653,Cliente_4653,Standard,Piemonte
+4654,Cliente_4654,Standard,Friuli-Venezia Giulia
+4655,Cliente_4655,Premium,Liguria
+4656,Cliente_4656,Premium,Emilia-Romagna
+4657,Cliente_4657,Premium,Valle d'Aosta
+4658,Cliente_4658,Premium,Piemonte
+4659,Cliente_4659,Premium,Emilia-Romagna
+4660,Cliente_4660,Premium,Basilicata
+4661,Cliente_4661,Standard,Sicilia
+4662,Cliente_4662,Premium,Calabria
+4663,Cliente_4663,Premium,Piemonte
+4664,Cliente_4664,Standard,Toscana
+4665,Cliente_4665,Premium,Sicilia
+4666,Cliente_4666,Standard,Emilia-Romagna
+4667,Cliente_4667,Standard,Calabria
+4668,Cliente_4668,Premium,Toscana
+4669,Cliente_4669,Standard,Campania
+4670,Cliente_4670,Premium,Abruzzo
+4671,Cliente_4671,Standard,Sardegna
+4672,Cliente_4672,Premium,Calabria
+4673,Cliente_4673,Premium,Piemonte
+4674,Cliente_4674,Premium,Friuli-Venezia Giulia
+4675,Cliente_4675,Premium,Molise
+4676,Cliente_4676,Premium,Liguria
+4677,Cliente_4677,Standard,Puglia
+4678,Cliente_4678,Standard,Campania
+4679,Cliente_4679,Standard,Umbria
+4680,Cliente_4680,Standard,Liguria
+4681,Cliente_4681,Standard,Basilicata
+4682,Cliente_4682,Premium,Trentino-Alto Adige
+4683,Cliente_4683,Standard,Emilia-Romagna
+4684,Cliente_4684,Premium,Puglia
+4685,Cliente_4685,Premium,Puglia
+4686,Cliente_4686,Premium,Valle d'Aosta
+4687,Cliente_4687,Premium,Trentino-Alto Adige
+4688,Cliente_4688,Premium,Sardegna
+4689,Cliente_4689,Premium,Veneto
+4690,Cliente_4690,Premium,Veneto
+4691,Cliente_4691,Standard,Lazio
+4692,Cliente_4692,Standard,Valle d'Aosta
+4693,Cliente_4693,Standard,Liguria
+4694,Cliente_4694,Premium,Trentino-Alto Adige
+4695,Cliente_4695,Premium,Lombardia
+4696,Cliente_4696,Standard,Abruzzo
+4697,Cliente_4697,Standard,Umbria
+4698,Cliente_4698,Standard,Liguria
+4699,Cliente_4699,Standard,Trentino-Alto Adige
+4700,Cliente_4700,Premium,Piemonte
+4701,Cliente_4701,Premium,Calabria
+4702,Cliente_4702,Standard,Piemonte
+4703,Cliente_4703,Standard,Lazio
+4704,Cliente_4704,Premium,Puglia
+4705,Cliente_4705,Standard,Piemonte
+4706,Cliente_4706,Standard,Umbria
+4707,Cliente_4707,Premium,Valle d'Aosta
+4708,Cliente_4708,Premium,Abruzzo
+4709,Cliente_4709,Standard,Piemonte
+4710,Cliente_4710,Standard,Liguria
+4711,Cliente_4711,Standard,Molise
+4712,Cliente_4712,Standard,Marche
+4713,Cliente_4713,Standard,Lazio
+4714,Cliente_4714,Premium,Marche
+4715,Cliente_4715,Standard,Campania
+4716,Cliente_4716,Standard,Campania
+4717,Cliente_4717,Premium,Puglia
+4718,Cliente_4718,Standard,Piemonte
+4719,Cliente_4719,Premium,Toscana
+4720,Cliente_4720,Standard,Umbria
+4721,Cliente_4721,Premium,Piemonte
+4722,Cliente_4722,Premium,Lazio
+4723,Cliente_4723,Standard,Sardegna
+4724,Cliente_4724,Standard,Sicilia
+4725,Cliente_4725,Premium,Valle d'Aosta
+4726,Cliente_4726,Standard,Calabria
+4727,Cliente_4727,Standard,Toscana
+4728,Cliente_4728,Premium,Calabria
+4729,Cliente_4729,Standard,Marche
+4730,Cliente_4730,Premium,Campania
+4731,Cliente_4731,Premium,Puglia
+4732,Cliente_4732,Premium,Campania
+4733,Cliente_4733,Premium,Abruzzo
+4734,Cliente_4734,Standard,Puglia
+4735,Cliente_4735,Premium,Toscana
+4736,Cliente_4736,Standard,Lombardia
+4737,Cliente_4737,Standard,Liguria
+4738,Cliente_4738,Standard,Liguria
+4739,Cliente_4739,Premium,Emilia-Romagna
+4740,Cliente_4740,Premium,Valle d'Aosta
+4741,Cliente_4741,Premium,Basilicata
+4742,Cliente_4742,Standard,Trentino-Alto Adige
+4743,Cliente_4743,Premium,Veneto
+4744,Cliente_4744,Premium,Molise
+4745,Cliente_4745,Premium,Trentino-Alto Adige
+4746,Cliente_4746,Premium,Basilicata
+4747,Cliente_4747,Standard,Friuli-Venezia Giulia
+4748,Cliente_4748,Premium,Campania
+4749,Cliente_4749,Standard,Trentino-Alto Adige
+4750,Cliente_4750,Standard,Liguria
+4751,Cliente_4751,Premium,Sicilia
+4752,Cliente_4752,Premium,Sicilia
+4753,Cliente_4753,Premium,Sicilia
+4754,Cliente_4754,Standard,Calabria
+4755,Cliente_4755,Premium,Abruzzo
+4756,Cliente_4756,Standard,Trentino-Alto Adige
+4757,Cliente_4757,Premium,Puglia
+4758,Cliente_4758,Standard,Friuli-Venezia Giulia
+4759,Cliente_4759,Premium,Toscana
+4760,Cliente_4760,Standard,Piemonte
+4761,Cliente_4761,Premium,Toscana
+4762,Cliente_4762,Standard,Abruzzo
+4763,Cliente_4763,Premium,Lazio
+4764,Cliente_4764,Premium,Sardegna
+4765,Cliente_4765,Premium,Marche
+4766,Cliente_4766,Standard,Umbria
+4767,Cliente_4767,Premium,Sardegna
+4768,Cliente_4768,Premium,Calabria
+4769,Cliente_4769,Standard,Piemonte
+4770,Cliente_4770,Premium,Sardegna
+4771,Cliente_4771,Standard,Valle d'Aosta
+4772,Cliente_4772,Standard,Sicilia
+4773,Cliente_4773,Premium,Piemonte
+4774,Cliente_4774,Standard,Piemonte
+4775,Cliente_4775,Premium,Toscana
+4776,Cliente_4776,Premium,Friuli-Venezia Giulia
+4777,Cliente_4777,Standard,Friuli-Venezia Giulia
+4778,Cliente_4778,Premium,Basilicata
+4779,Cliente_4779,Standard,Valle d'Aosta
+4780,Cliente_4780,Premium,Liguria
+4781,Cliente_4781,Standard,Umbria
+4782,Cliente_4782,Standard,Lazio
+4783,Cliente_4783,Standard,Calabria
+4784,Cliente_4784,Standard,Piemonte
+4785,Cliente_4785,Standard,Campania
+4786,Cliente_4786,Standard,Molise
+4787,Cliente_4787,Premium,Umbria
+4788,Cliente_4788,Premium,Abruzzo
+4789,Cliente_4789,Standard,Emilia-Romagna
+4790,Cliente_4790,Premium,Veneto
+4791,Cliente_4791,Standard,Valle d'Aosta
+4792,Cliente_4792,Standard,Molise
+4793,Cliente_4793,Standard,Abruzzo
+4794,Cliente_4794,Standard,Lazio
+4795,Cliente_4795,Premium,Sicilia
+4796,Cliente_4796,Premium,Liguria
+4797,Cliente_4797,Premium,Umbria
+4798,Cliente_4798,Standard,Marche
+4799,Cliente_4799,Premium,Calabria
+4800,Cliente_4800,Premium,Trentino-Alto Adige
+4801,Cliente_4801,Standard,Emilia-Romagna
+4802,Cliente_4802,Premium,Campania
+4803,Cliente_4803,Standard,Liguria
+4804,Cliente_4804,Standard,Sardegna
+4805,Cliente_4805,Premium,Puglia
+4806,Cliente_4806,Standard,Calabria
+4807,Cliente_4807,Standard,Piemonte
+4808,Cliente_4808,Premium,Piemonte
+4809,Cliente_4809,Premium,Calabria
+4810,Cliente_4810,Premium,Liguria
+4811,Cliente_4811,Standard,Abruzzo
+4812,Cliente_4812,Premium,Molise
+4813,Cliente_4813,Standard,Basilicata
+4814,Cliente_4814,Standard,Puglia
+4815,Cliente_4815,Premium,Campania
+4816,Cliente_4816,Premium,Marche
+4817,Cliente_4817,Standard,Abruzzo
+4818,Cliente_4818,Premium,Umbria
+4819,Cliente_4819,Premium,Lombardia
+4820,Cliente_4820,Premium,Piemonte
+4821,Cliente_4821,Premium,Campania
+4822,Cliente_4822,Standard,Abruzzo
+4823,Cliente_4823,Premium,Umbria
+4824,Cliente_4824,Standard,Veneto
+4825,Cliente_4825,Premium,Abruzzo
+4826,Cliente_4826,Standard,Friuli-Venezia Giulia
+4827,Cliente_4827,Standard,Emilia-Romagna
+4828,Cliente_4828,Premium,Valle d'Aosta
+4829,Cliente_4829,Standard,Liguria
+4830,Cliente_4830,Standard,Campania
+4831,Cliente_4831,Standard,Liguria
+4832,Cliente_4832,Standard,Piemonte
+4833,Cliente_4833,Standard,Abruzzo
+4834,Cliente_4834,Standard,Trentino-Alto Adige
+4835,Cliente_4835,Standard,Abruzzo
+4836,Cliente_4836,Premium,Abruzzo
+4837,Cliente_4837,Premium,Abruzzo
+4838,Cliente_4838,Standard,Emilia-Romagna
+4839,Cliente_4839,Premium,Sardegna
+4840,Cliente_4840,Standard,Emilia-Romagna
+4841,Cliente_4841,Standard,Campania
+4842,Cliente_4842,Standard,Piemonte
+4843,Cliente_4843,Premium,Calabria
+4844,Cliente_4844,Premium,Trentino-Alto Adige
+4845,Cliente_4845,Standard,Umbria
+4846,Cliente_4846,Standard,Marche
+4847,Cliente_4847,Standard,Calabria
+4848,Cliente_4848,Premium,Lazio
+4849,Cliente_4849,Standard,Lazio
+4850,Cliente_4850,Premium,Sardegna
+4851,Cliente_4851,Standard,Campania
+4852,Cliente_4852,Standard,Emilia-Romagna
+4853,Cliente_4853,Standard,Campania
+4854,Cliente_4854,Standard,Lazio
+4855,Cliente_4855,Standard,Trentino-Alto Adige
+4856,Cliente_4856,Standard,Toscana
+4857,Cliente_4857,Standard,Emilia-Romagna
+4858,Cliente_4858,Standard,Umbria
+4859,Cliente_4859,Premium,Valle d'Aosta
+4860,Cliente_4860,Premium,Trentino-Alto Adige
+4861,Cliente_4861,Premium,Lazio
+4862,Cliente_4862,Standard,Molise
+4863,Cliente_4863,Premium,Marche
+4864,Cliente_4864,Standard,Lombardia
+4865,Cliente_4865,Premium,Molise
+4866,Cliente_4866,Premium,Sardegna
+4867,Cliente_4867,Premium,Valle d'Aosta
+4868,Cliente_4868,Standard,Liguria
+4869,Cliente_4869,Premium,Molise
+4870,Cliente_4870,Standard,Abruzzo
+4871,Cliente_4871,Premium,Abruzzo
+4872,Cliente_4872,Premium,Liguria
+4873,Cliente_4873,Standard,Campania
+4874,Cliente_4874,Premium,Piemonte
+4875,Cliente_4875,Standard,Umbria
+4876,Cliente_4876,Standard,Puglia
+4877,Cliente_4877,Standard,Sicilia
+4878,Cliente_4878,Standard,Puglia
+4879,Cliente_4879,Standard,Sardegna
+4880,Cliente_4880,Premium,Lombardia
+4881,Cliente_4881,Standard,Liguria
+4882,Cliente_4882,Standard,Emilia-Romagna
+4883,Cliente_4883,Premium,Molise
+4884,Cliente_4884,Standard,Friuli-Venezia Giulia
+4885,Cliente_4885,Standard,Marche
+4886,Cliente_4886,Premium,Sicilia
+4887,Cliente_4887,Standard,Liguria
+4888,Cliente_4888,Premium,Valle d'Aosta
+4889,Cliente_4889,Standard,Veneto
+4890,Cliente_4890,Premium,Trentino-Alto Adige
+4891,Cliente_4891,Standard,Molise
+4892,Cliente_4892,Premium,Veneto
+4893,Cliente_4893,Premium,Abruzzo
+4894,Cliente_4894,Standard,Emilia-Romagna
+4895,Cliente_4895,Standard,Campania
+4896,Cliente_4896,Premium,Lombardia
+4897,Cliente_4897,Premium,Toscana
+4898,Cliente_4898,Standard,Liguria
+4899,Cliente_4899,Standard,Valle d'Aosta
+4900,Cliente_4900,Standard,Calabria
+4901,Cliente_4901,Premium,Sicilia
+4902,Cliente_4902,Premium,Calabria
+4903,Cliente_4903,Premium,Valle d'Aosta
+4904,Cliente_4904,Premium,Umbria
+4905,Cliente_4905,Standard,Marche
+4906,Cliente_4906,Premium,Lazio
+4907,Cliente_4907,Standard,Liguria
+4908,Cliente_4908,Premium,Puglia
+4909,Cliente_4909,Premium,Marche
+4910,Cliente_4910,Premium,Liguria
+4911,Cliente_4911,Standard,Lombardia
+4912,Cliente_4912,Premium,Friuli-Venezia Giulia
+4913,Cliente_4913,Premium,Abruzzo
+4914,Cliente_4914,Standard,Veneto
+4915,Cliente_4915,Standard,Valle d'Aosta
+4916,Cliente_4916,Standard,Calabria
+4917,Cliente_4917,Standard,Lazio
+4918,Cliente_4918,Premium,Lombardia
+4919,Cliente_4919,Premium,Veneto
+4920,Cliente_4920,Standard,Basilicata
+4921,Cliente_4921,Standard,Trentino-Alto Adige
+4922,Cliente_4922,Premium,Marche
+4923,Cliente_4923,Standard,Liguria
+4924,Cliente_4924,Premium,Abruzzo
+4925,Cliente_4925,Standard,Trentino-Alto Adige
+4926,Cliente_4926,Premium,Valle d'Aosta
+4927,Cliente_4927,Premium,Liguria
+4928,Cliente_4928,Standard,Liguria
+4929,Cliente_4929,Standard,Puglia
+4930,Cliente_4930,Premium,Friuli-Venezia Giulia
+4931,Cliente_4931,Premium,Emilia-Romagna
+4932,Cliente_4932,Standard,Puglia
+4933,Cliente_4933,Premium,Trentino-Alto Adige
+4934,Cliente_4934,Standard,Umbria
+4935,Cliente_4935,Premium,Piemonte
+4936,Cliente_4936,Standard,Piemonte
+4937,Cliente_4937,Premium,Veneto
+4938,Cliente_4938,Premium,Piemonte
+4939,Cliente_4939,Standard,Calabria
+4940,Cliente_4940,Standard,Puglia
+4941,Cliente_4941,Standard,Puglia
+4942,Cliente_4942,Standard,Toscana
+4943,Cliente_4943,Premium,Piemonte
+4944,Cliente_4944,Premium,Sicilia
+4945,Cliente_4945,Standard,Lombardia
+4946,Cliente_4946,Premium,Sardegna
+4947,Cliente_4947,Premium,Veneto
+4948,Cliente_4948,Standard,Friuli-Venezia Giulia
+4949,Cliente_4949,Standard,Veneto
+4950,Cliente_4950,Standard,Molise
+4951,Cliente_4951,Standard,Abruzzo
+4952,Cliente_4952,Premium,Piemonte
+4953,Cliente_4953,Premium,Piemonte
+4954,Cliente_4954,Standard,Friuli-Venezia Giulia
+4955,Cliente_4955,Premium,Veneto
+4956,Cliente_4956,Premium,Piemonte
+4957,Cliente_4957,Standard,Trentino-Alto Adige
+4958,Cliente_4958,Standard,Calabria
+4959,Cliente_4959,Standard,Lombardia
+4960,Cliente_4960,Standard,Liguria
+4961,Cliente_4961,Premium,Emilia-Romagna
+4962,Cliente_4962,Standard,Marche
+4963,Cliente_4963,Premium,Lombardia
+4964,Cliente_4964,Standard,Puglia
+4965,Cliente_4965,Premium,Lombardia
+4966,Cliente_4966,Premium,Campania
+4967,Cliente_4967,Premium,Abruzzo
+4968,Cliente_4968,Standard,Sardegna
+4969,Cliente_4969,Standard,Toscana
+4970,Cliente_4970,Premium,Abruzzo
+4971,Cliente_4971,Premium,Sardegna
+4972,Cliente_4972,Standard,Lombardia
+4973,Cliente_4973,Standard,Toscana
+4974,Cliente_4974,Standard,Puglia
+4975,Cliente_4975,Premium,Marche
+4976,Cliente_4976,Premium,Puglia
+4977,Cliente_4977,Premium,Calabria
+4978,Cliente_4978,Premium,Puglia
+4979,Cliente_4979,Premium,Calabria
+4980,Cliente_4980,Premium,Sardegna
+4981,Cliente_4981,Standard,Trentino-Alto Adige
+4982,Cliente_4982,Premium,Friuli-Venezia Giulia
+4983,Cliente_4983,Premium,Lazio
+4984,Cliente_4984,Premium,Veneto
+4985,Cliente_4985,Standard,Marche
+4986,Cliente_4986,Standard,Lombardia
+4987,Cliente_4987,Premium,Friuli-Venezia Giulia
+4988,Cliente_4988,Standard,Umbria
+4989,Cliente_4989,Premium,Sardegna
+4990,Cliente_4990,Premium,Basilicata
+4991,Cliente_4991,Premium,Trentino-Alto Adige
+4992,Cliente_4992,Premium,Basilicata
+4993,Cliente_4993,Standard,Puglia
+4994,Cliente_4994,Standard,Abruzzo
+4995,Cliente_4995,Standard,Trentino-Alto Adige
+4996,Cliente_4996,Standard,Marche
+4997,Cliente_4997,Standard,Trentino-Alto Adige
+4998,Cliente_4998,Standard,Lombardia
+4999,Cliente_4999,Standard,Calabria
+5000,Cliente_5000,Premium,Valle d'Aosta
