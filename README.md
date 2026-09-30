@@ -10,4 +10,5 @@ repository che contiene gli esercizi del corso con epicode di python, Ai e Machi
 - 08_progetto_1_previsione_vendite: esercizi del progetto 1- Previsione Vendite - del modulo 2. Python per Data Science
 - 09_creazione_avanzata_DataFrame_da_CSV_JSON_database_relazionali: esercizi di fine lezione - Creazione avanzata DataFrame da CSV, JSON e database relazionali
 - 10_creazione_dataframe_da_strutture_complesse: esercizi di fine lezione - DataFrame da strutture complesse (array NumPy, nested dict, API)
-- 11_Progetto_2_Analisi_vendite_realistica: Progetto 2 - Analisi vendite realistica 
+- 11_Progetto_2_Analisi_vendite_realistica: Progetto 2 - Analisi vendite realistica
+- 12_multiindex_e_gerarchie_gestione_avanzata: esercizi di fine lezione Multiindex e Gerarchie gestione avanzata
