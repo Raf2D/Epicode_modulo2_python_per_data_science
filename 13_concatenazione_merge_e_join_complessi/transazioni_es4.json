@@ -1,0 +1,43 @@
+[
+  {
+    "id_transazione": "TX_2026_001",
+    "id_cliente": "CLI_01",
+    "data": "2026-10-01",
+    "promozione_applicata": "SPEDIZIONE_FREE",
+    "note": "Consegnare di mattina",
+    "prodotti": [
+      { "sku": "PRD_10", "nome_prodotto": "Tastiera Wireless", "prezzo_unitario": 45.00, "quantita": 1 },
+      { "sku": "PRD_12", "nome_prodotto": "Mouse Ottico", "prezzo_unitario": 20.00, "quantita": 2 }
+    ]
+  },
+  {
+    "id_transazione": "TX_2026_002",
+    "id_cliente": "CLI_02",
+    "data": "2026-10-03",
+    "promozione_applicata": "PROMO_AUTUNNO_2026",
+    "note": null,
+    "prodotti": [
+      { "sku": "PRD_99", "nome_prodotto": "Monitor 27 Pollici", "prezzo_unitario": 250.00, "quantita": 1 }
+    ]
+  },
+  {
+    "id_transazione": "TX_2026_003",
+    "id_cliente": "CLI_01",
+    "data": "2026-10-05",
+    "promozione_applicata": null,
+    "note": null,
+    "prodotti": [
+      { "sku": "PRD_05", "nome_prodotto": "Cavo HDMI 2m", "prezzo_unitario": 12.50, "quantita": 3 }
+    ]
+  },
+  {
+    "id_transazione": "TX_2026_004",
+    "id_cliente": "CLI_03",
+    "data": "2026-10-06",
+    "promozione_applicata": "PROMO_INVALIDA",
+    "note": "Codice non riconosciuto a sistema",
+    "prodotti": [
+      { "sku": "PRD_20", "nome_prodotto": "Cuffie Bluetooth", "prezzo_unitario": 80.00, "quantita": 1 }
+    ]
+  }
+]

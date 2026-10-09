@@ -1,0 +1,26 @@
+[
+  {
+    "id_bonus": "BONUS_100",
+    "id_transazione": "TX_2026_001",
+    "id_cliente": "CLI_01",
+    "tipo_bonus": "Punti Doppi",
+    "punti_esperienza": 200,
+    "cashback_eur": null
+  },
+  {
+    "id_bonus": "BONUS_101",
+    "id_transazione": "TX_2026_002",
+    "id_cliente": "CLI_02",
+    "tipo_bonus": "Cashback Autunno",
+    "punti_esperienza": null,
+    "cashback_eur": 15.50
+  },
+  {
+    "id_bonus": "BONUS_102",
+    "id_transazione": null,
+    "id_cliente": "CLI_03",
+    "tipo_bonus": "Premio Compleanno",
+    "punti_esperienza": 50,
+    "cashback_eur": 10.00
+  }
+]

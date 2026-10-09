@@ -1,0 +1,94 @@
+[
+  {
+    "id_vendita": "TX_2026_001",
+    "data_ora": "2026-10-08T10:15:30",
+    "stato": "Completato",
+    "cliente": {
+      "id_cliente": "C001",
+      "nome": "Mario",
+      "cognome": "Rossi",
+      "tipo_account": "Premium"
+    },
+    "prodotti": [
+      {
+        "id_prodotto": "P_101",
+        "nome": "Smartphone X",
+        "categoria": "Elettronica",
+        "quantita": 1,
+        "prezzo_unitario": 599.99
+      },
+      {
+        "id_prodotto": "P_202",
+        "nome": "Cover Protettiva",
+        "categoria": "Accessori",
+        "quantita": 2,
+        "prezzo_unitario": 15.00
+      }
+    ],
+    "pagamento": {
+      "metodo": "Carta di Credito",
+      "importo_totale": 629.99,
+      "valuta": "EUR"
+    },
+    "promozione_applicata": "SPEDIZIONE_FREE"
+  },
+  {
+    "id_vendita": "TX_2026_002",
+    "data_ora": "2026-10-08T11:42:10",
+    "stato": "In lavorazione",
+    "cliente": {
+      "id_cliente": "C002",
+      "nome": "Giulia",
+      "cognome": "Bianchi",
+      "tipo_account": "Standard"
+    },
+    "prodotti": [
+      {
+        "id_prodotto": "P_305",
+        "nome": "Felpa Cotone",
+        "categoria": "Abbigliamento",
+        "quantita": 1,
+        "prezzo_unitario": 45.00
+      }
+    ],
+    "pagamento": {
+      "metodo": "PayPal",
+      "importo_totale": 36.00,
+      "valuta": "EUR"
+    },
+    "promozione_applicata": "PROMO_AUTUNNO_2026"
+  },
+  {
+    "id_vendita": "TX_2026_003",
+    "data_ora": "2026-10-08T14:05:00",
+    "stato": "Completato",
+    "cliente": {
+      "id_cliente": "C004",
+      "nome": "Elena",
+      "cognome": "Russo",
+      "tipo_account": "Standard"
+    },
+    "prodotti": [
+      {
+        "id_prodotto": "P_401",
+        "nome": "Caffettiera",
+        "categoria": "Casa",
+        "quantita": 1,
+        "prezzo_unitario": 35.00
+      },
+      {
+        "id_prodotto": "P_402",
+        "nome": "Set Tazzine",
+        "categoria": "Casa",
+        "quantita": 1,
+        "prezzo_unitario": 20.00
+      }
+    ],
+    "pagamento": {
+      "metodo": "Bonifico",
+      "importo_totale": 55.00,
+      "valuta": "EUR"
+    },
+    "promozione_applicata": null
+  }
+]

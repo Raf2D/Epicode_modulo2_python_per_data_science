@@ -1,0 +1,44 @@
+[
+  {
+    "id_promozione": "PROMO_AUTUNNO_2026",
+    "nome": "Sconto Autunno 20%",
+    "tipo_sconto": "Percentuale",
+    "valore_sconto": 20.0,
+    "spesa_minima": 50.00,
+    "attiva": true,
+    "periodo": {
+      "data_inizio": "2026-10-01",
+      "data_fine": "2026-10-31"
+    },
+    "canali": ["Online", "App"],
+    "categorie_incluse": ["Abbigliamento", "Accessori"]
+  },
+  {
+    "id_promozione": "SPEDIZIONE_FREE",
+    "nome": "Spedizione Gratuita",
+    "tipo_sconto": "Fisso",
+    "valore_sconto": 6.90,
+    "spesa_minima": 30.00,
+    "attiva": true,
+    "periodo": {
+      "data_inizio": "2026-01-01",
+      "data_fine": "2026-12-31"
+    },
+    "canali": ["Online"],
+    "categorie_incluse": ["Tutte"]
+  },
+  {
+    "id_promozione": "VIP_10_EURO",
+    "nome": "Buono VIP 10€",
+    "tipo_sconto": "Fisso",
+    "valore_sconto": 10.0,
+    "spesa_minima": 80.00,
+    "attiva": false,
+    "periodo": {
+      "data_inizio": "2026-09-01",
+      "data_fine": "2026-09-15"
+    },
+    "canali": ["Online", "Negozio Fisico"],
+    "categorie_incluse": ["Elettronica"]
+  }
+]
