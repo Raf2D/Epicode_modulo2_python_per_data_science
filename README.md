@@ -13,3 +13,4 @@ repository che contiene gli esercizi del corso con epicode di python, Ai e Machi
 - 11_Progetto_2_Analisi_vendite_realistica: Progetto 2 - Analisi vendite realistica
 - 12_multiindex_e_gerarchie_gestione_avanzata: esercizi di fine lezione Multiindex e Gerarchie gestione avanzata
 - 13_concatenazione_merge_e_join_complessi: esercizi di fine lezione Concatenazione merge e join complessi
+- 14_indicizzazione_avanzata_loc_iloc_query_boolean_indexing: esercizi di file lezione Indicizzazione avanzata loc, iloc, query, boolean indexing
