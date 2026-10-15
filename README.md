@@ -14,4 +14,5 @@ repository che contiene gli esercizi del corso con epicode di python, Ai e Machi
 - 12_multiindex_e_gerarchie_gestione_avanzata: esercizi di fine lezione Multiindex e Gerarchie gestione avanzata
 - 13_concatenazione_merge_e_join_complessi: esercizi di fine lezione Concatenazione merge e join complessi
 - 14_indicizzazione_avanzata_loc_iloc_query_boolean_indexing: esercizi di fine lezione Indicizzazione avanzata loc, iloc, query, boolean indexing
-- 15_operazioni_in_place_copy_vs_view_e_sicurezza_dei_dati: esercizi di file lezione lezione Operazioni in place, copy vs view e sicurezza dei dati
+- 15_operazioni_in_place_copy_vs_view_e_sicurezza_dei_dati: esercizi di fine lezione Operazioni in place, copy vs view e sicurezza dei dati
+- 16_serializzazione_efficiente_parquet_feather_hdf5: esercizi di fine lezione Serializzazione efficiente: parquet, feather e hdf5
