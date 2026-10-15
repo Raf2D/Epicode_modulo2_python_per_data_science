@@ -16,3 +16,4 @@ repository che contiene gli esercizi del corso con epicode di python, Ai e Machi
 - 14_indicizzazione_avanzata_loc_iloc_query_boolean_indexing: esercizi di fine lezione Indicizzazione avanzata loc, iloc, query, boolean indexing
 - 15_operazioni_in_place_copy_vs_view_e_sicurezza_dei_dati: esercizi di fine lezione Operazioni in place, copy vs view e sicurezza dei dati
 - 16_serializzazione_efficiente_parquet_feather_hdf5: esercizi di fine lezione Serializzazione efficiente: parquet, feather e hdf5
+- 17_progetto_3: progetto 3 di fine argomento appartenente al modulo 2 Python per Data Sciencw
