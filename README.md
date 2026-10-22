@@ -18,3 +18,4 @@ repository che contiene gli esercizi del corso con epicode di python, Ai e Machi
 - 16_serializzazione_efficiente_parquet_feather_hdf5: esercizi di fine lezione Serializzazione efficiente: parquet, feather e hdf5
 - 17_progetto_3: progetto 3 di fine argomento appartenente al modulo 2 Python per Data Science
 - 18_gestione_dataset_di_grandi_dimensioni_con_chunking_e_streaming: esercizi della lezione omonima
+- 19_ottimizzazione_avanzata_e_debug_delle_operazioni_su_dataframe: esercizi della lezione omonima
