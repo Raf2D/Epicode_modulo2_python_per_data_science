@@ -19,3 +19,4 @@ repository che contiene gli esercizi del corso con epicode di python, Ai e Machi
 - 17_progetto_3: progetto 3 di fine argomento appartenente al modulo 2 Python per Data Science
 - 18_gestione_dataset_di_grandi_dimensioni_con_chunking_e_streaming: esercizi della lezione omonima
 - 19_ottimizzazione_avanzata_e_debug_delle_operazioni_su_dataframe: esercizi della lezione omonima
+- 20_fondamenti_avanzati_di_matplotlib_per_data_science: esercizi di fine lezione
